@@ -1,0 +1,87 @@
+12:04:04 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+12:04:04 INF [API] listening addr=127.0.0.1:38553
+12:04:05 INF [Config] initial compatible provider name=🍃 应用净化
+12:04:05 INF [Config] initial compatible provider name=📺 哔哩哔哩
+12:04:05 INF [Config] initial compatible provider name=🍎 苹果服务
+12:04:05 INF [Config] initial compatible provider name=🇯🇵 日本节点
+12:04:05 INF [Config] initial compatible provider name=🤖 ChatBot
+12:04:05 INF [Config] initial compatible provider name=🎥 奈飞节点
+12:04:05 INF [Config] initial compatible provider name=🎯 全球直连
+12:04:05 INF [Config] initial compatible provider name=🌍 国外媒体
+12:04:05 INF [Config] initial compatible provider name=✔ ZJU内网
+12:04:05 INF [Config] initial compatible provider name=📲 电报消息
+12:04:05 INF [Config] initial compatible provider name=🛡️ 隐私防护
+12:04:05 INF [Config] initial compatible provider name=🇰🇷 韩国节点
+12:04:05 INF [Config] initial compatible provider name=🇭🇰 香港节点
+12:04:05 INF [Config] initial compatible provider name=🚀 节点选择
+12:04:05 INF [Config] initial compatible provider name=✉️ 通知公告
+12:04:05 INF [Config] initial compatible provider name=🇸🇬 狮城节点
+12:04:05 INF [Config] initial compatible provider name=🎶 网易音乐
+12:04:05 INF [Config] initial compatible provider name=Ⓜ️ 微软服务
+12:04:05 INF [Config] initial compatible provider name=📢 谷歌FCM
+12:04:05 INF [Config] initial compatible provider name=🎥 奈飞视频
+12:04:05 INF [Config] initial compatible provider name=📺 巴哈姆特
+12:04:05 INF [Config] initial compatible provider name=Ⓜ️ 微软云盘
+12:04:05 INF [Config] initial compatible provider name=🌏 国内媒体
+12:04:05 INF [Config] initial compatible provider name=🚀 手动切换
+12:04:05 INF [Config] initial compatible provider name=🇺🇲 美国节点
+12:04:05 INF [Config] initial compatible provider name=🔮 负载均衡
+12:04:05 INF [Config] initial compatible provider name=♻️ 自动选择
+12:04:05 INF [Config] initial compatible provider name=🐟 漏网之鱼
+12:04:05 INF [Config] initial compatible provider name=📹 油管视频
+12:04:05 INF [Config] initial compatible provider name=🇨🇳 台湾节点
+12:04:05 INF [Config] initial compatible provider name=🔯 故障转移
+12:04:05 INF [Config] initial compatible provider name=📃 ZJU More Scholar
+12:04:05 INF [Config] initial compatible provider name=🆎 AdBlock
+12:04:05 INF [Config] initial compatible provider name=🎮 游戏平台
+12:04:05 INF [Config] initial compatible provider name=🛑 广告拦截
+12:04:06 INF [Inbound] TUN listening iface=utun gateway=198.18.0.1
+12:04:07 INF [TCP] connected lAddr=198.18.0.1:37958 rAddr=185.125.190.49:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:07 INF [TCP] connected lAddr=198.18.0.1:40914 rAddr=185.125.190.48:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:07 INF [TCP] connected lAddr=198.18.0.1:56862 rAddr=35.232.111.17:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:08 INF [TCP] connected lAddr=198.18.0.1:37968 rAddr=185.125.190.49:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:14 INF [TCP] connected lAddr=198.18.0.1:56502 rAddr=142.251.42.237:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:14 INF [TCP] connected lAddr=198.18.0.1:57262 rAddr=74.86.228.110:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:14 INF [TCP] connected lAddr=198.18.0.1:32868 rAddr=172.217.160.106:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:14 INF [TCP] connected lAddr=198.18.0.1:39452 rAddr=120.253.253.226:443 mode=rule rule=IPCIDR(120.253.253.226/32) proxy=🚀 节点选择[GLaDOS-H2-00]
+12:04:14 INF [TCP] connected lAddr=198.18.0.1:57290 rAddr=74.86.228.110:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:14 INF [TCP] connected lAddr=198.18.0.1:57276 rAddr=74.86.228.110:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:14 INF [TCP] connected lAddr=198.18.0.1:57272 rAddr=74.86.228.110:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:14 INF [TCP] connected lAddr=198.18.0.1:53598 rAddr=10.10.98.98:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=✔ ZJU内网[DIRECT]
+12:04:14 INF [TCP] connected lAddr=198.18.0.1:41978 rAddr=10.10.98.77:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=✔ ZJU内网[DIRECT]
+12:04:15 INF [TCP] connected lAddr=198.18.0.1:32902 rAddr=108.177.125.188:5228 mode=rule rule=IPCIDR(108.177.125.188/32) proxy=📢 谷歌FCM[DIRECT]
+12:04:15 INF [TCP] connected lAddr=198.18.0.1:57298 rAddr=74.86.228.110:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:15 INF [TCP] connected lAddr=198.18.0.1:57702 rAddr=142.251.42.234:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:15 INF [TCP] connected lAddr=198.18.0.1:60898 rAddr=192.64.119.35:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:15 INF [TCP] connected lAddr=198.18.0.1:60884 rAddr=192.64.119.35:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:15 INF [TCP] connected lAddr=198.18.0.1:57718 rAddr=142.251.42.234:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:15 INF [TCP] connected lAddr=198.18.0.1:57716 rAddr=142.251.42.234:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:16 INF [TCP] connected lAddr=198.18.0.1:33674 rAddr=120.253.255.34:443 mode=rule rule=IPCIDR(120.253.255.34/32) proxy=🚀 节点选择[GLaDOS-H2-00]
+12:04:16 INF [TCP] connected lAddr=198.18.0.1:57318 rAddr=74.86.228.110:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:16 INF [TCP] connected lAddr=198.18.0.1:57310 rAddr=74.86.228.110:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:16 INF [TCP] connected lAddr=198.18.0.1:35738 rAddr=142.251.8.100:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:16 INF [TCP] connected lAddr=198.18.0.1:33676 rAddr=120.253.255.34:443 mode=rule rule=IPCIDR(120.253.255.34/32) proxy=🚀 节点选择[GLaDOS-H2-00]
+12:04:16 INF [TCP] connected lAddr=198.18.0.1:40932 rAddr=172.217.163.46:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:16 INF [TCP] connected lAddr=198.18.0.1:57314 rAddr=74.86.228.110:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:16 INF [TCP] connected lAddr=198.18.0.1:40920 rAddr=172.217.163.46:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:16 INF [TCP] connected lAddr=198.18.0.1:57744 rAddr=142.251.42.234:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:16 INF [TCP] connected lAddr=198.18.0.1:57754 rAddr=142.251.42.234:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:16 INF [TCP] connected lAddr=198.18.0.1:44788 rAddr=142.251.42.238:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:16 INF [TCP] connected lAddr=198.18.0.1:35746 rAddr=142.251.8.100:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:16 INF [TCP] connected lAddr=198.18.0.1:57734 rAddr=142.251.42.234:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[GLaDOS-H2-00]
+12:04:33 INF [TCP] connected lAddr=198.18.0.1:50908 rAddr=74.86.228.110:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[🇭🇰 GLaDOS-HK-01]
+12:04:33 INF [TCP] connected lAddr=198.18.0.1:50922 rAddr=74.86.228.110:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[🇭🇰 GLaDOS-HK-01]
+12:04:33 INF [TCP] connected lAddr=198.18.0.1:50926 rAddr=74.86.228.110:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[🇭🇰 GLaDOS-HK-01]
+12:04:34 INF [TCP] connected lAddr=198.18.0.1:48504 rAddr=10.10.98.77:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=✔ ZJU内网[DIRECT]
+12:04:45 INF [TCP] connected lAddr=198.18.0.1:39934 rAddr=120.253.255.34:443 mode=rule rule=IPCIDR(120.253.255.34/32) proxy=🚀 节点选择[🇭🇰 GLaDOS-HK-01]
+12:05:12 INF [UDP] connected lAddr=198.18.0.1:45720 rAddr=120.253.253.226:443 mode=rule rule=IPCIDR(120.253.253.226/32) proxy=🚀 节点选择[🇭🇰 GLaDOS-HK-01]
+12:05:13 INF [TCP] connected lAddr=198.18.0.1:55976 rAddr=120.253.253.226:443 mode=rule rule=IPCIDR(120.253.253.226/32) proxy=🚀 节点选择[🇭🇰 GLaDOS-HK-01]
+12:05:13 INF [TCP] connected lAddr=198.18.0.1:42842 rAddr=172.217.163.46:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[🇭🇰 GLaDOS-HK-01]
+12:05:13 INF [TCP] connected lAddr=198.18.0.1:50950 rAddr=120.253.255.34:443 mode=rule rule=IPCIDR(120.253.255.34/32) proxy=🚀 节点选择[🇭🇰 GLaDOS-HK-01]
+12:05:14 INF [TCP] connected lAddr=198.18.0.1:32966 rAddr=120.253.255.162:443 mode=rule rule=IPCIDR(120.253.255.162/32) proxy=🚀 节点选择[🇭🇰 GLaDOS-HK-01]
+12:05:15 INF [TCP] connected lAddr=198.18.0.1:50966 rAddr=120.253.255.34:443 mode=rule rule=IPCIDR(120.253.255.34/32) proxy=🚀 节点选择[🇭🇰 GLaDOS-HK-01]
+12:05:18 INF [TCP] connected lAddr=198.18.0.1:48936 rAddr=74.86.228.110:443 mode=rule rule=Match() proxy=🐟 漏网之鱼[🇭🇰 GLaDOS-HK-01]
+12:05:22 INF [TCP] connected lAddr=198.18.0.1:59280 rAddr=34.122.121.32:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[🇭🇰 GLaDOS-HK-01]
+12:05:23 INF [TCP] connected lAddr=198.18.0.1:60502 rAddr=120.253.253.97:443 mode=rule rule=GeoIP(CN) proxy=🎯 全球直连[DIRECT]
+12:05:23 INF [TCP] connected lAddr=198.18.0.1:60874 rAddr=120.253.253.194:443 mode=rule rule=GeoIP(CN) proxy=🎯 全球直连[DIRECT]
+12:05:23 INF [TCP] connected lAddr=198.18.0.1:54936 rAddr=185.125.190.17:80 mode=rule rule=Match() proxy=🐟 漏网之鱼[🇭🇰 GLaDOS-HK-01]

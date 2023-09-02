@@ -1,0 +1,181 @@
+15:16:33 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+15:16:33 INF [API] listening addr=127.0.0.1:40183
+15:16:34 INF [Config] initial compatible provider name=Auto-Fast
+15:16:34 INF [Config] initial compatible provider name=Auto
+15:16:34 INF [Config] initial compatible provider name=Express
+15:16:34 INF [Config] initial compatible provider name=Video
+15:16:34 INF [Config] initial compatible provider name=Auto-Failover
+15:16:34 INF [Config] initial compatible provider name=Auto-Edge
+15:16:34 INF [Config] initial compatible provider name=Proxy
+15:16:34 INF [Config] initial compatible provider name=NETFLIX
+15:16:34 INF [Config] initial compatible provider name=OPENAI-NOT-STABLE
+15:16:34 INF [Inbound] TUN listening iface=utun gateway=198.18.0.1
+15:16:34 INF [TCP] connected lAddr=198.18.0.1:39374 rAddr=35.232.111.17:80 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:34 INF [TCP] connected lAddr=198.18.0.1:47578 rAddr=185.125.190.18:80 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:34 INF [TCP] connected lAddr=198.18.0.1:39372 rAddr=35.232.111.17:80 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:45 INF [TCP] connected lAddr=198.18.0.1:34468 rAddr=13.107.42.16:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-HK-01]
+15:16:45 INF [TCP] connected lAddr=198.18.0.1:59508 rAddr=65.49.26.98:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-HK-01]
+15:16:45 INF [TCP] connected lAddr=198.18.0.1:52574 rAddr=13.107.21.239:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-HK-01]
+15:16:45 INF [TCP] connected lAddr=198.18.0.1:59514 rAddr=65.49.26.98:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-HK-01]
+15:16:46 INF [TCP] connected lAddr=198.18.0.1:47424 rAddr=183.255.104.58:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:16:47 INF [TCP] connected lAddr=198.18.0.1:52760 rAddr=13.107.213.50:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-HK-01]
+15:16:47 INF [TCP] connected lAddr=198.18.0.1:52782 rAddr=13.107.213.50:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-HK-01]
+15:16:47 INF [TCP] connected lAddr=198.18.0.1:43038 rAddr=13.107.21.239:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-HK-01]
+15:16:49 INF [TCP] connected lAddr=198.18.0.1:34042 rAddr=40.74.78.229:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-HK-01]
+15:16:50 WRN [TCP] dial failed error=78bfe44.h1.gladns.com:2377 connect error: dial tcp4 45.11.104.59:2377: i/o timeout proxy=Proxy lAddr=198.18.0.1:52586 rAddr=13.107.21.239:443 rule=Match rulePayload=
+15:16:52 WRN [TCP] dial failed error=78bfe44.h1.gladns.com:2377 connect error: dial tcp4 45.11.104.59:2377: i/o timeout proxy=Proxy lAddr=198.18.0.1:43032 rAddr=13.107.21.239:443 rule=Match rulePayload=
+15:16:52 WRN [TCP] dial failed error=78bfe44.h1.gladns.com:2377 connect error: dial tcp4 45.11.104.59:2377: i/o timeout proxy=Proxy lAddr=198.18.0.1:52806 rAddr=13.107.213.50:443 rule=Match rulePayload=
+15:16:52 WRN [TCP] dial failed error=78bfe44.h1.gladns.com:2377 connect error: dial tcp4 45.11.104.59:2377: i/o timeout proxy=Proxy lAddr=198.18.0.1:52798 rAddr=13.107.213.50:443 rule=Match rulePayload=
+15:16:52 WRN [TCP] dial failed error=78bfe44.h1.gladns.com:2377 connect error: dial tcp4 45.11.104.59:2377: i/o timeout proxy=Proxy lAddr=198.18.0.1:52768 rAddr=13.107.213.50:443 rule=Match rulePayload=
+15:16:52 WRN [TCP] dial failed error=78bfe44.h1.gladns.com:2377 connect error: dial tcp4 45.11.104.59:2377: i/o timeout proxy=Proxy lAddr=198.18.0.1:52750 rAddr=13.107.213.50:443 rule=Match rulePayload=
+15:16:53 INF [TCP] connected lAddr=198.18.0.1:33096 rAddr=120.253.253.226:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:16:53 INF [TCP] connected lAddr=198.18.0.1:55150 rAddr=120.253.253.233:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:16:53 INF [TCP] connected lAddr=198.18.0.1:47482 rAddr=142.251.42.237:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:53 INF [TCP] connected lAddr=198.18.0.1:41430 rAddr=172.217.160.106:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:54 INF [TCP] connected lAddr=198.18.0.1:60812 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:54 INF [TCP] connected lAddr=198.18.0.1:60826 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:54 INF [TCP] connected lAddr=198.18.0.1:60838 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:54 WRN [TCP] dial failed error=78bfe44.h1.gladns.com:2377 connect error: dial tcp4 45.11.104.59:2377: i/o timeout proxy=Proxy lAddr=198.18.0.1:54626 rAddr=20.189.173.8:443 rule=Match rulePayload=
+15:16:54 INF [TCP] connected lAddr=198.18.0.1:60840 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:54 INF [TCP] connected lAddr=198.18.0.1:45102 rAddr=172.217.163.46:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:54 INF [TCP] connected lAddr=198.18.0.1:44330 rAddr=74.125.203.138:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:55 INF [TCP] connected lAddr=198.18.0.1:46604 rAddr=172.217.163.42:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:55 INF [TCP] connected lAddr=198.18.0.1:38794 rAddr=172.67.146.62:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:55 INF [TCP] connected lAddr=198.18.0.1:58610 rAddr=172.67.146.62:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:55 INF [TCP] connected lAddr=198.18.0.1:58620 rAddr=172.67.146.62:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:55 INF [TCP] connected lAddr=198.18.0.1:58630 rAddr=172.67.146.62:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:55 INF [TCP] connected lAddr=198.18.0.1:58644 rAddr=172.67.146.62:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:55 INF [TCP] connected lAddr=198.18.0.1:58656 rAddr=172.67.146.62:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:55 INF [TCP] connected lAddr=198.18.0.1:50404 rAddr=120.253.250.226:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:16:55 INF [TCP] connected lAddr=198.18.0.1:50408 rAddr=120.253.250.226:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:16:56 INF [TCP] connected lAddr=198.18.0.1:36842 rAddr=108.177.125.188:5228 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:56 INF [TCP] connected lAddr=198.18.0.1:50328 rAddr=172.217.163.46:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:56 INF [TCP] connected lAddr=198.18.0.1:37722 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:56 INF [TCP] connected lAddr=198.18.0.1:37716 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:56 INF [TCP] connected lAddr=198.18.0.1:37718 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:56 INF [TCP] connected lAddr=198.18.0.1:50330 rAddr=172.217.163.46:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:56 INF [TCP] connected lAddr=198.18.0.1:50340 rAddr=172.217.163.46:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:56 INF [TCP] connected lAddr=198.18.0.1:45120 rAddr=104.16.56.101:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:58 INF [TCP] connected lAddr=198.18.0.1:38986 rAddr=104.18.7.183:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:58 INF [TCP] connected lAddr=198.18.0.1:38100 rAddr=172.217.163.42:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:58 INF [TCP] connected lAddr=198.18.0.1:59538 rAddr=54.178.50.207:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:58 INF [TCP] connected lAddr=198.18.0.1:59524 rAddr=10.10.98.77:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+15:16:58 INF [TCP] connected lAddr=198.18.0.1:59962 rAddr=10.10.98.98:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+15:16:58 INF [TCP] connected lAddr=198.18.0.1:38106 rAddr=172.217.163.42:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:58 INF [TCP] connected lAddr=198.18.0.1:38102 rAddr=172.217.163.42:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:58 INF [TCP] connected lAddr=198.18.0.1:59558 rAddr=54.178.50.207:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:58 INF [TCP] connected lAddr=198.18.0.1:59546 rAddr=54.178.50.207:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:58 INF [TCP] connected lAddr=198.18.0.1:38992 rAddr=104.18.7.183:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:58 INF [TCP] connected lAddr=198.18.0.1:39000 rAddr=104.18.7.183:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:16:59 INF [TCP] connected lAddr=198.18.0.1:45124 rAddr=104.16.56.101:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:00 INF [TCP] connected lAddr=198.18.0.1:57566 rAddr=34.120.195.249:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:00 INF [TCP] connected lAddr=198.18.0.1:35938 rAddr=120.253.253.233:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:17:00 INF [TCP] connected lAddr=198.18.0.1:49082 rAddr=104.18.6.183:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:00 INF [TCP] connected lAddr=198.18.0.1:37724 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:00 INF [TCP] connected lAddr=198.18.0.1:37736 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:01 INF [UDP] connected lAddr=198.18.0.1:60585 rAddr=120.253.253.233:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:17:01 INF [TCP] connected lAddr=198.18.0.1:35952 rAddr=120.253.253.233:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:17:01 INF [TCP] connected lAddr=198.18.0.1:47316 rAddr=52.206.137.79:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:01 INF [TCP] connected lAddr=198.18.0.1:48436 rAddr=120.253.255.33:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:17:01 INF [UDP] connected lAddr=198.18.0.1:50573 rAddr=120.253.255.33:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:17:01 INF [TCP] connected lAddr=198.18.0.1:45852 rAddr=104.22.3.142:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:01 INF [TCP] connected lAddr=198.18.0.1:37748 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:01 INF [UDP] connected lAddr=198.18.0.1:34863 rAddr=120.253.253.233:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:17:02 INF [TCP] connected lAddr=198.18.0.1:52010 rAddr=44.231.53.8:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:02 INF [TCP] connected lAddr=198.18.0.1:38490 rAddr=157.240.0.18:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:02 INF [TCP] connected lAddr=198.18.0.1:48452 rAddr=120.253.255.33:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:17:02 INF [TCP] connected lAddr=198.18.0.1:49088 rAddr=104.18.6.183:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:02 INF [TCP] connected lAddr=198.18.0.1:49240 rAddr=192.28.147.68:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:02 INF [TCP] connected lAddr=198.18.0.1:37536 rAddr=13.33.62.142:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:02 INF [TCP] connected lAddr=198.18.0.1:56584 rAddr=18.65.21.79:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:02 INF [TCP] connected lAddr=198.18.0.1:45872 rAddr=18.65.21.89:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:02 INF [TCP] connected lAddr=198.18.0.1:57406 rAddr=54.64.87.47:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:02 INF [TCP] connected lAddr=198.18.0.1:34960 rAddr=104.22.2.142:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:03 INF [TCP] connected lAddr=198.18.0.1:33556 rAddr=223.109.81.181:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:17:03 INF [TCP] connected lAddr=198.18.0.1:33554 rAddr=223.109.81.181:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:17:03 INF [TCP] connected lAddr=198.18.0.1:37384 rAddr=172.217.160.106:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:03 INF [UDP] connected lAddr=198.18.0.1:47363 rAddr=35.244.218.227:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:03 INF [TCP] connected lAddr=198.18.0.1:45368 rAddr=216.137.39.89:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:03 INF [TCP] connected lAddr=198.18.0.1:37440 rAddr=104.26.11.146:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:03 INF [TCP] connected lAddr=198.18.0.1:36036 rAddr=35.244.218.227:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:03 INF [UDP] connected lAddr=198.18.0.1:36672 rAddr=104.22.2.142:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:04 INF [TCP] connected lAddr=198.18.0.1:59564 rAddr=54.178.50.207:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:04 INF [TCP] connected lAddr=198.18.0.1:39860 rAddr=52.42.126.136:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:04 INF [TCP] connected lAddr=198.18.0.1:45792 rAddr=54.156.90.236:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:04 INF [TCP] connected lAddr=198.18.0.1:34966 rAddr=104.22.2.142:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:05 INF [TCP] connected lAddr=198.18.0.1:49626 rAddr=34.120.32.134:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:06 INF [UDP] connected lAddr=198.18.0.1:41954 rAddr=34.120.32.134:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:09 INF [TCP] connected lAddr=198.18.0.1:49794 rAddr=157.240.199.15:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:10 INF [UDP] connected lAddr=198.18.0.1:50330 rAddr=157.240.199.15:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:10 INF [TCP] connected lAddr=198.18.0.1:58528 rAddr=104.26.10.146:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:13 INF [TCP] connected lAddr=198.18.0.1:49638 rAddr=34.120.32.134:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:13 INF [TCP] connected lAddr=198.18.0.1:49648 rAddr=34.120.32.134:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:14 INF [UDP] connected lAddr=198.18.0.1:37522 rAddr=34.120.32.134:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:15 INF [TCP] connected lAddr=198.18.0.1:58534 rAddr=104.26.10.146:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:15 INF [TCP] connected lAddr=198.18.0.1:58548 rAddr=104.26.10.146:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:16 INF [TCP] connected lAddr=198.18.0.1:57162 rAddr=172.217.160.106:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:16 INF [TCP] connected lAddr=198.18.0.1:57168 rAddr=172.217.160.106:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:20 INF [TCP] connected lAddr=198.18.0.1:34800 rAddr=172.67.146.62:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:20 INF [TCP] connected lAddr=198.18.0.1:34806 rAddr=172.67.146.62:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:20 INF [TCP] connected lAddr=198.18.0.1:34810 rAddr=172.67.146.62:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:20 INF [TCP] connected lAddr=198.18.0.1:34818 rAddr=172.67.146.62:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:20 INF [TCP] connected lAddr=198.18.0.1:34812 rAddr=172.67.146.62:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:40 INF [TCP] connected lAddr=198.18.0.1:47450 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:41 INF [TCP] connected lAddr=198.18.0.1:47466 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:41 INF [TCP] connected lAddr=198.18.0.1:47482 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:41 INF [TCP] connected lAddr=198.18.0.1:47484 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:41 INF [TCP] connected lAddr=198.18.0.1:47498 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:42 INF [TCP] connected lAddr=198.18.0.1:47506 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:53 INF [UDP] connected lAddr=198.18.0.1:57466 rAddr=120.253.253.226:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:17:53 INF [TCP] connected lAddr=198.18.0.1:45416 rAddr=120.253.253.226:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:17:53 INF [TCP] connected lAddr=198.18.0.1:35882 rAddr=120.253.250.226:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:17:53 INF [TCP] connected lAddr=198.18.0.1:40314 rAddr=172.217.163.46:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:17:59 INF [TCP] connected lAddr=198.18.0.1:47952 rAddr=120.253.255.162:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:18:10 INF [TCP] connected lAddr=198.18.0.1:37264 rAddr=120.253.255.162:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:18:19 INF [TCP] connected lAddr=198.18.0.1:59826 rAddr=120.253.255.162:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:18:19 INF [TCP] connected lAddr=198.18.0.1:54742 rAddr=120.253.253.98:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:18:19 INF [UDP] connected lAddr=198.18.0.1:46810 rAddr=120.253.253.98:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:18:36 INF [TCP] connected lAddr=198.18.0.1:41336 rAddr=104.18.6.183:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:18:37 INF [TCP] connected lAddr=198.18.0.1:41340 rAddr=104.18.6.183:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:18:52 INF [TCP] connected lAddr=198.18.0.1:44968 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:18:52 INF [TCP] connected lAddr=198.18.0.1:44982 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:18:55 INF [TCP] connected lAddr=198.18.0.1:44988 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:18:55 INF [TCP] connected lAddr=198.18.0.1:43224 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:18:55 INF [TCP] connected lAddr=198.18.0.1:43238 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:18:55 INF [TCP] connected lAddr=198.18.0.1:43244 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:35 INF [TCP] connected lAddr=198.18.0.1:48844 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:35 INF [TCP] connected lAddr=198.18.0.1:48868 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:35 INF [TCP] connected lAddr=198.18.0.1:48866 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:35 INF [TCP] connected lAddr=198.18.0.1:48882 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:35 INF [TCP] connected lAddr=198.18.0.1:48860 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:36 INF [TCP] connected lAddr=198.18.0.1:59802 rAddr=104.244.46.93:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:38 INF [TCP] connected lAddr=198.18.0.1:50386 rAddr=202.89.233.100:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:19:38 INF [TCP] connected lAddr=198.18.0.1:58284 rAddr=13.107.21.200:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:38 INF [TCP] connected lAddr=198.18.0.1:50398 rAddr=202.89.233.100:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:19:38 INF [TCP] connected lAddr=198.18.0.1:50406 rAddr=202.89.233.100:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:19:39 INF [TCP] connected lAddr=198.18.0.1:52452 rAddr=23.49.104.40:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:39 INF [TCP] connected lAddr=198.18.0.1:40628 rAddr=20.205.115.81:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:39 INF [TCP] connected lAddr=198.18.0.1:37806 rAddr=104.78.107.61:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:39 INF [TCP] connected lAddr=198.18.0.1:39856 rAddr=20.189.173.11:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:39 INF [TCP] connected lAddr=198.18.0.1:46800 rAddr=223.109.81.181:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:19:40 INF [TCP] connected lAddr=198.18.0.1:39864 rAddr=20.189.173.11:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:40 INF [TCP] connected lAddr=198.18.0.1:58300 rAddr=13.107.21.200:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:41 INF [TCP] connected lAddr=198.18.0.1:41968 rAddr=112.47.52.53:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:19:41 INF [TCP] connected lAddr=198.18.0.1:42748 rAddr=202.89.233.96:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:19:41 INF [TCP] connected lAddr=198.18.0.1:42000 rAddr=112.47.52.53:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:19:41 INF [TCP] connected lAddr=198.18.0.1:41986 rAddr=112.47.52.53:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:19:41 INF [TCP] connected lAddr=198.18.0.1:42006 rAddr=112.47.52.53:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:19:41 INF [TCP] connected lAddr=198.18.0.1:41982 rAddr=112.47.52.53:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:19:41 INF [TCP] connected lAddr=198.18.0.1:41992 rAddr=112.47.52.53:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:19:48 INF [TCP] connected lAddr=198.18.0.1:46622 rAddr=172.217.163.42:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:48 INF [TCP] connected lAddr=198.18.0.1:46630 rAddr=172.217.163.42:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:19:48 INF [TCP] connected lAddr=198.18.0.1:46642 rAddr=172.217.163.42:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:20:00 INF [TCP] connected lAddr=198.18.0.1:58706 rAddr=172.217.163.46:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:20:04 INF [UDP] connected lAddr=198.18.0.1:41301 rAddr=120.253.255.162:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:20:15 INF [TCP] connected lAddr=198.18.0.1:53620 rAddr=223.109.81.181:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:20:15 INF [TCP] connected lAddr=198.18.0.1:53608 rAddr=223.109.81.181:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:20:15 INF [TCP] connected lAddr=198.18.0.1:35828 rAddr=120.253.255.97:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:20:24 INF [TCP] connected lAddr=198.18.0.1:38348 rAddr=185.125.190.17:80 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]
+15:20:24 INF [TCP] connected lAddr=198.18.0.1:56122 rAddr=120.253.253.161:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:20:24 INF [TCP] connected lAddr=198.18.0.1:49324 rAddr=120.253.253.2:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:20:24 INF [TCP] connected lAddr=198.18.0.1:59820 rAddr=91.189.91.49:80 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-01]

@@ -1,0 +1,220 @@
+10:12:23 INF [API] listening addr=127.0.0.1:38847
+10:12:23 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+10:12:23 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:59746 rAddr=sub.zjurule.xyz:443 proxy=DIRECT
+10:12:23 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:59728 rAddr=raw.githubusercontent.com:443 proxy=DIRECT
+10:12:23 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:59742 rAddr=update.glados-config.com:443 proxy=DIRECT
+10:12:24 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:59752 rAddr=api.github.com:443 proxy=DIRECT
+10:12:24 INF [Config] initial compatible provider name=宝贝云
+10:12:24 INF [Config] initial compatible provider name=延迟最低
+10:12:24 INF [Config] initial compatible provider name=自动选择
+10:12:24 INF [Inbound] TUN listening iface=utun gateway=198.18.0.1
+10:12:24 INF [TCP] connected lAddr=198.18.0.1:44148 rAddr=185.125.190.17:80 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:12:24 INF [TCP] connected lAddr=198.18.0.1:46008 rAddr=35.224.170.84:80 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:12:24 INF [TCP] connected lAddr=198.18.0.1:52822 rAddr=91.189.91.49:80 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:12:32 INF [TCP] connected lAddr=127.0.0.1:53658 rAddr=clientservices.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:32 INF [TCP] connected lAddr=127.0.0.1:53674 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:32 INF [TCP] connected lAddr=127.0.0.1:53682 rAddr=accounts.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:32 INF [TCP] connected lAddr=127.0.0.1:53688 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:32 INF [TCP] connected lAddr=127.0.0.1:53698 rAddr=www.googletagmanager.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:33 INF [TCP] connected lAddr=127.0.0.1:53710 rAddr=history.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:33 INF [TCP] connected lAddr=127.0.0.1:53724 rAddr=www.google.com.hk:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:33 INF [TCP] connected lAddr=127.0.0.1:53738 rAddr=www.google.com.hk:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:33 INF [TCP] connected lAddr=127.0.0.1:53754 rAddr=www.google-analytics.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:33 INF [TCP] connected lAddr=127.0.0.1:53744 rAddr=www.google.com.hk:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:33 INF [TCP] connected lAddr=127.0.0.1:53758 rAddr=optimizationguide-pa.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:34 INF [TCP] connected lAddr=127.0.0.1:53814 rAddr=api.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+10:12:34 INF [TCP] connected lAddr=127.0.0.1:53828 rAddr=file.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+10:12:34 INF [TCP] connected lAddr=127.0.0.1:53798 rAddr=clients4.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:34 INF [TCP] connected lAddr=127.0.0.1:53844 rAddr=mtalk.google.com:5228 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:34 INF [TCP] connected lAddr=127.0.0.1:53880 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:34 INF [TCP] connected lAddr=127.0.0.1:53858 rAddr=clients2.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:34 INF [TCP] connected lAddr=127.0.0.1:53862 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:34 INF [TCP] connected lAddr=127.0.0.1:53876 rAddr=clients2.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:37 INF [TCP] connected lAddr=127.0.0.1:53884 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:44 INF [TCP] connected lAddr=127.0.0.1:41718 rAddr=optimizationguide-pa.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:46 INF [TCP] connected lAddr=127.0.0.1:41726 rAddr=clients4.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:12:47 INF [TCP] connected lAddr=127.0.0.1:41728 rAddr=www.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+10:12:47 INF [TCP] connected lAddr=127.0.0.1:41730 rAddr=file.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+10:12:47 INF [TCP] connected lAddr=127.0.0.1:41744 rAddr=api.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+10:13:32 INF [TCP] connected lAddr=127.0.0.1:52090 rAddr=clientservices.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:13:32 INF [TCP] connected lAddr=127.0.0.1:52106 rAddr=clients4.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:13:32 INF [TCP] connected lAddr=127.0.0.1:52108 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:13:34 INF [TCP] connected lAddr=127.0.0.1:52124 rAddr=www.google.com.hk:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:13:34 INF [TCP] connected lAddr=127.0.0.1:52112 rAddr=accounts.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:13:37 INF [TCP] connected lAddr=127.0.0.1:52132 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:03 INF [TCP] connected lAddr=127.0.0.1:38304 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=Domain(safebrowsing.googleapis.com) proxy=DIRECT
+10:14:41 INF [TCP] connected lAddr=198.18.0.1:39942 rAddr=111.45.3.220:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:41 INF [TCP] connected lAddr=198.18.0.1:39940 rAddr=111.45.3.220:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:46 INF [TCP] connected lAddr=127.0.0.1:53156 rAddr=accounts.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:46 INF [TCP] connected lAddr=127.0.0.1:53146 rAddr=clientservices.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:46 INF [TCP] connected lAddr=127.0.0.1:53176 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:46 INF [TCP] connected lAddr=127.0.0.1:53160 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:46 INF [TCP] connected lAddr=127.0.0.1:53190 rAddr=www.google.com.hk:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:46 INF [TCP] connected lAddr=127.0.0.1:53196 rAddr=history.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:47 INF [TCP] connected lAddr=127.0.0.1:53206 rAddr=www.google.com.hk:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:47 INF [TCP] connected lAddr=127.0.0.1:53214 rAddr=clients4.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:48 INF [TCP] connected lAddr=127.0.0.1:53226 rAddr=clients2.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:48 INF [TCP] connected lAddr=127.0.0.1:53222 rAddr=mtalk.google.com:5228 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:48 INF [TCP] connected lAddr=127.0.0.1:53232 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:50 INF [TCP] connected lAddr=127.0.0.1:53248 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:52 INF [TCP] connected lAddr=127.0.0.1:36972 rAddr=history.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:52 INF [TCP] connected lAddr=127.0.0.1:36990 rAddr=history.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:52 INF [TCP] connected lAddr=127.0.0.1:36988 rAddr=history.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:53 INF [TCP] connected lAddr=127.0.0.1:36992 rAddr=www.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+10:14:54 INF [TCP] connected lAddr=127.0.0.1:36994 rAddr=catcat.cc:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:14:55 INF [TCP] connected lAddr=127.0.0.1:37004 rAddr=optimizationguide-pa.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:14:55 INF [TCP] connected lAddr=127.0.0.1:37018 rAddr=comments.srv.catcat.cc:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:14:56 INF [TCP] connected lAddr=127.0.0.1:37020 rAddr=comments.srv.catcat.cc:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:14:56 INF [TCP] connected lAddr=127.0.0.1:37024 rAddr=szclsya.me:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:14:57 INF [TCP] connected lAddr=127.0.0.1:37036 rAddr=static.cloudflareinsights.com:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:14:57 INF [TCP] connected lAddr=127.0.0.1:37040 rAddr=cloudflareinsights.com:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:14:58 INF [TCP] connected lAddr=127.0.0.1:37056 rAddr=cloudflareinsights.com:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:14:59 INF [TCP] connected lAddr=127.0.0.1:37058 rAddr=clients4.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:44 INF [TCP] connected lAddr=127.0.0.1:48758 rAddr=www.freetype.org:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:15:46 INF [TCP] connected lAddr=127.0.0.1:48772 rAddr=clientservices.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:46 INF [TCP] connected lAddr=127.0.0.1:48780 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:46 INF [TCP] connected lAddr=127.0.0.1:48778 rAddr=clients4.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:48 INF [TCP] connected lAddr=127.0.0.1:48782 rAddr=beacons.gcp.gvt2.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:15:48 INF [TCP] connected lAddr=127.0.0.1:48804 rAddr=www.google.com.hk:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:48 INF [TCP] connected lAddr=127.0.0.1:48794 rAddr=www.google.com.hk:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:48 INF [TCP] connected lAddr=127.0.0.1:48818 rAddr=www.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:49 INF [TCP] connected lAddr=127.0.0.1:48826 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:49 INF [TCP] connected lAddr=127.0.0.1:48840 rAddr=bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:49 INF [TCP] connected lAddr=127.0.0.1:48860 rAddr=aefd.nelreports.net:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:15:49 INF [TCP] connected lAddr=127.0.0.1:48852 rAddr=r.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:49 INF [TCP] connected lAddr=127.0.0.1:48842 rAddr=r.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:50 INF [TCP] connected lAddr=127.0.0.1:48890 rAddr=storage.live.com:443 mode=rule rule=DomainSuffix(live.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:50 INF [TCP] connected lAddr=127.0.0.1:48898 rAddr=www2.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:50 INF [TCP] connected lAddr=127.0.0.1:48870 rAddr=login.microsoftonline.com:443 mode=rule rule=DomainSuffix(microsoftonline.com) proxy=DIRECT
+10:15:50 INF [TCP] connected lAddr=127.0.0.1:48876 rAddr=login.microsoftonline.com:443 mode=rule rule=DomainSuffix(microsoftonline.com) proxy=DIRECT
+10:15:51 INF [TCP] connected lAddr=127.0.0.1:48910 rAddr=aadcdn.msftauth.net:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:15:51 INF [TCP] connected lAddr=127.0.0.1:48294 rAddr=c.msn.com:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:15:51 INF [TCP] connected lAddr=127.0.0.1:48302 rAddr=assets.msn.com:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:15:52 INF [TCP] connected lAddr=127.0.0.1:48310 rAddr=browser.events.data.msn.com:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:15:52 INF [TCP] connected lAddr=127.0.0.1:48322 rAddr=c.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:52 INF [TCP] connected lAddr=127.0.0.1:48324 rAddr=browser.events.data.msn.com:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:15:52 INF [TCP] connected lAddr=127.0.0.1:48336 rAddr=th.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:52 INF [TCP] connected lAddr=127.0.0.1:48346 rAddr=www.msn.com:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:15:53 INF [TCP] connected lAddr=127.0.0.1:48354 rAddr=th.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:53 INF [TCP] connected lAddr=127.0.0.1:48368 rAddr=th.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:53 INF [TCP] connected lAddr=127.0.0.1:48356 rAddr=th.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:53 INF [TCP] connected lAddr=127.0.0.1:48386 rAddr=th.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:53 INF [TCP] connected lAddr=127.0.0.1:48374 rAddr=th.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:15:53 INF [TCP] connected lAddr=198.18.0.1:45292 rAddr=112.34.111.172:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:15:53 INF [TCP] connected lAddr=198.18.0.1:45294 rAddr=112.34.111.172:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:16:00 INF [TCP] connected lAddr=127.0.0.1:48390 rAddr=r.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:16:01 INF [TCP] connected lAddr=127.0.0.1:48396 rAddr=aefd.nelreports.net:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:16:01 INF [TCP] connected lAddr=127.0.0.1:48398 rAddr=th.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:16:02 INF [TCP] connected lAddr=127.0.0.1:50028 rAddr=login.microsoftonline.com:443 mode=rule rule=DomainSuffix(microsoftonline.com) proxy=DIRECT
+10:16:02 INF [TCP] connected lAddr=127.0.0.1:50044 rAddr=browser.pipe.aria.microsoft.com:443 mode=rule rule=DomainSuffix(microsoft.com) proxy=DIRECT
+10:16:04 INF [TCP] connected lAddr=127.0.0.1:50060 rAddr=blog.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:04 INF [TCP] connected lAddr=127.0.0.1:50078 rAddr=dup.baidustatic.com:443 mode=rule rule=DomainKeyword(baidu) proxy=DIRECT
+10:16:04 INF [TCP] connected lAddr=127.0.0.1:50064 rAddr=blog.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:04 INF [TCP] connected lAddr=127.0.0.1:50096 rAddr=g.csdnimg.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:16:04 INF [TCP] connected lAddr=127.0.0.1:50088 rAddr=csdnimg.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50108 rAddr=g.csdnimg.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50118 rAddr=img-home.csdnimg.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50152 rAddr=g.csdnimg.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50132 rAddr=kunpeng.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50144 rAddr=silkroad.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50126 rAddr=hm.baidu.com:443 mode=rule rule=DomainKeyword(baidu) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50160 rAddr=passport.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50166 rAddr=blog.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50162 rAddr=statistic.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50182 rAddr=devpress-api.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50194 rAddr=passport.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50206 rAddr=redisdatarecall.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50212 rAddr=zz.bdstatic.com:443 mode=rule rule=DomainSuffix(bdstatic.com) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50216 rAddr=img-home.csdnimg.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50222 rAddr=zhanzhang.toutiao.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50234 rAddr=gsp0.baidu.com:443 mode=rule rule=DomainKeyword(baidu) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50236 rAddr=sp0.baidu.com:443 mode=rule rule=DomainKeyword(baidu) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50262 rAddr=eva.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50288 rAddr=eva.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50276 rAddr=eva.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50272 rAddr=eva.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50248 rAddr=eva.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50298 rAddr=eva.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50310 rAddr=ev.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:05 INF [TCP] connected lAddr=127.0.0.1:50304 rAddr=ev.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:11 INF [TCP] connected lAddr=127.0.0.1:50826 rAddr=www.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:16:12 INF [TCP] connected lAddr=127.0.0.1:50830 rAddr=clients4.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:16:15 INF [TCP] connected lAddr=127.0.0.1:50842 rAddr=beacon.tingyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:16:30 INF [TCP] connected lAddr=127.0.0.1:39544 rAddr=hm.baidu.com:443 mode=rule rule=DomainKeyword(baidu) proxy=DIRECT
+10:16:42 INF [TCP] connected lAddr=127.0.0.1:35764 rAddr=www.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+10:16:42 INF [TCP] connected lAddr=127.0.0.1:35786 rAddr=static.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+10:16:42 INF [TCP] connected lAddr=127.0.0.1:35776 rAddr=optimizationguide-pa.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:16:43 INF [TCP] connected lAddr=127.0.0.1:35788 rAddr=pic1.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=DIRECT
+10:16:43 INF [TCP] connected lAddr=127.0.0.1:35804 rAddr=hm.baidu.com:443 mode=rule rule=DomainKeyword(baidu) proxy=DIRECT
+10:16:43 INF [TCP] connected lAddr=127.0.0.1:35816 rAddr=static.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+10:16:43 INF [TCP] connected lAddr=127.0.0.1:35820 rAddr=pica.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=DIRECT
+10:16:43 INF [TCP] connected lAddr=127.0.0.1:35828 rAddr=api.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+10:16:44 INF [TCP] connected lAddr=127.0.0.1:35842 rAddr=api.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+10:16:44 INF [TCP] connected lAddr=127.0.0.1:35848 rAddr=sp0.baidu.com:443 mode=rule rule=DomainKeyword(baidu) proxy=DIRECT
+10:16:44 INF [TCP] connected lAddr=127.0.0.1:35862 rAddr=mqtt-web.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+10:16:45 INF [TCP] connected lAddr=127.0.0.1:35870 rAddr=picx.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=DIRECT
+10:16:45 INF [TCP] connected lAddr=127.0.0.1:35866 rAddr=picx.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=DIRECT
+10:16:45 INF [TCP] connected lAddr=127.0.0.1:35904 rAddr=118.89.204.198:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:16:45 INF [TCP] connected lAddr=127.0.0.1:35886 rAddr=datahub.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+10:16:45 INF [TCP] connected lAddr=127.0.0.1:35894 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+10:16:45 INF [TCP] connected lAddr=127.0.0.1:35908 rAddr=mqtt-web.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+10:16:46 INF [TCP] connected lAddr=127.0.0.1:35912 rAddr=apm.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+10:16:48 INF [TCP] connected lAddr=127.0.0.1:35914 rAddr=ev.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:48 INF [TCP] connected lAddr=127.0.0.1:35928 rAddr=beacons.gcp.gvt2.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:16:49 INF [TCP] connected lAddr=127.0.0.1:35958 rAddr=passport.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:16:49 INF [TCP] connected lAddr=127.0.0.1:35940 rAddr=aefd.nelreports.net:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:16:49 INF [TCP] connected lAddr=127.0.0.1:35952 rAddr=www.google.com.hk:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:16:51 INF [TCP] connected lAddr=127.0.0.1:35966 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:17:21 INF [TCP] connected lAddr=127.0.0.1:50844 rAddr=hm.baidu.com:443 mode=rule rule=DomainKeyword(baidu) proxy=DIRECT
+10:17:24 INF [TCP] connected lAddr=198.18.0.1:55624 rAddr=91.189.91.48:80 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:17:27 INF [TCP] connected lAddr=127.0.0.1:50850 rAddr=link.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+10:17:27 INF [TCP] connected lAddr=127.0.0.1:50852 rAddr=link.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+10:17:27 WRN [TCP] dial failed error=couldn't find ip: staticoffice.zhihu.com proxy=DIRECT lAddr=127.0.0.1:50858 rAddr=staticoffice.zhihu.com:443 rule=DomainSuffix rulePayload=zhihu.com
+10:17:27 WRN [TCP] dial failed error=couldn't find ip: staticoffice.zhihu.com proxy=DIRECT lAddr=127.0.0.1:50860 rAddr=staticoffice.zhihu.com:443 rule=DomainSuffix rulePayload=zhihu.com
+10:17:29 INF [TCP] connected lAddr=127.0.0.1:50876 rAddr=content-autofill.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:17:31 INF [TCP] connected lAddr=127.0.0.1:50886 rAddr=picx.zhimg.com:443 mode=rule rule=DomainSuffix(zhimg.com) proxy=DIRECT
+10:17:46 INF [TCP] connected lAddr=127.0.0.1:36990 rAddr=forum.ubuntu.org.cn:80 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:17:46 INF [TCP] connected lAddr=127.0.0.1:36998 rAddr=forum.ubuntu.org.cn:80 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:17:47 INF [TCP] connected lAddr=127.0.0.1:37026 rAddr=forum.ubuntu.org.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:17:48 INF [TCP] connected lAddr=127.0.0.1:37032 rAddr=forum.ubuntu.org.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:17:48 INF [TCP] connected lAddr=127.0.0.1:37060 rAddr=forum.ubuntu.org.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:17:48 INF [TCP] connected lAddr=127.0.0.1:37028 rAddr=forum.ubuntu.org.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:17:48 INF [TCP] connected lAddr=127.0.0.1:37046 rAddr=forum.ubuntu.org.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:17:48 INF [TCP] connected lAddr=127.0.0.1:37034 rAddr=forum.ubuntu.org.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:17:49 INF [TCP] connected lAddr=127.0.0.1:37084 rAddr=forum.ubuntu.org.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:17:49 INF [TCP] connected lAddr=127.0.0.1:37096 rAddr=forum.ubuntu.org.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:17:49 INF [TCP] connected lAddr=127.0.0.1:37074 rAddr=cdnjs.cloudflare.com:443 mode=rule rule=DomainSuffix(cloudflare.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:17:49 INF [TCP] connected lAddr=127.0.0.1:37080 rAddr=cdnjs.cloudflare.com:443 mode=rule rule=DomainSuffix(cloudflare.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:17:49 INF [TCP] connected lAddr=127.0.0.1:37106 rAddr=beacons.gcp.gvt2.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:17:51 INF [TCP] connected lAddr=127.0.0.1:48520 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:17:55 INF [TCP] connected lAddr=127.0.0.1:48532 rAddr=clients4.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:18:04 INF [TCP] connected lAddr=127.0.0.1:44618 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=Domain(safebrowsing.googleapis.com) proxy=DIRECT
+10:18:10 INF [TCP] connected lAddr=127.0.0.1:44640 rAddr=passport.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:18:10 INF [TCP] connected lAddr=127.0.0.1:44626 rAddr=beacon.tingyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:18:30 INF [TCP] connected lAddr=127.0.0.1:57334 rAddr=zhihu-web-analytics.zhihu.com:443 mode=rule rule=DomainSuffix(zhihu.com) proxy=DIRECT
+10:18:32 INF [TCP] connected lAddr=127.0.0.1:42984 rAddr=www.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:18:33 INF [TCP] connected lAddr=127.0.0.1:42990 rAddr=www.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=宝贝云[剩余流量：1.44 GB]
+10:18:38 INF [TCP] connected lAddr=127.0.0.1:43028 rAddr=csdnimg.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:18:38 INF [TCP] connected lAddr=127.0.0.1:43056 rAddr=dup.baidustatic.com:443 mode=rule rule=DomainKeyword(baidu) proxy=DIRECT
+10:18:38 INF [TCP] connected lAddr=127.0.0.1:43044 rAddr=g.csdnimg.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:18:38 INF [TCP] connected lAddr=127.0.0.1:43014 rAddr=blog.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:18:38 INF [TCP] connected lAddr=127.0.0.1:42998 rAddr=blog.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:18:38 INF [TCP] connected lAddr=127.0.0.1:43066 rAddr=kunpeng.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:18:38 INF [TCP] connected lAddr=127.0.0.1:43062 rAddr=silkroad.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:18:38 INF [TCP] connected lAddr=127.0.0.1:43082 rAddr=ev.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:18:38 INF [TCP] connected lAddr=127.0.0.1:43086 rAddr=devpress-api.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:18:38 INF [TCP] connected lAddr=127.0.0.1:43102 rAddr=img-home.csdnimg.cn:443 mode=rule rule=DomainSuffix(cn) proxy=DIRECT
+10:18:38 INF [TCP] connected lAddr=127.0.0.1:43108 rAddr=hm.baidu.com:443 mode=rule rule=DomainKeyword(baidu) proxy=DIRECT
+10:18:38 INF [TCP] connected lAddr=127.0.0.1:43126 rAddr=gsp0.baidu.com:443 mode=rule rule=DomainKeyword(baidu) proxy=DIRECT
+10:18:39 INF [TCP] connected lAddr=127.0.0.1:43116 rAddr=statistic.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:18:39 INF [TCP] connected lAddr=127.0.0.1:43140 rAddr=zhanzhang.toutiao.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:18:39 INF [TCP] connected lAddr=127.0.0.1:43146 rAddr=sp0.baidu.com:443 mode=rule rule=DomainKeyword(baidu) proxy=DIRECT
+10:18:39 INF [TCP] connected lAddr=127.0.0.1:43152 rAddr=ev.csdn.net:443 mode=rule rule=DomainSuffix(csdn.net) proxy=DIRECT
+10:18:51 INF [TCP] connected lAddr=127.0.0.1:39402 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:19:51 INF [TCP] connected lAddr=127.0.0.1:33874 rAddr=www.google.com:443 mode=rule rule=DomainKeyword(google) proxy=宝贝云[剩余流量：1.44 GB]
+10:19:56 INF [TCP] connected lAddr=198.18.0.1:52016 rAddr=223.109.81.181:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:19:56 INF [TCP] connected lAddr=198.18.0.1:52020 rAddr=223.109.81.181:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:20:56 INF [TCP] connected lAddr=198.18.0.1:51698 rAddr=34.122.121.32:80 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]
+10:20:57 INF [TCP] connected lAddr=127.0.0.1:37652 rAddr=redirector.gvt1.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:20:57 INF [TCP] connected lAddr=127.0.0.1:37654 rAddr=r3---sn-ni57rn7r.gvt1-cn.com:443 mode=rule rule=DomainKeyword(-cn) proxy=DIRECT
+10:20:57 INF [TCP] connected lAddr=198.18.0.1:36796 rAddr=185.125.190.48:80 mode=rule rule=Match() proxy=宝贝云[剩余流量：1.44 GB]

@@ -1,0 +1,17 @@
+[KFileDialog Settings]
+Recent Files[$e]=kde.kksrc,file:$HOME/Desktop/dotfiles/kde.kksrc
+Recent URLs[$e]=file:$HOME/Desktop/dotfiles/
+detailViewIconSize=16
+
+[MainWindow]
+1463x823 screen: Window-Maximized=true
+1707x960 screen: Height=775
+1707x960 screen: Width=1224
+1707x960 screen: XPosition=153
+1707x960 screen: YPosition=82
+2560x1440 screen: XPosition=878
+2560x1440 screen: YPosition=245
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABMgAAAMHAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

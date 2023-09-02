@@ -1,0 +1,73 @@
+[1]
+1707x960 screen: Height=553
+1707x960 screen: Width=1013
+1707x960 screen: XPosition=350
+1707x960 screen: YPosition=238
+Active ViewSpace=0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/UAAAIpAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[1-Splitter 0]
+Children=1-ViewSpace 0
+Orientation=1
+Sizes=1011
+
+[1-ViewSpace 0]
+Active View=
+Count=1
+Documents=\\0
+
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+URL=
+
+[General]
+Last Session=
+
+[Number]
+NumberOfWindows=1
+
+[Open Documents]
+Count=1
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/my_config/kde.kksrc
+File10[$e]=$HOME/Desktop/dotfiles/generate_dotfile.sh
+File2[$e]=$HOME/Desktop/my_config/gnome_config.txt
+File3[$e]=$HOME/.config/kde.org/UserFeedback.org.kde.kwrite.conf
+File4[$e]=$HOME/.config/flameshot/flameshot.ini
+File5[$e]=$HOME/.config/terminator/config
+File6[$e]=$HOME/.config/KDE/Sonnet.conf
+File7[$e]=$HOME/.config/fontconfig/fonts.conf
+File8[$e]=$HOME/.local/share/applications/clash.desktop
+File9[$e]=$HOME/.config/kwriterc
+Name1[$e]=kde.kksrc
+Name10[$e]=generate_dotfile.sh
+Name2[$e]=gnome_config.txt
+Name3[$e]=UserFeedback.org.kde.kwrite.conf
+Name4[$e]=flameshot.ini
+Name5[$e]=config
+Name6[$e]=Sonnet.conf
+Name7[$e]=fonts.conf
+Name8[$e]=clash.desktop
+Name9[$e]=kwriterc
+
+[WindowProperties1]
+1707x960 screen: Height=553
+1707x960 screen: Width=1013
+1707x960 screen: XPosition=350
+1707x960 screen: YPosition=238
+ClassName=KateMainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAA/UAAAIpAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

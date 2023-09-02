@@ -1,0 +1,14 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+1707x960 screen: Height=861
+1707x960 screen: Width=1707
+1707x960 screen: XPosition=0
+1707x960 screen: YPosition=28
+ClassName=MainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABqsAAAMvAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+eDP-1=eDP-1

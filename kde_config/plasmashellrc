@@ -1,0 +1,103 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOkAAAACAQAAAQAAAAAAAAAAAAAAAJb/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAD7wAAAAEAAAAAAAAD6AAAAACW
+
+[ConfigDialog]
+2560x1440 screen: Height=886
+2560x1440 screen: Width=1576
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+Recent Files[$e]=shortcut-start-file-sharing-icon-1.png,file:$HOME/.local/share/icons/Typora/Typora-macOS_1024x1024x32.png,file:$HOME/.local/share/icons/evince.svg,file:$HOME/.local/share/icons/shortcut-start-file-sharing-icon-1.png
+Recent URLs[$e]=file:$HOME/.local/share/icons/,file:$HOME/,file:$HOME/.local/share/icons/Typora/
+detailViewIconSize=128
+
+[KPropertiesDialog]
+2560x1440 screen: Height=851
+2560x1440 screen: Width=1237
+
+[PlasmaTransientsConfig]
+PreloadWeight=42
+
+[PlasmaViews][Panel 1][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 103][Defaults]
+thickness=70
+
+[PlasmaViews][Panel 124][Defaults]
+maxLength=2124
+minLength=2124
+offset=0
+thickness=49
+
+[PlasmaViews][Panel 124][Horizontal2560]
+maxLength=2124
+minLength=2124
+
+[PlasmaViews][Panel 144][Defaults]
+maxLength=2986
+minLength=2986
+offset=0
+thickness=49
+
+[PlasmaViews][Panel 144][Horizontal2560]
+maxLength=2986
+minLength=2986
+
+[PlasmaViews][Panel 164]
+panelOpacity=2
+
+[PlasmaViews][Panel 164][Defaults]
+maxLength=2986
+minLength=2986
+offset=0
+thickness=42
+
+[PlasmaViews][Panel 164][Horizontal2560]
+maxLength=2986
+minLength=2986
+
+[PlasmaViews][Panel 23][Defaults]
+maxLength=2986
+minLength=2986
+offset=0
+thickness=49
+
+[PlasmaViews][Panel 23][Horizontal2560]
+maxLength=2986
+minLength=2986
+
+[PlasmaViews][Panel 43][Defaults]
+maxLength=2986
+minLength=2986
+offset=0
+thickness=49
+
+[PlasmaViews][Panel 43][Horizontal2560]
+maxLength=2986
+minLength=2986
+
+[PlasmaViews][Panel 63][Defaults]
+maxLength=2986
+minLength=2986
+offset=0
+thickness=49
+
+[PlasmaViews][Panel 63][Horizontal2560]
+maxLength=2986
+minLength=2986
+
+[PlasmaViews][Panel 83][Defaults]
+maxLength=2986
+minLength=2986
+offset=0
+thickness=49
+
+[PlasmaViews][Panel 83][Horizontal2560]
+maxLength=2986
+minLength=2986
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/desktop-base.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js

@@ -1,0 +1,13 @@
+[Common]
+ShadowSize=ShadowNone
+ShadowStrength=237
+
+[Style]
+DockWidgetDrawFrame=true
+MenuItemDrawStrongFocus=false
+MenuOpacity=82
+SidePanelDrawFrame=true
+
+[Windeco]
+DrawBackgroundGradient=true
+DrawBorderOnMaximizedWindows=true

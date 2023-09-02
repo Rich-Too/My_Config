@@ -1,0 +1,27 @@
+files:
+  - time: 1691388372695.yml
+    name: glados.rocks/zjutrq@gmail.com
+    url: https://update.glados-config.com/clash/68955/eb293fb/16714/glados.yaml
+    selected: []
+    interval: 12
+    subInfo:
+      upload: 1
+      download: 48705408485
+      total: 214748364800
+      expire: 1695041969
+    homeWeb: https://glados.rocks
+    mode: rule
+    cron: ""
+    headers: ""
+  - time: 1691993081098.yml
+    name: sub
+    url: https://sub.zjurule.xyz/sub?target=clash&url=https%3A%2F%2Fupdate.glados-config.com%2Fclash%2F68955%2Feb293fb%2F16714%2Fglados.yaml&insert=false&emoji=true&list=false&tfo=false&scv=true&fdn=false&sort=false&new_name=true
+    selected: []
+    interval: 24
+    subInfo:
+      upload: 1
+      download: 46560694166
+      total: 214748364800
+      expire: 1694877497
+    homeWeb: ""
+index: 0

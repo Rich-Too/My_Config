@@ -1,0 +1,48 @@
+1707x960 screen: Window-Maximized=true
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABqsAAAMrAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+1707x960 screen: Height=861
+1707x960 screen: Width=1707
+1707x960 screen: Window-Maximized=true
+1707x960 screen: XPosition=0
+1707x960 screen: YPosition=28
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABqsAAAMrAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[MainWindow][Toolbar mainToolBar]
+IconSize=16
+
+[Recent Files]
+File1[$e]=/media/richtoo/Data/OneDrive - zju.edu.cn/深入理解计算机系统（中文清晰).pdf
+File10[$e]=$HOME/Desktop/垃圾报告/中医脉诊现代化研究述评_崔骥.pdf
+File2[$e]=$HOME/Downloads/政治.pdf
+File3[$e]=$HOME/Desktop/跨考/2022年硕士研究生408计算机学科考试大纲原文.pdf
+File4[$e]=$HOME/Desktop/Coding/电子书/progit.pdf
+File5[$e]=$HOME/Downloads/高校BBS热点话题的形成特点及制造模型研究_徐钰梨.pdf
+File6[$e]=$HOME/Downloads/_2024线代讲义练习题答案.pdf
+File7[$e]=$HOME/Downloads/24石雷鹏小作文笔记_免费高速下载_百度网盘-分享无限制.pdf
+File8[$e]=$HOME/Downloads/徐涛强化班30天刷完听课指南_免费高速下载_百度网盘-分享无限制.pdf
+File9[$e]=$HOME/Desktop/跨考/政治.pdf
+Name1[$e]=深入理解计算机系统（中文清晰).pdf
+Name10[$e]=中医脉诊现代化研究述评_崔骥.pdf
+Name2[$e]=政治.pdf
+Name3[$e]=2022年硕士研究生408计算机学科考试大纲原文.pdf
+Name4[$e]=progit.pdf
+Name5[$e]=高校BBS热点话题的形成特点及制造模型研究_徐钰梨.pdf
+Name6[$e]=_2024线代讲义练习题答案.pdf
+Name7[$e]=24石雷鹏小作文笔记_免费高速下载_百度网盘-分享无限制.pdf
+Name8[$e]=徐涛强化班30天刷完听课指南_免费高速下载_百度网盘-分享无限制.pdf
+Name9[$e]=政治.pdf
+
+[Toolbar mainToolBar]
+IconSize=16
+
+[UiSettings]
+ColorScheme=LayanLight

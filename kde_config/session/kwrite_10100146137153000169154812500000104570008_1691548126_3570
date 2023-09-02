@@ -1,0 +1,54 @@
+[1]
+1707x960 screen: Window-Maximized=true
+Active ViewSpace=0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAIqAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAACx/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[1-Splitter 0]
+Children=1-ViewSpace 0
+Orientation=1
+Sizes=1022
+
+[1-ViewSpace 0]
+Count=0
+Documents=
+
+[General]
+Last Session=
+
+[Number]
+NumberOfWindows=1
+
+[Open Documents]
+Count=0
+
+[Recent Files]
+File1[$e]=$HOME/.config/kde.org/UserFeedback.org.kde.kwrite.conf
+File10[$e]=$HOME/.config/fontconfig/fonts.config
+File2[$e]=$HOME/.config/flameshot/flameshot.ini
+File3[$e]=$HOME/.config/terminator/config
+File4[$e]=$HOME/.config/KDE/Sonnet.conf
+File5[$e]=$HOME/.config/fontconfig/fonts.conf
+File6[$e]=$HOME/.local/share/applications/clash.desktop
+File7[$e]=$HOME/.config/kwriterc
+File8[$e]=$HOME/Desktop/dotfiles/generate_dotfile.sh
+File9[$e]=$HOME/Desktop/dotfiles/generate_dotfile
+Name1[$e]=UserFeedback.org.kde.kwrite.conf
+Name10[$e]=fonts.config
+Name2[$e]=flameshot.ini
+Name3[$e]=config
+Name4[$e]=Sonnet.conf
+Name5[$e]=fonts.conf
+Name6[$e]=clash.desktop
+Name7[$e]=kwriterc
+Name8[$e]=generate_dotfile.sh
+Name9[$e]=generate_dotfile
+
+[WindowProperties1]
+1707x960 screen: Window-Maximized=true
+ClassName=KateMainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABAAAAAIqAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAACx/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

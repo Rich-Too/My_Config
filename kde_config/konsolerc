@@ -1,0 +1,47 @@
+1707x960 screen: Height=592
+1707x960 screen: Width=1047
+1707x960 screen: Window-Maximized=true
+1707x960 screen: XPosition=327
+1707x960 screen: YPosition=197
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAAS0BAAAD+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAABkAEAAAMAAAarAAADXQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+eDP-1=eDP-1
+
+[Desktop Entry]
+DefaultProfile=my conifg.profile
+
+[FileDialogSize]
+1707x960 screen: Height=785
+1707x960 screen: Width=1172
+
+[General]
+ConfigVersion=1
+
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[KonsoleWindow]
+AllowMenuAccelerators=true
+FocusFollowsMouse=true
+
+[MainWindow]
+1707x960 screen: Height=861
+1707x960 screen: Width=1707
+1707x960 screen: Window-Maximized=true
+1707x960 screen: XPosition=0
+1707x960 screen: YPosition=28
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAAS0BAAAD+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAABkAEAAAMAAAarAAADXQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[SplitView]
+SplitViewVisibility=AlwaysHideSplitHeader
+
+[TabBar]
+CloseTabOnMiddleMouseButton=true
+TabBarUseUserStyleSheet=true
+
+[UiSettings]
+ColorScheme=
