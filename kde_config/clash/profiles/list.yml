@@ -6,22 +6,89 @@ files:
     interval: 12
     subInfo:
       upload: 1
-      download: 48705408485
+      download: 454356457
       total: 214748364800
-      expire: 1695041969
+      expire: 1705276825
     homeWeb: https://glados.rocks
-    mode: rule
+    mode: direct
     cron: ""
     headers: ""
-  - time: 1691993081098.yml
-    name: sub
-    url: https://sub.zjurule.xyz/sub?target=clash&url=https%3A%2F%2Fupdate.glados-config.com%2Fclash%2F68955%2Feb293fb%2F16714%2Fglados.yaml&insert=false&emoji=true&list=false&tfo=false&scv=true&fdn=false&sort=false&new_name=true
+  - time: 1695392410209.yml
+    name: subscribe
+    url: https://b.bbydy.org/api/v1/client/subscribe?token=527a5a23591f2eff8d090bbec0e8ab79
     selected: []
     interval: 24
     subInfo:
-      upload: 1
-      download: 46560694166
-      total: 214748364800
-      expire: 1694877497
+      upload: 209046040
+      download: 21691378671
+      total: 1099511627776
+      expire: 1703171662
     homeWeb: ""
-index: 0
+    mode: rule
+  - time: 1696515011109.yml
+    name: sub
+    url: https://sub.zjurule.xyz/sub?target=clash&url=https%3A%2F%2Fb.bbydy.org%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D527a5a23591f2eff8d090bbec0e8ab79&insert=false&emoji=true&list=false&tfo=false&scv=true&fdn=false&sort=false&new_name=true
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: Ⓜ️ 微软云盘
+        now: DIRECT
+      - name: Ⓜ️ 微软服务
+        now: DIRECT
+      - name: ✉️ 通知公告
+        now: "✉️ 电报群: t.me/zjuers"
+      - name: ✔ ZJU内网
+        now: DIRECT
+      - name: 🆎 AdBlock
+        now: REJECT
+      - name: 🌍 国外媒体
+        now: 🚀 节点选择
+      - name: 🌏 国内媒体
+        now: DIRECT
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🍎 苹果服务
+        now: DIRECT
+      - name: 🎥 奈飞节点
+        now: DIRECT
+      - name: 🎥 奈飞视频
+        now: 🎥 奈飞节点
+      - name: 🎮 游戏平台
+        now: DIRECT
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🎶 网易音乐
+        now: DIRECT
+      - name: 🐟 漏网之鱼
+        now: 🚀 节点选择
+      - name: 📃 ZJU More Scholar
+        now: 🚀 节点选择
+      - name: 📢 谷歌FCM
+        now: DIRECT
+      - name: 📲 电报消息
+        now: 🚀 节点选择
+      - name: 📹 油管视频
+        now: 🚀 节点选择
+      - name: 📺 哔哩哔哩
+        now: 🎯 全球直连
+      - name: 📺 巴哈姆特
+        now: 🇨🇳 台湾节点
+      - name: 🚀 手动切换
+        now: 距离下次重置剩余：16 天
+      - name: 🚀 节点选择
+        now: 🇰🇷 韩国节点
+      - name: 🛑 广告拦截
+        now: REJECT
+      - name: 🛡️ 隐私防护
+        now: REJECT
+      - name: 🤖 ChatBot
+        now: 🚀 节点选择
+    interval: 24
+    subInfo:
+      upload: 209046040
+      download: 21691378671
+      total: 1099511627776
+      expire: 1703171662
+    homeWeb: ""
+    mode: rule
+index: 1

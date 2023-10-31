@@ -1,4 +1,5 @@
 [EmbedSettings]
+embed-application/vnd.geogebra.file=false
 embed-application/xml=false
 embed-image/jpeg=false
 embed-image/png=false

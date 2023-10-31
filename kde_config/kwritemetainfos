@@ -9,122 +9,74 @@ Mode Set By User=true
 Time=2023,8,7,5,40,0.99
 URL=
 
-[file:///home/richtoo/.config/fontconfig/fonts.config]
+[file:///home/richtoo/Desktop/com.alibabainc.dingtalk.desktop]
 Bookmarks=
-Checksum=45ad75e5f07df9d8500bfda6d4833f9ac3eeb12d
+Checksum=e411af0d935fc2aa68d0fc85c57681d917ea418c
 Encoding=UTF-8
-Highlighting=XML
-Highlighting Set By User=false
-Indentation Mode=xml
-Mode=XML
-Mode Set By User=false
-Time=2023,8,14,14,12,43.459
-URL=file:///home/richtoo/.config/fontconfig/fonts.config
-
-[file:///home/richtoo/Desktop/dotfiles/generate_dotfile]
-Bookmarks=
-Checksum=0da3bc98d8737cec4df3dde76ef303ed2df08db8
-Encoding=UTF-8
-Highlighting=Bash
+Highlighting=.desktop
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=Bash
+Mode=.desktop
 Mode Set By User=false
-Time=2023,8,7,14,20,40.803
-URL=file:///home/richtoo/Desktop/dotfiles/generate_dotfile
+Time=2023,10,27,14,49,16.137
+URL=file:///home/richtoo/Desktop/com.alibabainc.dingtalk.desktop
 
-[file:///home/richtoo/Desktop/dotfiles/generate_dotfile.sh]
+[file:///home/richtoo/Desktop/x11.py]
 Bookmarks=
-Checksum=0da3bc98d8737cec4df3dde76ef303ed2df08db8
+Checksum=bd9abb22e8b1194e80fa2d24b1442470eaa7b8dd
 Encoding=UTF-8
-Highlighting=Bash
+Highlighting=Python
 Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Bash
+Indentation Mode=python
+Mode=Python
 Mode Set By User=false
-Time=2023,8,10,10,56,49.407
-URL=file:///home/richtoo/Desktop/dotfiles/generate_dotfile.sh
+Time=2023,10,28,7,34,24.838
+URL=file:///home/richtoo/Desktop/x11.py
 
-[file:///home/richtoo/Downloads/HWB运动始末_江寒.txt]
+[file:///home/richtoo/Documents/My-Wiki/docs/读论文/template/Mdnotes Default Template.md ]
 Bookmarks=
-Checksum=8731defbddbe4fbc73370aa56088e0b9989c92ea
+Checksum=72aa2f79b837e5cb12dacc18a3d6904482e7af4b
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2023,8,16,15,14,16.929
-URL=file:///home/richtoo/Downloads/HWB运动始末_江寒.txt
+Time=2023,10,5,7,14,23.425
+URL=file:///home/richtoo/Documents/My-Wiki/docs/读论文/template/Mdnotes Default Template.md\s
 
-[file:///home/richtoo/Downloads/New Tab.html]
+[file:///home/richtoo/Downloads/Intel_ARK_SpecificationsChart_2023_10_14.csv]
 Bookmarks=
-Checksum=56f3893a0f9056a195e1f6cb37396401602b2eb9
+Checksum=e2fa506fe4d7ddeec9d285bdc27e66fdc91f052b
 Encoding=UTF-8
-Highlighting=HTML
+Highlighting=CSV
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=HTML
+Mode=CSV
 Mode Set By User=false
-Time=2023,8,28,11,45,17.676
-URL=file:///home/richtoo/Downloads/New Tab.html
+Time=2023,10,14,7,19,0.618
+URL=file:///home/richtoo/Downloads/Intel_ARK_SpecificationsChart_2023_10_14.csv
 
-[file:///home/richtoo/Downloads/S0165032716316494.ris]
+[file:///home/richtoo/Downloads/douyin/main.go]
 Bookmarks=
-Checksum=db735349632388eabfe879c16de5fe484c4fb7fc
+Checksum=04149451a38eaacabaebcd3dcc0126960fd2af2e
+Encoding=UTF-8
+Highlighting=Go
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=Go
+Mode Set By User=false
+Time=2023,10,8,1,57,6.242
+URL=file:///home/richtoo/Downloads/douyin/main.go
+
+[file:///home/richtoo/Downloads/实验室论文列表（部分）.txt]
+Bookmarks=
+Checksum=f9f9ff50149d1cb480df045688f3415f3eb7b6bd
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2023,8,28,12,25,42.844
-URL=file:///home/richtoo/Downloads/S0165032716316494.ris
-
-[file:///home/richtoo/Downloads/S0165032716316494.txt]
-Bookmarks=
-Checksum=acd4015e5d9fe8fd5791ff92947de98fbffbab59
-Encoding=UTF-8
-Highlighting=None
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
-Mode Set By User=false
-Time=2023,8,28,15,29,47.634
-URL=file:///home/richtoo/Downloads/S0165032716316494.txt
-
-[file:///home/richtoo/Downloads/task/config.xml]
-Bookmarks=
-Checksum=f7f891ef00f804df5fab7115ec8862ff539ca890
-Encoding=UTF-8
-Highlighting=XML
-Highlighting Set By User=false
-Indentation Mode=xml
-Mode=XML
-Mode Set By User=false
-Time=2023,8,17,6,0,1.305
-URL=file:///home/richtoo/Downloads/task/config.xml
-
-[file:///media/richtoo/Data/学习资料/新建文本文档.txt]
-Bookmarks=
-Checksum=43b02b2cf84da82e4d76eca773ab07a074568a64
-Encoding=UTF-8
-Highlighting=None
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
-Mode Set By User=false
-Time=2023,8,16,14,31,55.822
-URL=file:///media/richtoo/Data/学习资料/新建文本文档.txt
-
-[file:///usr/share/sddm/themes/sugar-candy/theme.conf.user]
-Bookmarks=
-Checksum=ff0658b0f760e93f9d11915149433d8eae35f1b2
-Encoding=UTF-8
-Highlighting=None
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
-Mode Set By User=false
-Time=2023,8,20,8,17,4.974
-URL=file:///usr/share/sddm/themes/sugar-candy/theme.conf.user
+Time=2023,10,28,5,23,35.667
+URL=file:///home/richtoo/Downloads/实验室论文列表（部分）.txt

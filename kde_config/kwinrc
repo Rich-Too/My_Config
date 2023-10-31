@@ -26,10 +26,20 @@ padding=4
 [Tiling][213a9620-187e-58a6-b80b-85d8fb95dfce]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][5b7a5ba4-43cc-5910-8e98-f358f9d54b43]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][897dff47-3231-5c04-bcf2-ea4182b5c571]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][eac6759d-c7cd-5a08-9322-dd61f18fb074]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Windows]
 BorderlessMaximizedWindows=true
 
 [org.kde.kdecoration2]
+ButtonsOnLeft=MF
 ButtonsOnRight=IAX
 library=org.kde.breeze
 theme=Breeze

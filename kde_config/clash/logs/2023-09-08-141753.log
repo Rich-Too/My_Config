@@ -1,0 +1,158 @@
+14:17:53 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+14:17:53 INF [API] listening addr=127.0.0.1:35673
+14:17:53 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:50546 rAddr=sub.zjurule.xyz:443 proxy=DIRECT
+14:17:53 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:50528 rAddr=raw.githubusercontent.com:443 proxy=DIRECT
+14:17:53 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:50536 rAddr=update.glados-config.com:443 proxy=DIRECT
+14:17:53 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:50562 rAddr=api.github.com:443 proxy=DIRECT
+14:17:53 INF [Config] initial compatible provider name=Auto-Fast
+14:17:53 INF [Config] initial compatible provider name=Express
+14:17:53 INF [Config] initial compatible provider name=Video
+14:17:53 INF [Config] initial compatible provider name=Auto-Failover
+14:17:53 INF [Config] initial compatible provider name=Auto-Edge
+14:17:53 INF [Config] initial compatible provider name=Auto
+14:17:53 INF [Config] initial compatible provider name=Proxy
+14:17:53 INF [Config] initial compatible provider name=OPENAI-NOT-STABLE
+14:17:53 INF [Config] initial compatible provider name=NETFLIX
+14:17:55 INF [Config] initial compatible provider name=Auto-Edge
+14:17:55 INF [Config] initial compatible provider name=Auto-Fast
+14:17:55 INF [Config] initial compatible provider name=Proxy
+14:17:55 INF [Config] initial compatible provider name=NETFLIX
+14:17:55 INF [Config] initial compatible provider name=OPENAI-NOT-STABLE
+14:17:55 INF [Config] initial compatible provider name=Auto-Failover
+14:17:55 INF [Config] initial compatible provider name=Express
+14:17:55 INF [Config] initial compatible provider name=Video
+14:17:55 INF [Config] initial compatible provider name=Auto
+14:18:30 INF [TCP] connected lAddr=127.0.0.1:45840 rAddr=clientservices.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:18:30 INF [TCP] connected lAddr=127.0.0.1:45844 rAddr=accounts.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:30 INF [TCP] connected lAddr=127.0.0.1:45852 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:18:30 INF [TCP] connected lAddr=127.0.0.1:45854 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:30 INF [TCP] connected lAddr=127.0.0.1:45858 rAddr=www.googletagmanager.com:443 mode=rule rule=DomainSuffix(googletagmanager.com) proxy=DIRECT
+14:18:31 INF [TCP] connected lAddr=127.0.0.1:45860 rAddr=ssl.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:31 INF [TCP] connected lAddr=127.0.0.1:45878 rAddr=history.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:31 INF [TCP] connected lAddr=127.0.0.1:45880 rAddr=www.google-analytics.com:443 mode=rule rule=Domain(www.google-analytics.com) proxy=DIRECT
+14:18:31 INF [TCP] connected lAddr=127.0.0.1:45894 rAddr=www.google.com.hk:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:18:31 INF [TCP] connected lAddr=127.0.0.1:45904 rAddr=lh3.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Video[GLaDOS-B1-05]
+14:18:31 INF [TCP] connected lAddr=127.0.0.1:45912 rAddr=encrypted-tbn0.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:31 INF [TCP] connected lAddr=127.0.0.1:45960 rAddr=www.google.com.hk:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:18:31 INF [TCP] connected lAddr=127.0.0.1:45920 rAddr=optimizationguide-pa.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:18:31 INF [TCP] connected lAddr=127.0.0.1:45952 rAddr=www.google.com.hk:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:18:31 INF [TCP] connected lAddr=127.0.0.1:45974 rAddr=docs.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:31 INF [TCP] connected lAddr=127.0.0.1:45978 rAddr=www.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+14:18:32 INF [TCP] connected lAddr=127.0.0.1:41012 rAddr=www.google-analytics.com:443 mode=rule rule=Domain(www.google-analytics.com) proxy=DIRECT
+14:18:32 INF [TCP] connected lAddr=127.0.0.1:41014 rAddr=clients4.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:32 INF [TCP] connected lAddr=127.0.0.1:41018 rAddr=api.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+14:18:32 INF [TCP] connected lAddr=127.0.0.1:41034 rAddr=openid.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+14:18:32 INF [TCP] connected lAddr=127.0.0.1:41036 rAddr=file.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+14:18:32 INF [TCP] connected lAddr=127.0.0.1:41042 rAddr=android.clients.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:32 INF [TCP] connected lAddr=127.0.0.1:41040 rAddr=mtalk.google.com:5228 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:32 INF [TCP] connected lAddr=127.0.0.1:41062 rAddr=android.clients.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:32 INF [TCP] connected lAddr=127.0.0.1:41088 rAddr=clients2.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:32 INF [TCP] connected lAddr=127.0.0.1:41082 rAddr=android.clients.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:32 INF [TCP] connected lAddr=127.0.0.1:41120 rAddr=www.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+14:18:32 INF [TCP] connected lAddr=127.0.0.1:41108 rAddr=docs.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:32 INF [TCP] connected lAddr=127.0.0.1:41092 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:18:33 INF [TCP] connected lAddr=127.0.0.1:41136 rAddr=drive.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:33 INF [TCP] connected lAddr=127.0.0.1:41148 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:18:33 INF [TCP] connected lAddr=127.0.0.1:41156 rAddr=storage.cloud.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:33 INF [TCP] connected lAddr=127.0.0.1:41158 rAddr=drive.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:34 INF [TCP] connected lAddr=127.0.0.1:41170 rAddr=accounts.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:34 INF [TCP] connected lAddr=127.0.0.1:41178 rAddr=lh3.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Video[GLaDOS-B1-05]
+14:18:35 INF [TCP] connected lAddr=127.0.0.1:41182 rAddr=lh3.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Video[GLaDOS-B1-05]
+14:18:35 INF [TCP] connected lAddr=127.0.0.1:41180 rAddr=lh3.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Video[GLaDOS-B1-05]
+14:18:35 INF [TCP] connected lAddr=127.0.0.1:41188 rAddr=clients2.googleusercontent.com:443 mode=rule rule=DomainSuffix(googleusercontent.com) proxy=Video[GLaDOS-B1-05]
+14:18:35 INF [TCP] connected lAddr=127.0.0.1:41198 rAddr=ssl.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:36 WRN [TCP] dial failed error=dial tcp4 142.251.42.234:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:45870 rAddr=accountcapabilities-pa.googleapis.com:443 rule=DomainKeyword rulePayload=bili
+14:18:36 INF [TCP] connected lAddr=127.0.0.1:41208 rAddr=fonts.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:18:37 WRN [TCP] dial failed error=dial tcp4 172.217.163.42:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:41050 rAddr=accountcapabilities-pa.googleapis.com:443 rule=DomainKeyword rulePayload=bili
+14:18:37 WRN [TCP] dial failed error=dial tcp4 142.251.42.234:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:41072 rAddr=accountcapabilities-pa.googleapis.com:443 rule=DomainKeyword rulePayload=bili
+14:18:38 INF [TCP] connected lAddr=127.0.0.1:41226 rAddr=config.immersivetranslate.com:443 mode=rule rule=Match() proxy=Proxy[GLaDOS-B1-04]
+14:18:42 WRN [TCP] dial failed error=dial tcp4 142.251.43.10:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:41216 rAddr=accountcapabilities-pa.googleapis.com:443 rule=DomainKeyword rulePayload=bili
+14:18:42 INF [TCP] connected lAddr=127.0.0.1:60242 rAddr=optimizationguide-pa.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:18:43 INF [TCP] connected lAddr=127.0.0.1:60266 rAddr=file.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+14:18:43 INF [TCP] connected lAddr=127.0.0.1:60256 rAddr=api.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+14:18:47 WRN [TCP] dial failed error=dial tcp4 142.251.43.10:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:60240 rAddr=accountcapabilities-pa.googleapis.com:443 rule=DomainKeyword rulePayload=bili
+14:18:52 WRN [TCP] dial failed error=dial tcp4 142.251.43.10:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:60268 rAddr=accountcapabilities-pa.googleapis.com:443 rule=DomainKeyword rulePayload=bili
+14:18:56 INF [TCP] connected lAddr=127.0.0.1:59900 rAddr=play.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:56 INF [TCP] connected lAddr=127.0.0.1:59908 rAddr=play.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:56 INF [TCP] connected lAddr=127.0.0.1:59918 rAddr=ssl.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:56 INF [TCP] connected lAddr=127.0.0.1:59922 rAddr=play.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:18:57 WRN [TCP] dial failed error=dial tcp4 142.251.42.234:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:59894 rAddr=accountcapabilities-pa.googleapis.com:443 rule=DomainKeyword rulePayload=bili
+14:19:00 INF [TCP] connected lAddr=127.0.0.1:59934 rAddr=www.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:19:02 WRN [TCP] dial failed error=dial tcp4 142.251.42.234:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:59932 rAddr=accountcapabilities-pa.googleapis.com:443 rule=DomainKeyword rulePayload=bili
+14:19:08 WRN [TCP] dial failed error=dial tcp4 172.217.163.42:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:49120 rAddr=accountcapabilities-pa.googleapis.com:443 rule=DomainKeyword rulePayload=bili
+14:19:13 WRN [TCP] dial failed error=dial tcp4 142.251.43.10:443: i/o timeout proxy=DIRECT lAddr=127.0.0.1:49124 rAddr=accountcapabilities-pa.googleapis.com:443 rule=DomainKeyword rulePayload=bili
+14:19:17 INF [TCP] connected lAddr=127.0.0.1:42872 rAddr=clients4.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:18 INF [TCP] connected lAddr=127.0.0.1:42876 rAddr=docs.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:19 INF [TCP] connected lAddr=127.0.0.1:42878 rAddr=docs.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:19 INF [TCP] connected lAddr=127.0.0.1:42886 rAddr=docs.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:20 INF [TCP] connected lAddr=127.0.0.1:42900 rAddr=clients6.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:21 INF [TCP] connected lAddr=127.0.0.1:42908 rAddr=clients6.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:23 INF [TCP] connected lAddr=127.0.0.1:48362 rAddr=play.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:23 INF [TCP] connected lAddr=127.0.0.1:48374 rAddr=play.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:23 INF [TCP] connected lAddr=127.0.0.1:48384 rAddr=play.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:23 INF [TCP] connected lAddr=127.0.0.1:48356 rAddr=play.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:24 INF [TCP] connected lAddr=127.0.0.1:48392 rAddr=drivefrontend-pa.clients6.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:24 INF [TCP] connected lAddr=127.0.0.1:48400 rAddr=drivefrontend-pa.clients6.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:25 INF [TCP] connected lAddr=127.0.0.1:48402 rAddr=drivefrontend-pa.clients6.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:25 INF [TCP] connected lAddr=127.0.0.1:48416 rAddr=drivefrontend-pa.clients6.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:26 INF [TCP] connected lAddr=127.0.0.1:48430 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:27 INF [TCP] connected lAddr=127.0.0.1:48468 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:27 INF [TCP] connected lAddr=127.0.0.1:48446 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:27 INF [TCP] connected lAddr=127.0.0.1:48492 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:27 INF [TCP] connected lAddr=127.0.0.1:48456 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:27 INF [TCP] connected lAddr=127.0.0.1:48478 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:27 INF [TCP] connected lAddr=127.0.0.1:48504 rAddr=optimizationguide-pa.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:19:27 INF [TCP] connected lAddr=127.0.0.1:48528 rAddr=www.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+14:19:27 INF [TCP] connected lAddr=127.0.0.1:48518 rAddr=file.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+14:19:27 INF [TCP] connected lAddr=127.0.0.1:48538 rAddr=api.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+14:19:27 INF [TCP] connected lAddr=127.0.0.1:48542 rAddr=clients6.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:28 INF [TCP] connected lAddr=127.0.0.1:48548 rAddr=clients6.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:30 INF [TCP] connected lAddr=127.0.0.1:48564 rAddr=play.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:30 INF [TCP] connected lAddr=127.0.0.1:48576 rAddr=clientservices.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:19:30 INF [TCP] connected lAddr=127.0.0.1:48578 rAddr=clients4.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:30 INF [TCP] connected lAddr=127.0.0.1:48584 rAddr=clients4.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:30 INF [TCP] connected lAddr=127.0.0.1:48598 rAddr=update.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:19:31 INF [TCP] connected lAddr=127.0.0.1:48606 rAddr=redirector.gvt1.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+14:19:31 INF [TCP] connected lAddr=127.0.0.1:48618 rAddr=r4---sn-ni5eln7l.gvt1.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+14:19:32 INF [TCP] connected lAddr=127.0.0.1:51422 rAddr=r1---sn-ni5eln7l.gvt1.com:80 mode=rule rule=GeoIP(CN) proxy=DIRECT
+14:19:32 INF [TCP] connected lAddr=127.0.0.1:51434 rAddr=update.googleapis.com:80 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:19:33 INF [TCP] connected lAddr=127.0.0.1:51444 rAddr=mtalk.google.com:5228 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:33 INF [TCP] connected lAddr=127.0.0.1:51452 rAddr=clientservices.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:19:35 INF [TCP] connected lAddr=127.0.0.1:51466 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:35 INF [TCP] connected lAddr=127.0.0.1:51484 rAddr=www.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+14:19:35 INF [TCP] connected lAddr=127.0.0.1:51468 rAddr=optimizationguide-pa.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:19:35 INF [TCP] connected lAddr=127.0.0.1:51490 rAddr=www.google.com.hk:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:19:35 INF [TCP] connected lAddr=127.0.0.1:51492 rAddr=beacons.gcp.gvt2.com:443 mode=rule rule=DomainSuffix(gvt2.com) proxy=Video[GLaDOS-B1-05]
+14:19:36 INF [TCP] connected lAddr=127.0.0.1:51508 rAddr=api.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+14:19:36 INF [TCP] connected lAddr=127.0.0.1:51512 rAddr=file.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+14:19:46 INF [TCP] connected lAddr=127.0.0.1:41924 rAddr=clients4.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:19:59 INF [TCP] connected lAddr=127.0.0.1:50234 rAddr=beacons.gcp.gvt2.com:443 mode=rule rule=DomainSuffix(gvt2.com) proxy=Video[GLaDOS-B1-05]
+14:20:33 INF [TCP] connected lAddr=127.0.0.1:52666 rAddr=mtalk.google.com:5228 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:20:35 INF [TCP] connected lAddr=127.0.0.1:52668 rAddr=beacons.gcp.gvt2.com:443 mode=rule rule=DomainSuffix(gvt2.com) proxy=Video[GLaDOS-B1-05]
+14:20:36 INF [TCP] connected lAddr=127.0.0.1:52676 rAddr=www.google.com.hk:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-04]
+14:20:36 INF [TCP] connected lAddr=127.0.0.1:52678 rAddr=beacons.gcp.gvt2.com:443 mode=rule rule=DomainSuffix(gvt2.com) proxy=Video[GLaDOS-B1-05]
+14:20:37 INF [TCP] connected lAddr=127.0.0.1:52680 rAddr=dian.typora.com.cn:443 mode=rule rule=DomainSuffix(com.cn) proxy=DIRECT
+14:20:38 INF [TCP] connected lAddr=127.0.0.1:52694 rAddr=cognito-identity.us-west-2.amazonaws.com:443 mode=rule rule=DomainSuffix(amazonaws.com) proxy=Proxy[GLaDOS-B1-04]
+14:20:39 INF [TCP] connected lAddr=127.0.0.1:52702 rAddr=pinpoint.us-west-2.amazonaws.com:443 mode=rule rule=DomainSuffix(amazonaws.com) proxy=Proxy[GLaDOS-B1-04]
+14:20:39 INF [TCP] connected lAddr=127.0.0.1:52714 rAddr=pinpoint.us-west-2.amazonaws.com:443 mode=rule rule=DomainSuffix(amazonaws.com) proxy=Proxy[GLaDOS-B1-04]
+14:20:39 INF [TCP] connected lAddr=127.0.0.1:52704 rAddr=pinpoint.us-west-2.amazonaws.com:443 mode=rule rule=DomainSuffix(amazonaws.com) proxy=Proxy[GLaDOS-B1-04]
+14:20:55 INF [TCP] connected lAddr=127.0.0.1:60866 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=Domain(safebrowsing.googleapis.com) proxy=DIRECT
+14:21:34 INF [TCP] connected lAddr=127.0.0.1:55656 rAddr=mtalk.google.com:5228 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:22:02 INF [TCP] connected lAddr=127.0.0.1:52464 rAddr=beacons.gcp.gvt2.com:443 mode=rule rule=DomainSuffix(gvt2.com) proxy=Video[GLaDOS-B1-05]
+14:22:27 INF [TCP] connected lAddr=127.0.0.1:49200 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=Proxy[GLaDOS-B1-04]
+14:22:34 INF [TCP] connected lAddr=127.0.0.1:44016 rAddr=mtalk.google.com:5228 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-04]
+14:23:13 INF [TCP] connected lAddr=127.0.0.1:57522 rAddr=ssl.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Proxy[GLaDOS-B1-06]
+14:23:14 INF [TCP] connected lAddr=127.0.0.1:57550 rAddr=www.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+14:23:14 INF [TCP] connected lAddr=127.0.0.1:57534 rAddr=optimizationguide-pa.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-06]
+14:23:19 INF [TCP] connected lAddr=127.0.0.1:57564 rAddr=beacons.gcp.gvt2.com:443 mode=rule rule=DomainSuffix(gvt2.com) proxy=Video[GLaDOS-B1-08]
+14:23:21 INF [TCP] connected lAddr=127.0.0.1:57576 rAddr=clients4.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-06]
+14:23:35 INF [TCP] connected lAddr=127.0.0.1:57694 rAddr=mtalk.google.com:5228 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-06]
+14:23:35 INF [TCP] connected lAddr=127.0.0.1:57700 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-06]
+14:25:32 INF [TCP] connected lAddr=127.0.0.1:43520 rAddr=clients4.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-06]
+14:25:35 INF [TCP] connected lAddr=127.0.0.1:43526 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-06]
+14:26:19 INF [TCP] connected lAddr=127.0.0.1:55016 rAddr=www.cc98.org:443 mode=rule rule=IPCIDR(10.0.0.0/8) proxy=DIRECT
+14:27:28 INF [TCP] connected lAddr=127.0.0.1:34742 rAddr=optimizationguide-pa.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-06]
+14:27:29 INF [TCP] connected lAddr=127.0.0.1:34748 rAddr=optimizationguide-pa.googleapis.com:443 mode=rule rule=DomainKeyword(google) proxy=Proxy[GLaDOS-B1-06]
+14:27:33 INF [TCP] connected lAddr=127.0.0.1:59354 rAddr=clients4.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-06]
+14:27:35 INF [TCP] connected lAddr=127.0.0.1:59360 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Proxy[GLaDOS-B1-06]
+14:28:13 INF [TCP] connected lAddr=127.0.0.1:48358 rAddr=ssl.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Proxy[GLaDOS-B1-06]

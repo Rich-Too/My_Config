@@ -64,3 +64,41 @@
   dpi: 1000
   lowres-scroll-mode: false
   reprogrammable-keys: {80: 80, 81: 81, 82: 82}
+- _NAME: Bluetooth Multi-Device Keyboard K380
+  _absent: [hi-res-scroll, lowres-scroll-mode, hires-smooth-invert, hires-smooth-resolution, hires-scroll-mode, scroll-ratchet, smart-shift, thumb-scroll-invert,
+    thumb-scroll-mode, onboard_profiles, report_rate, pointer_speed, dpi, speed-change, backlight, backlight-timed, reprogrammable-keys, persistent-remappable-keys,
+    crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led, gesture2-gestures, gesture2-divert, gesture2-params, sidetone, equalizer]
+  _battery: 4096
+  _modelId: B34200000000
+  _sensitive: {change-host: ignore, disable-keyboard-keys: ignore, divert-keys: ignore, fn-swap: true, multiplatform: false}
+  _unitId: 2C000100
+  change-host: null
+  disable-keyboard-keys: {1: false, 4: false, 8: false, 16: false}
+  divert-keys: {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 62: 0, 186: 0, 187: 0, 188: 0, 189: 0, 190: 0, 191: 0, 192: 0, 193: 0, 194: 0}
+  fn-swap: false
+  multiplatform: 1
+- _NAME: Bluetooth Multi-Device Keyboard K380
+  _absent: [hi-res-scroll, lowres-scroll-mode, hires-smooth-invert, hires-smooth-resolution, hires-scroll-mode, scroll-ratchet, smart-shift, thumb-scroll-invert,
+    thumb-scroll-mode, onboard_profiles, report_rate, pointer_speed, dpi, speed-change, backlight, backlight-timed, reprogrammable-keys, persistent-remappable-keys,
+    crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led, gesture2-gestures, gesture2-divert, gesture2-params, sidetone, equalizer]
+  _battery: 4096
+  _modelId: B34200000000
+  _sensitive: {fn-swap: true}
+  _unitId: 2E000000
+  change-host: null
+  disable-keyboard-keys: {1: false, 4: false, 8: false, 16: false}
+  divert-keys: {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 62: 0, 186: 0, 187: 0, 188: 0, 189: 0, 190: 0, 191: 0, 192: 0, 193: 0, 194: 0}
+  fn-swap: false
+  multiplatform: 1
+- _NAME: Bluetooth Multi-Device Keyboard K380
+  _absent: [hi-res-scroll, lowres-scroll-mode, hires-smooth-invert, hires-smooth-resolution, hires-scroll-mode, scroll-ratchet, smart-shift, thumb-scroll-invert,
+    thumb-scroll-mode, onboard_profiles, report_rate, pointer_speed, dpi, speed-change, backlight, backlight-timed, reprogrammable-keys, persistent-remappable-keys,
+    crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led, gesture2-gestures, gesture2-divert, gesture2-params, sidetone, equalizer]
+  _battery: 4096
+  _modelId: B34200000000
+  _unitId: 2A000000
+  change-host: null
+  disable-keyboard-keys: {1: false, 4: false, 8: false, 16: false}
+  divert-keys: {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 62: 0, 186: 0, 187: 0, 188: 0, 189: 0, 190: 0, 191: 0, 192: 0, 193: 0, 194: 0}
+  fn-swap: true
+  multiplatform: 1

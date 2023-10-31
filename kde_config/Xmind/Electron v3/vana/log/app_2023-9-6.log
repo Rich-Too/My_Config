@@ -1,0 +1,25 @@
+
+-------- SESSION 2023-09-06T04:05:30.378Z (23.08.02122+202308281754, linux, x64, 16449093632, XMIND LTD., vana_linux) --------
+[I 2023-09-06T04:05:30.390Z main:store:plugins:electron] current pid is "79660"
+[I 2023-09-06T04:05:30.392Z usage-stats] sync data
+[I 2023-09-06T04:05:30.429Z auto-updater] current version is "23.8.2122"
+[I 2023-09-06T04:05:30.788Z main:store:plugins:electron] Application will finish launching.
+[I 2023-09-06T04:05:30.793Z main:store:plugins:electron] Application arguments: ["/opt/Xmind/xmind"]
+[I 2023-09-06T04:05:30.803Z main:store:plugins:electron] Application is ready.
+[I 2023-09-06T04:05:30.827Z main:store:plugins:open-handler] Recover: Map(0) {}
+[I 2023-09-06T04:05:30.828Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2023-09-06T04:05:30.829Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2023-09-06T04:05:30.829Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2023-09-06T04:05:30.829Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2023-09-06T04:05:30.910Z main:store:plugins:electron] Device ID: 99a92051-4997-402e-a2dd-6a44f5c0e51e
+[I 2023-09-06T04:05:33.160Z main:store:plugins:electron] All windows closed. Quit application....
+[I 2023-09-06T04:05:33.161Z main:store:plugins:electron] Application is intended to quit.
+[I 2023-09-06T04:05:33.161Z main:store:plugins:electron] Application status is quitting:  false
+[I 2023-09-06T04:05:33.161Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2023-09-06T04:05:33.162Z main:store:plugins:electron] All documents are closed.
+[I 2023-09-06T04:05:33.163Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2023-09-06T04:05:33.163Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2023-09-06T04:05:33.164Z main:store:plugins:electron] Application is intended to quit.
+[I 2023-09-06T04:05:33.164Z main:store:plugins:electron] Application status is quitting:  true
+[I 2023-09-06T04:05:33.165Z main:store:plugins:electron] Application will quit.
+[I 2023-09-06T04:05:33.165Z main:store:plugins:electron] Application quitted.

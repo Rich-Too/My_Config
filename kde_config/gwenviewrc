@@ -26,8 +26,14 @@ eDP-1=eDP-1
 [Recent Files]
 File1[$e]=$HOME/Pictures/wallpapers/MacOS 7.jpg
 File2[$e]=$HOME/Desktop/hhhh.png
+File3[$e]=/snap/clion/248/bin/clion.svg
+File4[$e]=$HOME/.local/share/JetBrains/Toolbox/apps/clion/bin/clion.svg
+File5[$e]=trash:/0-展示视频.gif (2)
 Name1[$e]=MacOS 7.jpg
 Name2[$e]=hhhh.png
+Name3[$e]=clion.svg
+Name4[$e]=clion.svg
+Name5[$e]=0-展示视频.gif (2)
 
 [SideBar]
 InformationSplitterSizes=221,254

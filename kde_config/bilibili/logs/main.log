@@ -1,0 +1,280 @@
+[2023-09-18 10:51:02.018] [error] (AppBootstrap) Process uncaughtException! TypeError: require(...) is not a function
+    at Object.<anonymous> (/tmp/.mount_bilibi9PrJj2/resources/app.asar/index.js:48:25)
+    at Module._compile (node:internal/modules/cjs/loader:1116:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1169:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Object.<anonymous> (node:electron/js2c/browser_init:189:3197)
+    at Object../lib/browser/init.ts (node:electron/js2c/browser_init:189:3401)
+    at __webpack_require__ (node:electron/js2c/browser_init:1:128)
+    at node:electron/js2c/browser_init:1:1200
+[2023-09-18 10:51:02.107] [info]  (SystemService)      System info: {"osArch":"x64","processArch":"x64","osType":"Linux","platform":"linux","endianness":"LE","hostName":"rich-voyager","totalMemory":16449097728}
+[2023-09-18 10:51:02.107] [info]  (SystemService)      Initing app configs!
+[2023-09-18 10:51:02.115] [info]  (SystemService)      Set initial version: 1.12.0
+[2023-09-18 10:51:02.157] [info]  (PlayerService)      Initing player exp.
+[2023-09-18 10:51:02.157] [info]  (PlayerService)      Load player config.
+[2023-09-18 10:51:02.529] [info]  (AppEvents)          Process args ["/tmp/.mount_bilibi9PrJj2/bilibili"]
+[2023-09-18 10:51:02.542] [info]  (FfAbTestService)    Fetch FF info.
+[2023-09-18 10:51:02.547] [info]  (FfAbTestService)    Parse FF tree.
+[2023-09-18 10:51:02.568] [info]  (ReportService)      Initing log-report!
+[2023-09-18 10:51:02.587] [info]  (AuthService)        init buivd 
+[2023-09-18 10:51:02.587] [info]  (AuthService)        no buvid
+[2023-09-18 10:51:02.587] [info]  (AuthService)        notfound buvid
+[2023-09-18 10:51:02.610] [info]  (DonwloadService)    Init bili-download!
+[2023-09-18 10:51:02.632] [info]  (SystemService)      Initing ffmpeg!
+[2023-09-18 10:51:02.633] [info]  (SystemService)      Creating ffmpeg dir: /home/richtoo/.config/bilibili/ffmpeg
+[2023-09-18 10:51:02.633] [info]  (SystemService)      Fetch ffmpeg
+[2023-09-18 10:51:02.840] [info]  (ReportService)          Init log-report success!
+[2023-09-18 10:51:02.967] [info]  (AppService)             App ready!
+[2023-09-18 10:51:02.990] [info]  (AppService)             Local server started!
+[2023-09-18 10:51:03.045] [debug] (AppService)             Creating windows!
+[2023-09-18 10:51:03.128] [info]  (WindowService)          Main window created!
+[2023-09-18 10:51:03.179] [info]  (TrayMenuService)        Creating app tray.
+[2023-09-18 10:51:03.180] [info]  (TrayMenuService)        Creating app menu.
+[2023-09-18 10:51:03.184] [info]  (ReportService)          Initing performance samples!
+[2023-09-18 10:51:03.431] [info]  (FfAbTestService)        FF env, s-c undefined-prod
+[2023-09-18 10:51:03.436] [info]  (FfAbTestService)        FF versions, l-r: NaN-29062
+[2023-09-18 10:51:03.436] [info]  (FfAbTestService)        Fetch FF details, env: prod
+[2023-09-18 10:51:03.446] [info]  (PlayerService)          Init player versions.
+[2023-09-18 10:51:03.447] [info]  (FfAbTestService)        Parse FF tree.
+[2023-09-18 10:51:03.478] [info]  (AuthService)            set buvid in regedit
+[2023-09-18 10:51:03.527] [info]  (AuthService)            set buvid in regedit succeedsystem illegal
+[2023-09-18 10:51:03.549] [info]  (SystemService)          Fetch appConfig success!
+[2023-09-18 10:51:03.790] [info]  (FfAbTestService)        Parse FF tree.
+[2023-09-18 10:51:04.348] [debug] (WindowService)          Splash window ready!
+[2023-09-18 10:51:04.406] [info]  (WindowService)          Player window created!
+[2023-09-18 10:51:04.447] [error] (AppBootstrap) Process uncaughtException! TypeError: require(...) is not a function
+    at Object.<anonymous> (/tmp/.mount_bilibiH3il3I/resources/app.asar/index.js:48:25)
+    at Module._compile (node:internal/modules/cjs/loader:1116:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1169:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at Function.c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Object.<anonymous> (node:electron/js2c/browser_init:189:3197)
+    at Object../lib/browser/init.ts (node:electron/js2c/browser_init:189:3401)
+    at __webpack_require__ (node:electron/js2c/browser_init:1:128)
+    at node:electron/js2c/browser_init:1:1200
+[2023-09-18 10:51:04.546] [info]  (RenderProcess)          Activate page: HomeRecomand
+[2023-09-18 10:51:04.565] [info]  (SystemService)      System info: {"osArch":"x64","processArch":"x64","osType":"Linux","platform":"linux","endianness":"LE","hostName":"rich-voyager","totalMemory":16449097728}
+[2023-09-18 10:51:04.565] [info]  (SystemService)      Initing app configs!
+[2023-09-18 10:51:04.610] [info]  (PlayerService)      Initing player exp.
+[2023-09-18 10:51:04.610] [info]  (PlayerService)      Load player config.
+[2023-09-18 10:51:04.644] [warn]  (AppEvents)              Second instance!
+[2023-09-18 10:51:04.646] [info]  (FfAbTestService)    Fetch FF info.
+[2023-09-18 10:51:04.653] [info]  (FfAbTestService)    Parse FF tree.
+[2023-09-18 10:51:04.670] [info]  (ReportService)      Initing log-report!
+[2023-09-18 10:51:04.670] [info]  (WindowEvents)           App activated!
+[2023-09-18 10:51:04.682] [info]  (FfAbTestService)    Parse FF tree.
+[2023-09-18 10:51:04.736] [info]  (AuthService)        init buivd 8E9623DC9C21B4784B20FFC023091810yW9JSiNaa2p/0zL6Im5FkA
+[2023-09-18 10:51:04.741] [info]  (AuthService)        buvidmark 1
+[2023-09-18 10:51:04.753] [info]  (DonwloadService)    Init bili-download!
+[2023-09-18 10:51:04.774] [info]  (SystemService)      Initing ffmpeg!
+[2023-09-18 10:51:04.774] [info]  (SystemService)      Fetch ffmpeg
+[2023-09-18 10:51:05.022] [info]  (ReportService)          Init log-report success!
+[2023-09-18 10:51:05.153] [info]  (AppService)             App ready!
+[2023-09-18 10:51:05.294] [info]  (WindowController)       Search page ready!
+[2023-09-18 10:51:05.376] [info]  (WindowController)       Player window ready!
+[2023-09-18 10:51:05.475] [debug] (WindowService)          Main window ready!
+[2023-09-18 10:51:05.486] [info]  (AuthService)            Judge login status!
+[2023-09-18 10:51:05.492] [info]  (DonwloadService)        Init DownloadURL Events
+[2023-09-18 10:51:05.505] [info]  (UpdateService)          Checking for update
+[2023-09-18 10:51:05.506] [info]  (UpdateService)          Checking for update...
+[2023-09-18 10:51:05.506] [info]  (UpdateService)          Patch info {"on":true,"s":"966dc08e","b":"0~499","bc":1000,"v":"1.12.0","sv":"1.9.0","ev":"1.12.0"}
+[2023-09-18 10:51:05.515] [info]  (AuthService)            Init system-fp!
+[2023-09-18 10:51:05.524] [info]  (DonwloadService)        Clear check download timer.
+[2023-09-18 10:51:05.530] [info]  (DonwloadService)        Check auto start download:  undefined
+[2023-09-18 10:51:05.540] [info]  (DonwloadService)        Clear check download timer.
+[2023-09-18 10:51:05.606] [info]  (UpdateService)          Generated new staging user ID: 829797b5-1d46-5bae-a313-dd2fddd69e0e
+[2023-09-18 10:51:05.640] [info]  (AuthService)            Login status:  false
+[2023-09-18 10:51:05.762] [info]  (AuthService)            Init system-fp success!
+[2023-09-18 10:51:06.395] [info]  (SystemService)          Fetch ffmpeg success!
+[2023-09-18 10:51:06.402] [info]  (SystemService)          Unzip ffmpeg
+[2023-09-18 10:51:07.577] [info]  (SystemService)          Unzip ffmpeg success!
+[2023-09-18 10:51:07.914] [error] (UpdateService)          Error: Error: Cannot find latest.yml in the latest release artifacts (https://github.com/msojocs/bilibili-linux/releases/download/v1.12.0-1/latest.yml): HttpError: 404 
+"method: GET url: https://github.com/msojocs/bilibili-linux/releases/download/v1.12.0-1/latest.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "server": "GitHub.com",
+  "date": "Mon, 18 Sep 2023 02:50:48 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "C870:44E8:122E9AE:14F5F20:6507BB08"
+}
+    at createHttpError (/tmp/.mount_bilibi9PrJj2/resources/app.asar/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_bilibi9PrJj2/resources/app.asar/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_bilibi9PrJj2/resources/app.asar/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (node:events:390:28)
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:6816)
+    at SimpleURLLoaderWrapper.emit (node:events:390:28)
+    at Object.newError (/tmp/.mount_bilibi9PrJj2/resources/app.asar/node_modules/builder-util-runtime/out/index.js:47:19)
+    at fetchData (/tmp/.mount_bilibi9PrJj2/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:108:50)
+    at async GitHubProvider.getLatestVersion (/tmp/.mount_bilibi9PrJj2/resources/app.asar/node_modules/electron-updater/out/providers/GitHubProvider.js:115:23)
+    at async AppImageUpdater.getUpdateInfoAndProvider (/tmp/.mount_bilibi9PrJj2/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:319:19)
+    at async AppImageUpdater.doCheckForUpdates (/tmp/.mount_bilibi9PrJj2/resources/app.asar/node_modules/electron-updater/out/AppUpdater.js:333:24)
+[2023-09-18 10:51:07.922] [error] (UpdateService)          Error in auto-updater.Error: Cannot find latest.yml in the latest release artifacts (https://github.com/msojocs/bilibili-linux/releases/download/v1.12.0-1/latest.yml): HttpError: 404 
+"method: GET url: https://github.com/msojocs/bilibili-linux/releases/download/v1.12.0-1/latest.yml\n\nPlease double check that your authentication token is correct. Due to security reasons, actual status maybe not reported, but 404.\n"
+Headers: {
+  "server": "GitHub.com",
+  "date": "Mon, 18 Sep 2023 02:50:48 GMT",
+  "content-type": "text/plain; charset=utf-8",
+  "vary": "X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With",
+  "cache-control": "no-cache",
+  "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+  "x-frame-options": "deny",
+  "x-content-type-options": "nosniff",
+  "x-xss-protection": "0",
+  "referrer-policy": "no-referrer-when-downgrade",
+  "content-security-policy": "default-src 'none'; base-uri 'self'; connect-src 'self'; form-action 'self'; img-src 'self' data:; script-src 'self'; style-src 'unsafe-inline'",
+  "content-encoding": "gzip",
+  "content-length": "29",
+  "x-github-request-id": "C870:44E8:122E9AE:14F5F20:6507BB08"
+}
+    at createHttpError (/tmp/.mount_bilibi9PrJj2/resources/app.asar/node_modules/builder-util-runtime/out/httpExecutor.js:14:12)
+    at ElectronHttpExecutor.handleResponse (/tmp/.mount_bilibi9PrJj2/resources/app.asar/node_modules/builder-util-runtime/out/httpExecutor.js:116:20)
+    at ClientRequest.<anonymous> (/tmp/.mount_bilibi9PrJj2/resources/app.asar/node_modules/builder-util-runtime/out/httpExecutor.js:82:26)
+    at ClientRequest.emit (node:events:390:28)
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:6816)
+    at SimpleURLLoaderWrapper.emit (node:events:390:28)
+[2023-09-18 10:51:07.922] [info]  (UpdateService)          Step:check, Times:1
+[2023-09-18 10:51:07.953] [info]  (ReportService)          start upload main log...
+[2023-09-18 10:51:08.344] [info]  (UpLoadLog)              {
+  OK: 1,
+  location: 'feedbackboss/n230918qn2xf1k50m1e2kz219ld6ffvn.log',
+  key: '/n230918qn2xf1k50m1e2kz219ld6ffvn.log',
+  bucket: 'feedbackboss',
+  etag: '12233'
+}
+[2023-09-18 10:51:08.471] [info]  (UpLoadLog)              { code: 0, message: '0', ttl: 1, data: { task_id: 739182570 } }
+[2023-09-18 10:51:08.678] [info]  (PopLoginService)        Pop login at start!
+[2023-09-18 10:51:08.701] [info]  (WindowService)          Login window created!
+[2023-09-18 10:51:08.838] [info]  (WindowService)          Initialize login page!
+[2023-09-18 10:51:08.875] [info]  (WindowEvents)           LoginWindow page ready!
+[2023-09-18 10:51:09.818] [info]  (AuthController)         Init login buvid!
+[2023-09-18 10:51:10.761] [info]  (WindowEvents)           Focus on mainWindow!
+[2023-09-18 10:51:18.245] [info]  (WindowEvents)           Start close window:  mainWindow
+[2023-09-18 10:51:18.246] [info]  (WindowService)          Main window closed!
+[2023-09-18 10:51:18.250] [info]  (SystemService)          Start app sleep timer! (900000ms)
+[2023-09-18 10:52:33.773] [info]  (WindowHandler)          Open main window Page { page: 'SettingsPage' }
+[2023-09-18 10:52:33.776] [info]  (SystemService)          Clear app sleep timer!
+[2023-09-18 10:52:33.926] [info]  (RenderProcess)          Activate page: Settings
+[2023-09-18 10:52:44.010] [info]  (WindowEvents)           Start close window:  mainWindow
+[2023-09-18 10:52:44.010] [info]  (WindowService)          Main window closed!
+[2023-09-18 10:52:44.015] [info]  (SystemService)          Start app sleep timer! (900000ms)
+[2023-09-18 11:07:44.053] [info]  (SystemService)          App sleeping!
+[2023-09-18 11:07:44.061] [info]  (ReportService)          Initing performance samples!
+[2023-10-13 16:52:16.783] [error] (AppBootstrap) Process uncaughtException! TypeError: require(...) is not a function
+    at Object.<anonymous> (/opt/apps/io.github.msojocs.bilibili/files/bin/app/app.asar/index.js:48:25)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13339)
+    at loadApplicationPackage (/opt/apps/io.github.msojocs.bilibili/files/bin/electron/resources/default_app.asar/main.js:121:16)
+    at Object.<anonymous> (/opt/apps/io.github.msojocs.bilibili/files/bin/electron/resources/default_app.asar/main.js:233:9)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+[2023-10-13 16:52:16.852] [info]  (SystemService)      System info: {"osArch":"x64","processArch":"x64","osType":"Linux","platform":"linux","endianness":"LE","hostName":"rich-voyager","totalMemory":16449097728}
+[2023-10-13 16:52:16.852] [info]  (SystemService)      Initing app configs!
+[2023-10-13 16:52:16.883] [info]  (PlayerService)      Initing player exp.
+[2023-10-13 16:52:16.883] [info]  (PlayerService)      Load player config.
+[2023-10-13 16:52:17.040] [info]  (AppEvents)          Process args ["/opt/apps/io.github.msojocs.bilibili/files/bin/electron/electron","/opt/apps/io.github.msojocs.bilibili/files/bin/app/app.asar","--no-sandbox"]
+[2023-10-13 16:52:17.051] [info]  (FfAbTestService)    Fetch FF info.
+[2023-10-13 16:52:17.056] [info]  (FfAbTestService)    Parse FF tree.
+[2023-10-13 16:52:17.069] [info]  (ReportService)      Initing log-report!
+[2023-10-13 16:52:17.078] [info]  (FfAbTestService)    Parse FF tree.
+[2023-10-13 16:52:17.123] [info]  (AuthService)        init buivd 8E9623DC9C21B4784B20FFC023091810yW9JSiNaa2p/0zL6Im5FkA
+[2023-10-13 16:52:17.127] [info]  (AuthService)        buvidmark 1
+[2023-10-13 16:52:17.136] [info]  (DonwloadService)    Init bili-download!
+[2023-10-13 16:52:17.153] [info]  (SystemService)      Initing ffmpeg!
+[2023-10-13 16:52:17.274] [info]  (ReportService)          Init log-report success!
+[2023-10-13 16:52:17.307] [info]  (AppService)             App ready!
+[2023-10-13 16:52:17.321] [info]  (AppService)             Local server started!
+[2023-10-13 16:52:17.369] [debug] (AppService)             Creating windows!
+[2023-10-13 16:52:17.405] [info]  (WindowService)          Main window created!
+[2023-10-13 16:52:17.431] [info]  (TrayMenuService)        Creating app tray.
+[2023-10-13 16:52:17.432] [info]  (TrayMenuService)        Creating app menu.
+[2023-10-13 16:52:17.437] [info]  (ReportService)          Initing performance samples!
+[2023-10-13 16:52:17.565] [info]  (PlayerService)          Init player versions.
+[2023-10-13 16:52:17.576] [info]  (PlayerService)          Fetch exp player, ID: 4
+[2023-10-13 16:52:17.591] [info]  (SystemService)          Fetch appConfig success!
+[2023-10-13 16:52:17.609] [info]  (FfAbTestService)        FF env, s-c prod
+[2023-10-13 16:52:17.614] [info]  (FfAbTestService)        FF versions, l-r: 29062
+[2023-10-13 16:52:17.914] [info]  (WindowHandler)          Reload player window to new.
+[2023-10-13 16:52:17.948] [info]  (WindowEvents)           App activated!
+[2023-10-13 16:52:18.220] [info]  (WindowEvents)           App deactivated!
+[2023-10-13 16:52:18.226] [debug] (WindowService)          Splash window ready!
+[2023-10-13 16:52:18.251] [info]  (WindowService)          Player window created!
+[2023-10-13 16:52:18.270] [info]  (WindowEvents)           Focus on mainWindow!
+[2023-10-13 16:52:18.460] [info]  (RenderProcess)          Activate page: HomeRecomand
+[2023-10-13 16:52:18.506] [info]  (WindowEvents)           App activated!
+[2023-10-13 16:52:18.968] [info]  (WindowController)       Search page ready!
+[2023-10-13 16:52:19.116] [info]  (WindowController)       Player window ready!
+[2023-10-13 16:52:19.225] [debug] (WindowService)          Main window ready!
+[2023-10-13 16:52:19.235] [info]  (AuthService)            Judge login status!
+[2023-10-13 16:52:19.241] [info]  (DonwloadService)        Init DownloadURL Events
+[2023-10-13 16:52:19.254] [info]  (UpdateService)          Checking for update
+[2023-10-13 16:52:19.254] [info]  (UpdateService)          Checking for update...
+[2023-10-13 16:52:19.255] [info]  (UpdateService)          Patch info {"on":true,"s":"966dc08e","b":"0~999","bc":1000,"v":"1.12.1","sv":"1.9.0","ev":"1.12.1"}
+[2023-10-13 16:52:19.259] [info]  (UpdateService)          Patch bucket: 975
+[2023-10-13 16:52:19.259] [info]  (UpdateService)          Increment update bucket hit.
+[2023-10-13 16:52:19.260] [info]  (UpdateService)          Fetch patch: 1.12.1
+[2023-10-13 16:52:19.273] [info]  (AuthService)            Init system-fp!
+[2023-10-13 16:52:19.279] [info]  (DonwloadService)        Clear check download timer.
+[2023-10-13 16:52:19.284] [info]  (DonwloadService)        Check auto start download:  undefined
+[2023-10-13 16:52:19.293] [info]  (DonwloadService)        Clear check download timer.
+[2023-10-13 16:52:19.330] [info]  (AuthService)            Login status:  false
+[2023-10-13 16:52:19.359] [info]  (UpdateService)          Staging percentage: 1, percentage: 0.8665560518546394, user id: 829797b5-1d46-5bae-a313-dd2fddd69e0e
+[2023-10-13 16:52:19.360] [info]  (UpdateService)          Update for version 1.12.0 is not available (latest version: 1.9.0, downgrade is disallowed).
+[2023-10-13 16:52:19.360] [info]  (UpdateService)          Update not available.
+[2023-10-13 16:52:19.375] [info]  (PopLoginService)        Pop login at start!
+[2023-10-13 16:52:19.499] [info]  (AuthService)            Init system-fp success!
+[2023-10-13 16:52:19.538] [info]  (WindowEvents)           App deactivated!
+[2023-10-13 16:52:21.137] [info]  (UpdateService)          Fetch patch success!
+[2023-10-13 16:52:21.138] [error] (UpdateService)          download petch(1.12.1) error: Error: ENOENT: no such file or directory, open '/home/richtoo/.config/bilibili/resource/update.zip'
+    at Object.openSync (node:fs:585:3)
+    at Object.func [as openSync] (node:electron/js2c/asar_bundle:5:1810)
+    at writeFileSync (node:fs:2170:35)
+    at S.handleFetchPatch (/opt/apps/io.github.msojocs.bilibili/files/bin/app/app.asar/main/app.js:149:750710)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-10-13 16:55:26.857] [info]  (WindowEvents)           Focus on mainWindow!
+[2023-10-13 16:55:27.081] [info]  (WindowService)          Login window created!
+[2023-10-13 16:55:27.086] [info]  (WindowEvents)           App activated!
+[2023-10-13 16:55:27.213] [info]  (WindowService)          Initialize login page!
+[2023-10-13 16:55:27.230] [info]  (WindowEvents)           LoginWindow page ready!
+[2023-10-13 16:55:28.011] [info]  (AuthController)         Init login buvid!
+[2023-10-13 16:55:28.819] [info]  (AuthService)            Checking login status!
+[2023-10-13 16:55:29.614] [info]  (WindowEvents)           Focus on mainWindow!
+[2023-10-13 16:55:30.736] [info]  (WindowEvents)           Start close window:  mainWindow
+[2023-10-13 16:55:32.045] [info]  (WindowEvents)           Focus on loginWindow!
+[2023-10-13 16:55:32.159] [info]  (WindowEvents)           Focus on mainWindow!
+[2023-10-13 16:55:33.127] [info]  (WindowEvents)           Start close window:  mainWindow
+[2023-10-13 16:55:34.441] [info]  (WindowEvents)           Start close window:  mainWindow
+[2023-10-13 16:55:36.459] [info]  (ConfigController)       SetIsQuitByCloseMain:  true
+[2023-10-13 16:55:36.497] [info]  (WindowEvents)           Start close window:  mainWindow
+[2023-10-13 16:55:36.497] [info]  (WindowService)          Main window closed!
+[2023-10-13 16:55:36.502] [info]  (SystemService)          Start app sleep timer! (900000ms)
+[2023-10-13 16:55:36.503] [info]  (AppController)          Handle quit app!
+[2023-10-13 16:55:36.504] [info]  (ConfigService)          Clearing...
+[2023-10-13 16:55:36.504] [info]  (TrayMenuService)        Destoring app tray
+[2023-10-13 16:55:36.505] [info]  (DonwloadService)        Cancel downloading tasks!
+[2023-10-13 16:55:36.505] [info]  (DonwloadService)        Clear check download timer.
+[2023-10-13 16:55:36.520] [info]  (ReportService)          Initing performance samples!
+[2023-10-13 16:55:36.558] [info]  (WindowEvents)           Start close window:  mainWindow
+[2023-10-13 16:55:36.559] [info]  (WindowService)          Main window closed!
+[2023-10-13 16:55:36.559] [info]  (WindowService)          Message window closed!
+[2023-10-13 16:55:36.573] [info]  (WindowEvents)           Start close window:  playerWindow
+[2023-10-13 16:55:36.575] [info]  (ConfigController)       Set is selected exit:  false
+[2023-10-13 16:55:36.619] [info]  (WindowEvents)           Start close window:  playerWindow
+[2023-10-13 16:55:36.620] [info]  (WindowService)          Player window closed!
+[2023-10-13 16:55:36.783] [info]  (WindowEvents)           App deactivated!
+[2023-10-13 16:55:38.048] [info]  (ConfigService)          App quitting...
+[2023-10-13 16:55:38.052] [info]  (AppEvents)              Good-bye!

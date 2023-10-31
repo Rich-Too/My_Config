@@ -136,8 +136,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [DirSelect Dialog]
-DirSelectDialog Size=962,632
-History Items[$e]=file:$HOME/Pictures/wallpapers,file:$HOME/Pictures/Screenshots,file:$HOME/Software,file:$HOME/Documents/存档(hide)
+DirSelectDialog Size=832,609
+History Items[$e]=file:$HOME/Downloads,file:$HOME/Pictures/wallpapers,file:$HOME/Pictures/Screenshots,file:$HOME/Software,file:$HOME/Documents/存档(hide)
 
 [General]
 BrowserApplication=google-chrome.desktop
@@ -155,7 +155,7 @@ smallestReadableFont=PingFang SC,11,-1,5,50,0,0,0,0,0
 toolBarFont=PingFang SC,11,-1,5,50,0,0,0,0,0
 
 [KDE]
-LookAndFeelPackage=com.github.vinceliuice.WhiteSur-dark
+LookAndFeelPackage=com.github.vinceliuice.WhiteSur
 ShowDeleteCommand=false
 SingleClick=false
 widgetStyle=Breeze
@@ -163,7 +163,7 @@ widgetStyle=Breeze
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true
-Breadcrumb Navigation=true
+Breadcrumb Navigation=false
 Decoration position=2
 LocationCombo Completionmode=5
 PathCombo Completionmode=5

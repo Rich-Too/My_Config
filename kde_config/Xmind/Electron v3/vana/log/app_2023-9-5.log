@@ -1,0 +1,178 @@
+
+-------- SESSION 2023-09-05T14:04:02.610Z (23.08.02122+202308281804, linux, x64, 16449093632, XMIND LTD., vana_linux) --------
+[I 2023-09-05T14:04:02.630Z main:store:plugins:electron] current pid is "9374"
+[I 2023-09-05T14:04:02.633Z usage-stats] sync data
+[I 2023-09-05T14:04:02.691Z auto-updater] current version is "23.8.2122"
+[I 2023-09-05T14:04:03.356Z main:store:plugins:electron] Application will finish launching.
+[I 2023-09-05T14:04:03.370Z main:store:plugins:electron] Application arguments: ["/home/richtoo/Downloads/xmind-vana-23.8.2122/opt/Xmind/xmind"]
+[I 2023-09-05T14:04:03.378Z main:store:plugins:electron] Application is ready.
+[I 2023-09-05T14:04:03.505Z main:store:plugins:electron] Device ID: 99a92051-4997-402e-a2dd-6a44f5c0e51e
+[I 2023-09-05T14:04:04.078Z main:store:plugins:electron] Application receives arguments from another instance: ["/home/richtoo/Downloads/xmind-vana-23.8.2122/opt/Xmind/xmind","--allow-file-access-from-files"] /home/richtoo/Downloads/xmind-vana-23.8.2122/opt/Xmind
+[I 2023-09-05T14:04:09.858Z main:store:plugins:open-handler] Recover: Map(0) {}
+[I 2023-09-05T14:04:09.860Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2023-09-05T14:04:09.860Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2023-09-05T14:04:09.860Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2023-09-05T14:04:09.860Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2023-09-05T14:04:30.592Z main:store:plugins:electron] All windows closed. Quit application....
+[I 2023-09-05T14:04:30.592Z main:store:plugins:electron] Application is intended to quit.
+[I 2023-09-05T14:04:30.593Z main:store:plugins:electron] Application status is quitting:  false
+[I 2023-09-05T14:04:30.594Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2023-09-05T14:04:30.595Z main:store:plugins:electron] All documents are closed.
+[I 2023-09-05T14:04:30.598Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2023-09-05T14:04:30.598Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2023-09-05T14:04:30.603Z main:store:plugins:electron] Application is intended to quit.
+[I 2023-09-05T14:04:30.603Z main:store:plugins:electron] Application status is quitting:  true
+[I 2023-09-05T14:04:30.603Z main:store:plugins:electron] Application will quit.
+[I 2023-09-05T14:04:30.603Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2023-09-05T14:06:10.816Z (23.08.02122+202308281804, linux, x64, 16449093632, XMIND LTD., vana_linux) --------
+[I 2023-09-05T14:06:10.837Z main:store:plugins:electron] current pid is "12049"
+[I 2023-09-05T14:06:10.840Z usage-stats] sync data
+[I 2023-09-05T14:06:10.904Z auto-updater] current version is "23.8.2122"
+[I 2023-09-05T14:06:11.641Z main:store:plugins:electron] Application will finish launching.
+[I 2023-09-05T14:06:11.648Z main:store:plugins:electron] Application arguments: ["/home/richtoo/Downloads/xmind-vana-23.8.2122/opt/Xmind/xmind"]
+[I 2023-09-05T14:06:11.656Z main:store:plugins:electron] Application is ready.
+[I 2023-09-05T14:06:11.688Z main:store:plugins:open-handler] Recover: Map(0) {}
+[I 2023-09-05T14:06:11.690Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2023-09-05T14:06:11.690Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2023-09-05T14:06:11.691Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2023-09-05T14:06:11.691Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2023-09-05T14:06:11.791Z main:store:plugins:electron] Device ID: 99a92051-4997-402e-a2dd-6a44f5c0e51e
+[I 2023-09-05T14:06:11.923Z main:store:plugins:electron] Application receives arguments from another instance: ["/home/richtoo/Downloads/xmind-vana-23.8.2122/opt/Xmind/xmind","--allow-file-access-from-files"] /home/richtoo/Downloads/xmind-vana-23.8.2122/opt/Xmind
+[I 2023-09-05T14:06:12.521Z main:store:plugins:electron] Application receives arguments from another instance: ["/home/richtoo/Downloads/xmind-vana-23.8.2122/opt/Xmind/xmind","--allow-file-access-from-files"] /home/richtoo/Downloads/xmind-vana-23.8.2122/opt/Xmind
+[I 2023-09-05T14:06:16.456Z fonts] App Locale: en
+[I 2023-09-05T14:06:16.457Z fonts] start get system fonts
+[I 2023-09-05T14:06:17.117Z fonts] App Locale: en
+[I 2023-09-05T14:06:17.118Z fonts] App Locale: en
+[I 2023-09-05T14:06:20.140Z fonts] Consuming 3683 ms to get system fonts
+[I 2023-09-05T14:06:20.402Z main:store:plugins:editors:EditorFrame] Frame 4988b9529a2a0ae77f16c991b0 close
+[I 2023-09-05T14:06:20.611Z main:store:plugins:editors:EditorFrame] Frame 4988b9529a2a0ae77f16c991b0 close
+[I 2023-09-05T14:06:20.621Z main:store:plugins:editors:EditorFrame] Frame 4988b9529a2a0ae77f16c991b0 webContents destroyed
+[I 2023-09-05T14:06:20.655Z main:store:plugins:electron] All windows closed. Quit application....
+[I 2023-09-05T14:06:20.655Z main:store:plugins:electron] Application is intended to quit.
+[I 2023-09-05T14:06:20.656Z main:store:plugins:electron] Application status is quitting:  false
+[I 2023-09-05T14:06:20.656Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2023-09-05T14:06:20.657Z main:store:plugins:electron] All documents are closed.
+[I 2023-09-05T14:06:20.659Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2023-09-05T14:06:20.659Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2023-09-05T14:06:20.668Z main:store:plugins:electron] Application is intended to quit.
+[I 2023-09-05T14:06:20.668Z main:store:plugins:electron] Application status is quitting:  true
+[I 2023-09-05T14:06:20.669Z main:store:plugins:electron] Application will quit.
+[I 2023-09-05T14:06:20.669Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2023-09-05T14:15:23.432Z (23.08.02122+202308281754, linux, x64, 16449093632, XMIND LTD., vana_linux) --------
+[I 2023-09-05T14:15:23.452Z main:store:plugins:electron] current pid is "30474"
+[I 2023-09-05T14:15:23.455Z usage-stats] sync data
+[I 2023-09-05T14:15:23.514Z auto-updater] current version is "23.8.2122"
+[I 2023-09-05T14:15:24.173Z main:store:plugins:electron] Application will finish launching.
+[I 2023-09-05T14:15:24.179Z main:store:plugins:electron] Application arguments: ["/opt/Xmind/xmind"]
+[I 2023-09-05T14:15:24.188Z main:store:plugins:electron] Application is ready.
+[I 2023-09-05T14:15:24.214Z main:store:plugins:open-handler] Recover: Map(0) {}
+[I 2023-09-05T14:15:24.216Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2023-09-05T14:15:24.216Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2023-09-05T14:15:24.216Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2023-09-05T14:15:24.216Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2023-09-05T14:15:24.326Z main:store:plugins:electron] Device ID: 99a92051-4997-402e-a2dd-6a44f5c0e51e
+[I 2023-09-05T14:15:35.055Z fonts] App Locale: en
+[I 2023-09-05T14:15:35.055Z fonts] start get system fonts
+[I 2023-09-05T14:15:35.667Z fonts] App Locale: en
+[I 2023-09-05T14:15:35.667Z fonts] App Locale: en
+[I 2023-09-05T14:15:37.895Z fonts] Consuming 2839 ms to get system fonts
+[I 2023-09-05T14:16:14.218Z fonts] App Locale: en
+[I 2023-09-05T14:16:24.217Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2023-09-05T14:16:24.218Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2023-09-05T14:16:37.116Z fonts] App Locale: en
+[I 2023-09-05T14:16:54.355Z fonts] App Locale: en
+[I 2023-09-05T14:17:32.273Z main:store:plugins:editors:EditorFrame] Frame bbbb8244b7d96e5521a6a9316d close
+[I 2023-09-05T14:17:32.289Z main:store:plugins:editors:EditorFrame] Frame bbbb8244b7d96e5521a6a9316d webContents destroyed
+[I 2023-09-05T14:17:32.318Z main:store:plugins:electron] All windows closed. Quit application....
+[I 2023-09-05T14:17:32.318Z main:store:plugins:electron] Application is intended to quit.
+[I 2023-09-05T14:17:32.318Z main:store:plugins:electron] Application status is quitting:  false
+[I 2023-09-05T14:17:32.318Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2023-09-05T14:17:32.319Z main:store:plugins:electron] All documents are closed.
+[I 2023-09-05T14:17:32.320Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2023-09-05T14:17:32.321Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2023-09-05T14:17:32.325Z main:store:plugins:electron] Application is intended to quit.
+[I 2023-09-05T14:17:32.325Z main:store:plugins:electron] Application status is quitting:  true
+[I 2023-09-05T14:17:32.325Z main:store:plugins:electron] Application will quit.
+[I 2023-09-05T14:17:32.326Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2023-09-05T14:44:40.093Z (23.08.02122+202308281754, linux, x64, 16449093632, XMIND LTD., vana_linux) --------
+[I 2023-09-05T14:44:40.104Z main:store:plugins:electron] current pid is "34366"
+[I 2023-09-05T14:44:40.106Z usage-stats] sync data
+[I 2023-09-05T14:44:40.138Z auto-updater] current version is "23.8.2122"
+[I 2023-09-05T14:44:40.515Z main:store:plugins:electron] Application will finish launching.
+[I 2023-09-05T14:44:40.519Z main:store:plugins:electron] Application arguments: ["/opt/Xmind/xmind"]
+[I 2023-09-05T14:44:40.524Z main:store:plugins:electron] Application is ready.
+[I 2023-09-05T14:44:40.543Z main:store:plugins:open-handler] Recover: Map(0) {}
+[I 2023-09-05T14:44:40.544Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2023-09-05T14:44:40.544Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2023-09-05T14:44:40.544Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2023-09-05T14:44:40.544Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2023-09-05T14:44:40.622Z main:store:plugins:electron] Device ID: 99a92051-4997-402e-a2dd-6a44f5c0e51e
+[I 2023-09-05T14:44:51.787Z fonts] App Locale: en
+[I 2023-09-05T14:44:51.787Z fonts] start get system fonts
+[I 2023-09-05T14:44:52.143Z fonts] App Locale: en
+[I 2023-09-05T14:44:52.144Z fonts] App Locale: en
+[I 2023-09-05T14:44:53.601Z fonts] Consuming 1814 ms to get system fonts
+[I 2023-09-05T14:45:40.537Z fonts] App Locale: en
+[I 2023-09-05T14:45:40.545Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2023-09-05T14:45:40.545Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2023-09-05T14:46:34.188Z fonts] App Locale: en
+[I 2023-09-05T14:46:48.914Z main:store:plugins:editors:EditorFrame] Frame 8f28d95718ba9a202a28e92e35 close
+[I 2023-09-05T14:46:50.702Z main:store:plugins:editors:EditorView] User cancel closing editor
+[I 2023-09-05T14:46:50.702Z main:store:plugins:editors:EditorFrame] User cancel closing on closing EditorFrame
+[I 2023-09-05T14:46:52.114Z main:store:plugins:editors:EditorFrame] Frame 8f28d95718ba9a202a28e92e35 close
+[I 2023-09-05T14:46:52.878Z main:store:plugins:editors:EditorFrame] Frame 8f28d95718ba9a202a28e92e35 close
+[I 2023-09-05T14:46:52.899Z main:store:plugins:editors:EditorFrame] Frame 8f28d95718ba9a202a28e92e35 webContents destroyed
+[I 2023-09-05T14:46:52.911Z main:store:plugins:electron] All windows closed. Quit application....
+[I 2023-09-05T14:46:52.911Z main:store:plugins:electron] Application is intended to quit.
+[I 2023-09-05T14:46:52.911Z main:store:plugins:electron] Application status is quitting:  false
+[I 2023-09-05T14:46:52.911Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2023-09-05T14:46:52.912Z main:store:plugins:electron] All documents are closed.
+[I 2023-09-05T14:46:52.913Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2023-09-05T14:46:52.913Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2023-09-05T14:46:52.916Z main:store:plugins:electron] Application is intended to quit.
+[I 2023-09-05T14:46:52.916Z main:store:plugins:electron] Application status is quitting:  true
+[I 2023-09-05T14:46:52.916Z main:store:plugins:electron] Application will quit.
+[I 2023-09-05T14:46:52.916Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2023-09-05T14:46:54.899Z (23.08.02122+202308281754, linux, x64, 16449093632, XMIND LTD., vana_linux) --------
+[I 2023-09-05T14:46:54.909Z main:store:plugins:electron] current pid is "34894"
+[I 2023-09-05T14:46:54.920Z usage-stats] sync data
+[I 2023-09-05T14:46:54.952Z auto-updater] current version is "23.8.2122"
+[I 2023-09-05T14:46:55.344Z main:store:plugins:electron] Application will finish launching.
+[I 2023-09-05T14:46:55.348Z main:store:plugins:electron] Application arguments: ["/opt/Xmind/xmind"]
+[I 2023-09-05T14:46:55.353Z main:store:plugins:electron] Application is ready.
+[I 2023-09-05T14:46:55.371Z main:store:plugins:open-handler] Recover: Map(0) {}
+[I 2023-09-05T14:46:55.371Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2023-09-05T14:46:55.372Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2023-09-05T14:46:55.372Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2023-09-05T14:46:55.372Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2023-09-05T14:46:55.448Z main:store:plugins:electron] Device ID: 99a92051-4997-402e-a2dd-6a44f5c0e51e
+[I 2023-09-05T14:46:58.122Z fonts] App Locale: en
+[I 2023-09-05T14:46:58.122Z fonts] start get system fonts
+[I 2023-09-05T14:46:58.524Z fonts] App Locale: en
+[I 2023-09-05T14:46:58.525Z fonts] App Locale: en
+[I 2023-09-05T14:46:59.664Z fonts] Consuming 1542 ms to get system fonts
+[I 2023-09-05T14:47:02.324Z fonts] App Locale: en
+[I 2023-09-05T14:47:28.608Z fonts] App Locale: en
+[I 2023-09-05T14:47:55.374Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2023-09-05T14:47:55.375Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2023-09-05T14:48:10.954Z main:store:plugins:editors:EditorFrame] Frame 08b885ff75dbb6e3fd079be652 close
+[I 2023-09-05T14:48:11.722Z main:store:plugins:editors:EditorView] User cancel closing editor
+[I 2023-09-05T14:48:11.722Z main:store:plugins:editors:EditorFrame] User cancel closing on closing EditorFrame
+[I 2023-09-05T14:48:13.351Z main:store:plugins:editors:EditorFrame] Frame 08b885ff75dbb6e3fd079be652 close
+[I 2023-09-05T14:48:14.790Z main:store:plugins:editors:EditorFrame] Frame 08b885ff75dbb6e3fd079be652 close
+[I 2023-09-05T14:48:14.795Z main:store:plugins:editors:EditorFrame] Frame 08b885ff75dbb6e3fd079be652 webContents destroyed
+[I 2023-09-05T14:48:14.841Z main:store:plugins:electron] All windows closed. Quit application....
+[I 2023-09-05T14:48:14.842Z main:store:plugins:electron] Application is intended to quit.
+[I 2023-09-05T14:48:14.842Z main:store:plugins:electron] Application status is quitting:  false
+[I 2023-09-05T14:48:14.842Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2023-09-05T14:48:14.843Z main:store:plugins:electron] All documents are closed.
+[I 2023-09-05T14:48:14.845Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2023-09-05T14:48:14.845Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2023-09-05T14:48:14.848Z main:store:plugins:electron] Application is intended to quit.
+[I 2023-09-05T14:48:14.848Z main:store:plugins:electron] Application status is quitting:  true
+[I 2023-09-05T14:48:14.848Z main:store:plugins:electron] Application will quit.
+[I 2023-09-05T14:48:14.848Z main:store:plugins:electron] Application quitted.

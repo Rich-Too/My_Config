@@ -8,6 +8,7 @@ HorizTwoFingerScroll=true
 InvertHorizScroll=true
 InvertVertScroll=true
 MaxTapMove=3.7
+SingleTapTimeout=220
 Tapping=false
 VertEdgeScroll=false
 VertScrollDelta=6

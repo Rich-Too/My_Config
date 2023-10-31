@@ -39,37 +39,37 @@
   <languageCodes></languageCodes>
  </forvo>
  <mediawikis>
-  <mediawiki icon="" name="English Wikipedia" id="ae6f89aac7151829681b85f035d54e48" enabled="1" url="https://en.wikipedia.org/w"/>
-  <mediawiki icon="" name="English Wiktionary" id="affcf9678e7bfe701c9b071f97eccba3" enabled="0" url="https://en.wiktionary.org/w"/>
-  <mediawiki icon="" name="Russian Wikipedia" id="8e0c1c2b6821dab8bdba8eb869ca7176" enabled="0" url="https://ru.wikipedia.org/w"/>
-  <mediawiki icon="" name="Russian Wiktionary" id="b09947600ae3902654f8ad4567ae8567" enabled="0" url="https://ru.wiktionary.org/w"/>
-  <mediawiki icon="" name="German Wikipedia" id="a8a66331a1242ca2aeb0b4aed361c41d" enabled="0" url="https://de.wikipedia.org/w"/>
-  <mediawiki icon="" name="German Wiktionary" id="21c64bca5ec10ba17ff19f3066bc962a" enabled="0" url="https://de.wiktionary.org/w"/>
-  <mediawiki icon="" name="Portuguese Wikipedia" id="96957cb2ad73a20c7a1d561fc83c253a" enabled="0" url="https://pt.wikipedia.org/w"/>
-  <mediawiki icon="" name="Portuguese Wiktionary" id="ed4c3929196afdd93cc08b9a903aad6a" enabled="0" url="https://pt.wiktionary.org/w"/>
-  <mediawiki icon="" name="Greek Wikipedia" id="f3b4ec8531e52ddf5b10d21e4577a7a2" enabled="0" url="https://el.wikipedia.org/w"/>
-  <mediawiki icon="" name="Greek Wiktionary" id="5d45232075d06e002dea72fe3e137da1" enabled="0" url="https://el.wiktionary.org/w"/>
+  <mediawiki url="https://en.wikipedia.org/w" icon="" name="English Wikipedia" id="ae6f89aac7151829681b85f035d54e48" enabled="1"/>
+  <mediawiki url="https://en.wiktionary.org/w" icon="" name="English Wiktionary" id="affcf9678e7bfe701c9b071f97eccba3" enabled="0"/>
+  <mediawiki url="https://ru.wikipedia.org/w" icon="" name="Russian Wikipedia" id="8e0c1c2b6821dab8bdba8eb869ca7176" enabled="0"/>
+  <mediawiki url="https://ru.wiktionary.org/w" icon="" name="Russian Wiktionary" id="b09947600ae3902654f8ad4567ae8567" enabled="0"/>
+  <mediawiki url="https://de.wikipedia.org/w" icon="" name="German Wikipedia" id="a8a66331a1242ca2aeb0b4aed361c41d" enabled="0"/>
+  <mediawiki url="https://de.wiktionary.org/w" icon="" name="German Wiktionary" id="21c64bca5ec10ba17ff19f3066bc962a" enabled="0"/>
+  <mediawiki url="https://pt.wikipedia.org/w" icon="" name="Portuguese Wikipedia" id="96957cb2ad73a20c7a1d561fc83c253a" enabled="0"/>
+  <mediawiki url="https://pt.wiktionary.org/w" icon="" name="Portuguese Wiktionary" id="ed4c3929196afdd93cc08b9a903aad6a" enabled="0"/>
+  <mediawiki url="https://el.wikipedia.org/w" icon="" name="Greek Wikipedia" id="f3b4ec8531e52ddf5b10d21e4577a7a2" enabled="0"/>
+  <mediawiki url="https://el.wiktionary.org/w" icon="" name="Greek Wiktionary" id="5d45232075d06e002dea72fe3e137da1" enabled="0"/>
  </mediawikis>
  <websites>
-  <website inside_iframe="0" icon="" name="Google En-En (Oxford)" id="b88cb2898e634c6638df618528284c2d" enabled="0" url="https://www.google.com/search?q=define:%GDWORD%&amp;hl=en"/>
-  <website inside_iframe="0" icon="" name="Urban Dictionary" id="f376365a0de651fd7505e7e5e683aa45" enabled="0" url="https://www.urbandictionary.com/define.php?term=%GDWORD%"/>
-  <website inside_iframe="0" icon="" name="Multitran (En)" id="324ca0306187df7511b26d3847f4b07c" enabled="0" url="https://multitran.ru/c/m.exe?CL=1&amp;l1=1&amp;s=%GD1251%"/>
-  <website inside_iframe="0" icon="" name="Lingvo (En-Ru)" id="924db471b105299c82892067c0f10787" enabled="0" url="http://lingvopro.abbyyonline.com/en/Search/en-ru/%GDWORD%"/>
-  <website inside_iframe="0" icon="" name="Michaelis (Pt-En)" id="087a6d65615fb047f4c80eef0a9465db" enabled="0" url="http://michaelis.uol.com.br/moderno/ingles/index.php?lingua=portugues-ingles&amp;palavra=%GDISO1%"/>
-  <website inside_iframe="1" icon="" name="Youdao" id="34607a8351c8fa9932d024d9d5c95e3c" enabled="0" url="http://dict.youdao.com/search?q=%GDWORD%&amp;ue=utf8"/>
-  <website inside_iframe="1" icon="" name="oulu" id="565511449fb48c26371c05d5633620d4" enabled="1" url="https://dict.eudic.net/dicts/en/%GDWORD%&#xa;"/>
+  <website url="https://www.google.com/search?q=define:%GDWORD%&amp;hl=en" icon="" name="Google En-En (Oxford)" id="b88cb2898e634c6638df618528284c2d" inside_iframe="0" enabled="0"/>
+  <website url="https://www.urbandictionary.com/define.php?term=%GDWORD%" icon="" name="Urban Dictionary" id="f376365a0de651fd7505e7e5e683aa45" inside_iframe="0" enabled="0"/>
+  <website url="https://multitran.ru/c/m.exe?CL=1&amp;l1=1&amp;s=%GD1251%" icon="" name="Multitran (En)" id="324ca0306187df7511b26d3847f4b07c" inside_iframe="0" enabled="0"/>
+  <website url="http://lingvopro.abbyyonline.com/en/Search/en-ru/%GDWORD%" icon="" name="Lingvo (En-Ru)" id="924db471b105299c82892067c0f10787" inside_iframe="0" enabled="0"/>
+  <website url="http://michaelis.uol.com.br/moderno/ingles/index.php?lingua=portugues-ingles&amp;palavra=%GDISO1%" icon="" name="Michaelis (Pt-En)" id="087a6d65615fb047f4c80eef0a9465db" inside_iframe="0" enabled="0"/>
+  <website url="http://dict.youdao.com/search?q=%GDWORD%&amp;ue=utf8" icon="" name="Youdao" id="34607a8351c8fa9932d024d9d5c95e3c" inside_iframe="1" enabled="0"/>
+  <website url="https://dict.eudic.net/dicts/en/%GDWORD%&#xa;" icon="" name="oulu" id="565511449fb48c26371c05d5633620d4" inside_iframe="1" enabled="1"/>
  </websites>
  <dictservers/>
  <programs>
-  <program icon="" name="Festival" commandLine="festival --tts" type="0" id="428b4c2b905ef568a43d9a16f59559b0" enabled="0"/>
-  <program icon="" name="Espeak" commandLine="espeak %GDWORD%" type="0" id="2cf8b3a60f27e1ac812de0b57c148340" enabled="0"/>
-  <program icon="" name="Youdao Translate" commandLine="/home/richtoo/Software/gd_plugin/youdao/youdao_get.py %GDWORD%" type="2" id="4f898f7582596cea518c6b0bfdceb8b3" enabled="1"/>
-  <program icon="" name="Translate-2-Chinese" commandLine="" type="1" id="d38265650299477f6726b55fc5dddb0b" enabled="0"/>
+  <program icon="" name="Festival" id="428b4c2b905ef568a43d9a16f59559b0" commandLine="festival --tts" type="0" enabled="0"/>
+  <program icon="" name="Espeak" id="2cf8b3a60f27e1ac812de0b57c148340" commandLine="espeak %GDWORD%" type="0" enabled="0"/>
+  <program icon="" name="Youdao Translate" id="4f898f7582596cea518c6b0bfdceb8b3" commandLine="/home/richtoo/Software/gd_plugin/youdao/youdao_get.py %GDWORD%" type="2" enabled="1"/>
+  <program icon="" name="Translate-2-Chinese" id="d38265650299477f6726b55fc5dddb0b" commandLine="" type="1" enabled="0"/>
  </programs>
  <voiceEngines/>
  <mutedDictionaries>
-  <mutedDictionary>ae6f89aac7151829681b85f035d54e48</mutedDictionary>
   <mutedDictionary>34607a8351c8fa9932d024d9d5c95e3c</mutedDictionary>
+  <mutedDictionary>ae6f89aac7151829681b85f035d54e48</mutedDictionary>
  </mutedDictionaries>
  <popupMutedDictionaries/>
  <preferences>
@@ -164,11 +164,11 @@
  <lastMainGroupId>0</lastMainGroupId>
  <lastPopupGroupId>0</lastPopupGroupId>
  <popupWindowState>AAAA/wAAAAH9AAAAAAAABG0AAAHMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAQAAAAEAAAAaAGQAaQBjAHQAaQBvAG4AYQByAHkAQgBhAHICAAAAAP////8AAAAAAAAAAA==</popupWindowState>
- <popupWindowGeometry>AdnQywADAAAAAAEfAAAA5gAABYsAAALSAAABHwAAAQcAAAWLAAAC0gAAAAAAAAAABqsAAAEfAAABBwAABYsAAALS</popupWindowGeometry>
+ <popupWindowGeometry>AdnQywADAAAAAAEjAAABVwAABY8AAAMiAAABIwAAAVcAAAWPAAADIgAAAAAAAAAABqsAAAEjAAABVwAABY8AAAMi</popupWindowGeometry>
  <pinPopupWindow>1</pinPopupWindow>
  <popupWindowAlwaysOnTop>1</popupWindowAlwaysOnTop>
  <mainWindowState>AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAAUAHMAZQBhAHIAYwBoAFAAYQBuAGUAAAAAAP////8AAAC4AQAAAwAAAAEAAACeAAACMfwCAAAAA/sAAAASAGQAaQBjAHQAcwBQAGEAbgBlAQAAAC4AAAC6AAAAfwEAAAP7AAAAGgBmAGEAdgBvAHIAaQB0AGUAcwBQAGEAbgBlAQAAAOkAAAC7AAAAfwEAAAP7AAAAFgBoAGkAcwB0AG8AcgB5AFAAYQBuAGUBAAABpQAAALoAAAB/AQAAAwAAA5QAAAIxAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAUAG4AYQB2AFQAbwBvAGwAYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABoAZABpAGMAdABpAG8AbgBhAHIAeQBCAGEAcgEAAAJU/////wAAAAAAAAAA</mainWindowState>
- <mainWindowGeometry>AdnQywADAAAAAAGRAAAAmwAABcMAAAL5AAABkQAAAJsAAAXDAAAC+QAAAAAAAAAABqsAAAGRAAAAmwAABcMAAAL5</mainWindowGeometry>
+ <mainWindowGeometry>AdnQywADAAAAAAEZAAAAqwAABUsAAAMJAAABGQAAAKsAAAVLAAADCQAAAAAAAAAABqsAAAEZAAAAqwAABUsAAAMJ</mainWindowGeometry>
  <helpWindowGeometry>AdnQywADAAAAAAHkAAAAmQAABDoAAAJ6AAAB5AAAALoAAAQ6AAACegAAAAAAAAAABqsAAAHkAAAAugAABDoAAAJ6</helpWindowGeometry>
  <helpSplitterState>AAAA/wAAAAEAAAACAAABBAAABAAB/////wEAAAABAA==</helpSplitterState>
  <dictInfoGeometry></dictInfoGeometry>

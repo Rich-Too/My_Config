@@ -6,3 +6,4 @@ appstreamEnabled=false
 baloosearchEnabled=true
 browserhistoryEnabled=false
 calculatorEnabled=false
+recentdocumentsEnabled=false

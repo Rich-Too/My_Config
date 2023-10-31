@@ -7,8 +7,14 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][163]
+ItemGeometries-1280x720=
+ItemGeometries-1920x1080=
+ItemGeometries-2048x1152=
 ItemGeometries-2560x1440=
+ItemGeometries-3840x2160=
+ItemGeometries-800x600=
 ItemGeometriesHorizontal=
+ItemGeometriesVertical=
 activityId=149aa237-df09-420e-90b1-5f6b3e081a71
 formfactor=0
 immutability=1
@@ -18,8 +24,8 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.slideshow
 
 [Containments][163][ConfigDialog]
-DialogHeight=1292
-DialogWidth=2560
+DialogHeight=1050
+DialogWidth=1280
 
 [Containments][163][Configuration]
 PreloadWeight=0
@@ -28,14 +34,15 @@ PreloadWeight=0
 ToolBoxButtonState=bottom
 ToolBoxButtonX=739
 ToolBoxButtonY=1290
-positions={"2560x1440":["2"\\,"13"\\,"desktop:/hhhh.png"\\,"1"\\,"0"\\,"desktop:/垃圾报告"\\,"0"\\,"10"\\,"desktop:/Algorithm"\\,"0"\\,"11"\\,"desktop:/shlab-csapp"\\,"0"\\,"8"\\,"desktop:/跨考"\\,"0"\\,"9"\\,"desktop:/My-Wiki"\\,"0"\\,"6"\\,"desktop:/Pwn"\\,"0"\\,"7"\\,"desktop:/CTF_Lab"\\,"0"\\,"4"\\,"desktop:/dotfiles"\\,"0"\\,"5"\\,"desktop:/CSS_demo"\\,"0"\\,"2"\\,"desktop:/Course_CTF"\\,"0"\\,"3"\\,"desktop:/CMU15445"\\,"0"\\,"0"\\,"desktop:/Coding"\\,"0"\\,"1"]}
+positions={"2560x1440":["2"\\,"13"\\,"desktop:/Pwn"\\,"0"\\,"8"\\,"desktop:/My-Wiki"\\,"0"\\,"7"\\,"desktop:/dotfiles"\\,"0"\\,"6"\\,"desktop:/DeepLizard-pytorch-"\\,"0"\\,"5"\\,"desktop:/CTF_Lab"\\,"0"\\,"4"\\,"desktop:/CSS_demo"\\,"0"\\,"3"\\,"desktop:/CS229"\\,"0"\\,"2"\\,"desktop:/CMU15445"\\,"0"\\,"1"\\,"desktop:/Algorithm"\\,"0"\\,"0"\\,"desktop:/shlab-csapp"\\,"1"\\,"7"\\,"desktop:/垃圾报告"\\,"1"\\,"6"\\,"desktop:/弔图"\\,"1"\\,"5"\\,"desktop:/com.alibabainc.dingtalk.desktop"\\,"1"\\,"4"\\,"desktop:/x11.py"\\,"1"\\,"3"\\,"desktop:/Coding"\\,"1"\\,"2"\\,"desktop:/陈华钧_知识图谱课程pdf"\\,"1"\\,"1"\\,"desktop:/跨考"\\,"1"\\,"0"\\,"desktop:/Hands-on-RL"\\,"0"\\,"10"\\,"desktop:/pytorch_ini"\\,"0"\\,"9"]\\,"1920x1080":["3"\\,"10"\\,"desktop:/dotfiles"\\,"0"\\,"4"\\,"desktop:/My-Wiki"\\,"0"\\,"5"\\,"desktop:/陈华钧_知识图谱课程pdf"\\,"0"\\,"6"\\,"desktop:/CS229"\\,"0"\\,"7"\\,"desktop:/Algorithm"\\,"0"\\,"0"\\,"desktop:/CMU15445"\\,"0"\\,"1"\\,"desktop:/CSS_demo"\\,"0"\\,"2"\\,"desktop:/CTF_Lab"\\,"0"\\,"3"\\,"desktop:/Coding"\\,"1"\\,"2"\\,"desktop:/弔图"\\,"1"\\,"3"\\,"desktop:/垃圾报告"\\,"1"\\,"4"\\,"desktop:/shlab-csapp"\\,"1"\\,"5"\\,"desktop:/pytorch_ini"\\,"0"\\,"8"\\,"desktop:/x11.py"\\,"0"\\,"9"\\,"desktop:/DeepLizard-pytorch-"\\,"1"\\,"0"\\,"desktop:/com.alibabainc.dingtalk.desktop"\\,"1"\\,"1"\\,"desktop:/Pwn"\\,"2"\\,"0"\\,"desktop:/跨考"\\,"1"\\,"6"]\\,"1280x720":[]\\,"800x600":[""]\\,"2048x1152":["2"\\,"11"\\,"desktop:/跨考"\\,"0"\\,"10"\\,"desktop:/弔图"\\,"0"\\,"9"\\,"desktop:/Coding"\\,"0"\\,"8"\\,"desktop:/Pwn"\\,"1"\\,"2"\\,"desktop:/CTF_Lab"\\,"0"\\,"3"\\,"desktop:/CSS_demo"\\,"0"\\,"2"\\,"desktop:/CMU15445"\\,"0"\\,"1"\\,"desktop:/Algorithm"\\,"0"\\,"0"\\,"desktop:/com.alibabainc.dingtalk.desktop"\\,"0"\\,"7"\\,"desktop:/shlab-csapp"\\,"0"\\,"6"\\,"desktop:/My-Wiki"\\,"0"\\,"5"\\,"desktop:/dotfiles"\\,"0"\\,"4"\\,"desktop:/垃圾报告"\\,"1"\\,"0"]\\,"3840x2160":["1"\\,"20"\\,"desktop:/CTF_Lab"\\,"0"\\,"4"\\,"desktop:/My-Wiki"\\,"0"\\,"7"\\,"desktop:/dotfiles"\\,"0"\\,"6"\\,"desktop:/pytorch_ini"\\,"0"\\,"9"\\,"desktop:/Pwn"\\,"0"\\,"8"\\,"desktop:/垃圾报告"\\,"0"\\,"11"\\,"desktop:/shlab-csapp"\\,"0"\\,"10"\\,"desktop:/跨考"\\,"0"\\,"13"\\,"desktop:/弔图"\\,"0"\\,"12"\\,"desktop:/Coding"\\,"0"\\,"15"\\,"desktop:/陈华钧_知识图谱课程pdf"\\,"0"\\,"14"\\,"desktop:/CMU15445"\\,"0"\\,"1"\\,"desktop:/Algorithm"\\,"0"\\,"0"\\,"desktop:/CSS_demo"\\,"0"\\,"3"\\,"desktop:/com.alibabainc.dingtalk.desktop"\\,"0"\\,"16"\\,"desktop:/CS229"\\,"0"\\,"2"\\,"desktop:/DeepLizard-pytorch-"\\,"0"\\,"5"]\\,"2496x1404":[""]}
 sortMode=-1
 
 [Containments][163][Wallpaper][org.kde.image][General]
 Image=file:///home/vince/Pictures/WhiteSur.png
 
 [Containments][163][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/richtoo/Pictures/wallpapers/Macos 6.png
+FillMode=0
+Image=file:///home/richtoo/Pictures/wallpapers/MacOS 4.jpg
 SlidePaths=/home/richtoo/Pictures/wallpapers/
 
 [Containments][164]
@@ -54,7 +61,7 @@ plugin=org.kde.plasma.kickoff
 [Containments][164][Applets][165][Configuration]
 PreloadWeight=100
 immutability=1
-popupHeight=962
+popupHeight=917
 popupWidth=1167
 
 [Containments][164][Applets][165][Configuration][ConfigDialog]
@@ -87,7 +94,7 @@ immutability=1
 plugin=org.kde.plasma.appmenu
 
 [Containments][164][Applets][166][Configuration]
-PreloadWeight=4
+PreloadWeight=0
 immutability=1
 
 [Containments][164][Applets][166][Configuration][ConfigDialog]
@@ -145,8 +152,8 @@ plugin=org.kde.plasma.digitalclock
 
 [Containments][164][Applets][184][Configuration]
 PreloadWeight=100
-popupHeight=900
-popupWidth=792
+popupHeight=1023
+popupWidth=924
 
 [Containments][164][Applets][184][Configuration][Appearance]
 fontFamily=Noto Sans
@@ -191,35 +198,35 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][169][Applets][170][Configuration]
-PreloadWeight=84
+PreloadWeight=92
 
 [Containments][169][Applets][171]
 immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][169][Applets][171][Configuration]
-PreloadWeight=4
+PreloadWeight=8
 
 [Containments][169][Applets][172]
 immutability=1
 plugin=org.kde.kscreen
 
 [Containments][169][Applets][172][Configuration]
-PreloadWeight=0
+PreloadWeight=17
 
 [Containments][169][Applets][173]
 immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][169][Applets][173][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][169][Applets][174]
 immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][169][Applets][174][Configuration]
-PreloadWeight=54
+PreloadWeight=97
 
 [Containments][169][Applets][174][Configuration][General]
 migrated=true
@@ -250,28 +257,28 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][169][Applets][180][Configuration]
-PreloadWeight=100
+PreloadWeight=97
 
 [Containments][169][Applets][181]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][169][Applets][181][Configuration]
-PreloadWeight=84
+PreloadWeight=100
 
 [Containments][169][Applets][182]
 immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][169][Applets][182][Configuration]
-PreloadWeight=39
+PreloadWeight=100
 
 [Containments][169][Applets][183]
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][169][Applets][183][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][169][ConfigDialog]
 DialogHeight=840
@@ -284,9 +291,26 @@ PreloadWeight=0
 extraItems=org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.kscreen,org.kde.plasma.bluetooth,org.kde.plasma.devicenotifier,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.kupapplet,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement
 hiddenItems=chrome_status_icon_1
 knownItems=org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.kscreen,org.kde.plasma.bluetooth,org.kde.plasma.devicenotifier,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.plasma.manage-inputmethod,org.kde.plasma.mediacontroller,org.kde.kupapplet,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement
-scaleIconsToFit=true
 shownItems=org.kde.plasma.battery
 
+[Containments][186]
+ItemGeometries-1920x1080=
+ItemGeometriesHorizontal=
+activityId=149aa237-df09-420e-90b1-5f6b3e081a71
+formfactor=0
+immutability=1
+lastScreen=1
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
+[Containments][186][Configuration]
+PreloadWeight=42
+
+[Containments][186][General]
+positions={"1920x1080":[]\\,"1080x1920":[""]\\,"2880x1620":[""]\\,"2496x1404":[]\\,"3840x2160":[""]}
+sortMode=-1
+
 [ScreenMapping]
-itemsOnDisabledScreens=0,5e784c0b-f4d9-4407-a4c5-495e9f8b18ec,11,desktop:/CTF_Lab,desktop:/Pwn Lab1 Report f3f576b0db814f5a84b4d87ace1b60a7.pdf,desktop:/Course_CTF,desktop:/My-Wiki,desktop:/shlab-csapp,desktop:/Pwn,desktop:/CSS_demo,desktop:/Coding,desktop:/shlab-handout,desktop:/CMU15445,desktop:/my_config
-screenMapping=desktop:/Algorithm,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/CMU15445,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/My-Wiki,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/Course_CTF,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/CTF_Lab,0,149aa237-df09-420e-90b1-5f6b3e081a71,file:///home/richtoo/Desktop/Algorithm,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/Coding,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/Pwn,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/垃圾报告,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/shlab-csapp,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/dotfiles,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/跨考,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/中医脉诊现代化研究述评_崔骥.pdf,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/CSS_demo,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/Archive.zip,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/3200101813-屠瑞奇-pwn专题-attachment.zip,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/Pwn Lab2 Report 722e764e28c64a6e91d117ae200de6f2.pdf,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/11.ong,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/New Folder,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/hhhh.png,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/垃圾论文,0,149aa237-df09-420e-90b1-5f6b3e081a71
+itemsOnDisabledScreens=0,5e784c0b-f4d9-4407-a4c5-495e9f8b18ec,4,desktop:/Pwn Lab1 Report f3f576b0db814f5a84b4d87ace1b60a7.pdf,desktop:/Course_CTF,desktop:/shlab-handout,desktop:/my_config,1,149aa237-df09-420e-90b1-5f6b3e081a71,7,desktop:/陈华钧_知识图谱课程pdf/Lecture 03-知识图谱的存储与关联查询.pdf,desktop:/陈华钧_知识图谱课程pdf/Lecture 04-知识图谱的获取与关系抽取.pdf,desktop:/陈华钧_知识图谱课程pdf/Lecture 02-知识图谱的表示与关系建模-2018.11.30.pdf,desktop:/陈华钧_知识图谱课程pdf/Lecture 01-知识图谱概览.pdf,desktop:/陈华钧_知识图谱课程pdf/Lecture 05-知识图谱与关系推理.pdf,desktop:/陈华钧_知识图谱课程pdf/Lecture 00-课程概览.pdf,desktop:/陈华钧_知识图谱课程pdf/Lecture 06-知识图谱与智能问答.pdf
+screenMapping=file:///home/richtoo/Desktop/DOCX Document.docx,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/111,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/Pwn Lab2 Report 722e764e28c64a6e91d117ae200de6f2.pdf,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/垃圾报告,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/垃圾论文,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/风景图像生成.pptx,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/弔图,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/CSS_demo,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/shlab-csapp,0,149aa237-df09-420e-90b1-5f6b3e081a71,file:///home/richtoo/Desktop/Algorithm,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/11.ong,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/dotfiles,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/CS229,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/com.alibabainc.dingtalk.desktop,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/个人陈述.pptx,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/CTF_Lab,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/DeepLizard-pytorch-,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/IIITD-ResumeLatexTemplate,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/Hands-on-RL,0,149aa237-df09-420e-90b1-5f6b3e081a71,file:///home/richtoo/Desktop/相关材料.docx,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/hh.txt,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/Archive.zip,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/Bill_Ryan_s_Elegant_LaTeX_Résumé (2).pdf,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/中医脉诊现代化研究述评_崔骥.pdf,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/Coding,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/My-Wiki,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/3200101813-屠瑞奇-pwn专题-attachment.zip,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/hh,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/pytorch_ini,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/DOCX Document.docx,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/Pwn,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/CMU15445,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/Algorithm,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/陈华钧_知识图谱课程pdf,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/跨考,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/CET6_202306_330011231202418_1.pdf,0,149aa237-df09-420e-90b1-5f6b3e081a71,file:///home/richtoo/Desktop/面试.doc,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/x11.py,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/New Folder,0,149aa237-df09-420e-90b1-5f6b3e081a71,desktop:/plead,0,149aa237-df09-420e-90b1-5f6b3e081a71

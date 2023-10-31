@@ -1,5 +1,5 @@
 [Common]
-ShadowSize=ShadowNone
+ShadowSize=ShadowSmall
 ShadowStrength=237
 
 [Style]

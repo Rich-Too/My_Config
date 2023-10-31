@@ -1,0 +1,320 @@
+[2023-09-03 23:55:48.788] [info]  [Motrix] Logger init
+[2023-09-03 23:55:48.791] [warn]  [Motrix] Logger init
+[2023-09-03 23:55:48.850] [info]  [Motrix] openedAtLogin: false
+[2023-09-03 23:55:48.934] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/richtoo/.config/Motrix/logs',
+  'session-path': '/home/richtoo/.config/Motrix/download.session',
+  'engine-path': '/opt/Motrix/resources/engine',
+  'aria2-bin-path': '/opt/Motrix/resources/engine/aria2c',
+  'aria2-conf-path': '/opt/Motrix/resources/engine/aria2.conf'
+}
+[2023-09-03 23:55:50.604] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://102.223.180.235:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.6:1337/announce\n' +
+    '\n' +
+    'http://193.189.100.188:80/announce\n' +
+    '\n' +
+    'udp://186.10.170.125:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://107.189.11.58:6969/announce\n' +
+    '\n' +
+    'udp://156.234.201.18:80/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://83.146.97.90:6969/announce\n' +
+    '\n' +
+    'udp://49.12.76.8:8080/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'https://tracker2.ctix.cn:443/announce\n' +
+    '\n' +
+    'https://tracker1.520.jp:443/announce\n' +
+    '\n' +
+    'udp://opentracker.i2p.rocks:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'udp://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://tracker.moeking.me:6969/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'https://tracker.gbitt.info:443/announce\n' +
+    '\n' +
+    'http://tracker.gbitt.info:80/announce\n' +
+    '\n' +
+    'http://bt.endpot.com:80/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://tk1.trackerservers.com:8080/announce\n' +
+    '\n'
+]
+[2023-09-03 23:55:50.765] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2023-09-03 23:55:50.766] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2023-09-04 23:07:05.996] [info]  [Motrix] Logger init
+[2023-09-04 23:07:06.000] [warn]  [Motrix] Logger init
+[2023-09-04 23:07:06.059] [info]  [Motrix] openedAtLogin: false
+[2023-09-04 23:07:06.162] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/richtoo/.config/Motrix/logs',
+  'session-path': '/home/richtoo/.config/Motrix/download.session',
+  'engine-path': '/opt/Motrix/resources/engine',
+  'aria2-bin-path': '/opt/Motrix/resources/engine/aria2c',
+  'aria2-conf-path': '/opt/Motrix/resources/engine/aria2.conf'
+}
+[2023-09-04 23:07:07.984] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2023-09-04 23:07:07.987] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2023-09-04 23:07:08.294] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://102.223.180.235:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.6:1337/announce\n' +
+    '\n' +
+    'udp://193.189.100.190:6969/announce\n' +
+    '\n' +
+    'http://193.189.100.190:80/announce\n' +
+    '\n' +
+    'udp://186.10.170.125:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://23.157.120.14:6969/announce\n' +
+    '\n' +
+    'udp://156.234.201.18:80/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://49.12.76.8:8080/announce\n' +
+    '\n' +
+    'udp://198.100.149.66:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'https://tracker2.ctix.cn:443/announce\n' +
+    '\n' +
+    'https://tracker1.520.jp:443/announce\n' +
+    '\n' +
+    'udp://opentracker.i2p.rocks:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'http://bt.endpot.com:80/announce\n' +
+    '\n' +
+    'udp://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://tk1.trackerservers.com:8080/announce\n' +
+    '\n' +
+    'udp://movies.zsw.ca:6969/announce\n' +
+    '\n' +
+    'https://tracker.tamersunion.org:443/announce\n' +
+    '\n' +
+    'https://tracker.gbitt.info:443/announce\n' +
+    '\n' +
+    'https://tr.burnabyhighstar.com:443/announce\n' +
+    '\n'
+]
+[2023-09-27 16:01:18.544] [info]  [Motrix] Logger init
+[2023-09-27 16:01:18.548] [warn]  [Motrix] Logger init
+[2023-09-27 16:01:25.965] [info]  [Motrix] Logger init
+[2023-09-27 16:01:25.968] [warn]  [Motrix] Logger init
+[2023-09-27 16:01:34.984] [info]  [Motrix] Logger init
+[2023-09-27 16:01:34.987] [warn]  [Motrix] Logger init
+[2023-09-27 16:01:38.619] [info]  [Motrix] handleAppLaunchArgv: [
+  '/opt/Motrix/motrix',
+  'magnet:?xt=urn:btih:039320314e1854e6b60bd58d58882f154e15e328&tr=http%3A%2F%2Fbvarf.tracker.sh%3A2086%2Fannounce&tr=http%3A%2F%2Fsukebei.tracker.wf%3A8888%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce'
+]
+[2023-09-27 16:01:38.623] [info]  [Motrix] split argv args: [
+  '/opt/Motrix/motrix',
+  'magnet:?xt=urn:btih:039320314e1854e6b60bd58d58882f154e15e328&tr=http%3A%2F%2Fbvarf.tracker.sh%3A2086%2Fannounce&tr=http%3A%2F%2Fsukebei.tracker.wf%3A8888%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce'
+]
+[2023-09-27 16:01:38.624] [info]  [Motrix] split argv extra: {}
+[2023-09-27 16:01:38.624] [info]  [Motrix] openedAtLogin: false
+[2023-09-27 16:01:38.762] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/richtoo/.config/Motrix/logs',
+  'session-path': '/home/richtoo/.config/Motrix/download.session',
+  'engine-path': '/opt/Motrix/resources/engine',
+  'aria2-bin-path': '/opt/Motrix/resources/engine/aria2c',
+  'aria2-conf-path': '/opt/Motrix/resources/engine/aria2.conf'
+}
+[2023-09-27 16:01:40.584] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2023-09-27 16:01:40.585] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2023-09-27 16:01:41.192] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://102.223.180.235:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.6:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://163.172.29.130:80/announce\n' +
+    '\n' +
+    'udp://156.234.201.18:80/announce\n' +
+    '\n' +
+    'udp://83.146.97.90:6969/announce\n' +
+    '\n' +
+    'udp://192.95.46.115:6969/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://198.100.149.66:6969/announce\n' +
+    '\n' +
+    'udp://23.157.120.14:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'https://tracker1.520.jp:443/announce\n' +
+    '\n' +
+    'udp://opentracker.i2p.rocks:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://uploads.gamecoast.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.theoks.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.4.babico.name.tr:3131/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n' +
+    'udp://private.anonseed.com:6969/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n' +
+    'udp://movies.zsw.ca:6969/announce\n' +
+    '\n'
+]
+[2023-09-27 16:09:10.314] [info]  [Motrix] Logger init
+[2023-09-27 16:09:10.317] [warn]  [Motrix] Logger init
+[2023-09-28 18:06:07.586] [info]  [Motrix] Logger init
+[2023-09-28 18:06:07.591] [warn]  [Motrix] Logger init
+[2023-09-28 18:06:07.651] [info]  [Motrix] openedAtLogin: false
+[2023-09-28 18:06:07.761] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/richtoo/.config/Motrix/logs',
+  'session-path': '/home/richtoo/.config/Motrix/download.session',
+  'engine-path': '/opt/Motrix/resources/engine',
+  'aria2-bin-path': '/opt/Motrix/resources/engine/aria2c',
+  'aria2-conf-path': '/opt/Motrix/resources/engine/aria2.conf'
+}
+[2023-09-28 18:06:09.587] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2023-09-28 18:06:09.588] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2023-09-28 18:08:20.272] [warn]  [Motrix] auto sync tracker data: [
+  null,
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'https://tracker1.520.jp:443/announce\n' +
+    '\n' +
+    'udp://opentracker.i2p.rocks:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'http://bt.endpot.com:80/announce\n' +
+    '\n' +
+    'udp://tracker.moeking.me:6969/announce\n' +
+    '\n' +
+    'udp://uploads.gamecoast.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.theoks.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker.4.babico.name.tr:3131/announce\n' +
+    '\n' +
+    'udp://thouvenin.cloud:6969/announce\n' +
+    '\n' +
+    'udp://sanincode.com:6969/announce\n' +
+    '\n' +
+    'udp://private.anonseed.com:6969/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n'
+]

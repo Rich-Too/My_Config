@@ -2,4 +2,4 @@
 update_info=kxkb.upd:remove-empty-lists,kxkb.upd:add-back-resetoptions,kxkb_variants.upd:split-variants
 
 [Layout]
-Model=applealu_iso
+Model=acer_laptop

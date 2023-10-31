@@ -33,6 +33,8 @@ Tab Middle Click Close Document=true
 Tabbar Tab Limit=0
 
 [KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Desktop/hh,file:$HOME/Desktop/hh
+Recent URLs[$e]=file:$HOME/Desktop/
 detailViewIconSize=16
 
 [KTextEditor Document]
@@ -64,7 +66,7 @@ PageUp/PageDown Moves Cursor=false
 Remove Spaces=1
 ReplaceTabsDyn=true
 Show Spaces=0
-Show Tabs=true
+Show Tabs=false
 Smart Home=true
 Swap Directory=
 Swap File Mode=1
@@ -101,7 +103,7 @@ Bracket Match Preview=false
 Chars To Enclose Selection=<>(){}[]'"
 Default Mark Type=1
 Dynamic Word Wrap=true
-Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap Align Indent=0
 Dynamic Word Wrap At Static Marker=false
 Dynamic Word Wrap Indicators=1
 Dynamic Wrap not at word boundaries=false
@@ -150,9 +152,17 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [KTextEditor::Search]
-Search History=mono,mv
+Search History=ke,Distance-Based,Journal of Healthcare Engineering,mono,mv
 
 [MainWindow]
-1707x960 screen: Height=861
-1707x960 screen: Width=1707
+1707x960 screen: Height=588
+1707x960 screen: Width=1024
 1707x960 screen: Window-Maximized=true
+2 screens: Height=861
+2 screens: Width=1707
+2 screens: Window-Maximized=true
+2048x1152 screen: Height=1034
+2048x1152 screen: Width=2048
+
+[UiSettings]
+ColorScheme=WhiteSurAlt

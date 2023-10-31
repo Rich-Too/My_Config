@@ -1,0 +1,82 @@
+[1]
+1707x960 screen: Height=600
+1707x960 screen: Width=1024
+1707x960 screen: XPosition=0
+1707x960 screen: YPosition=0
+Active ViewSpace=0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAIqAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAIk/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[1-Splitter 0]
+Children=1-ViewSpace 0
+Orientation=1
+Sizes=1022
+
+[1-ViewSpace 0]
+Active View=file:///home/richtoo/Downloads/实验室论文列表（部分）.txt
+Count=1
+Documents=file:///home/richtoo/Downloads/实验室论文列表（部分）.txt
+View 0=file:///home/richtoo/Downloads/实验室论文列表（部分）.txt
+
+[1-ViewSpace 0 file:///home/richtoo/Downloads/实验室论文列表（部分）.txt]
+CursorColumn=146
+CursorLine=0
+Dynamic Word Wrap=true
+JumpList=
+TextFolding={"checksum":"f9f9ff50149d1cb480df045688f3415f3eb7b6bd","ranges":[]}
+ViMarks=
+
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+URL=file:///home/richtoo/Downloads/实验室论文列表（部分）.txt
+
+[General]
+Last Session=
+
+[Number]
+NumberOfWindows=1
+
+[Open Documents]
+Count=1
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/xmind-vana-23.8.2122/usr/share/applications/xmind.desktop
+File10[$e]=$HOME/Downloads/实验室论文列表（部分）.txt
+File2[$e]=desktop:/hh.txt
+File3[$e]=$HOME/.local/share/JetBrains/Toolbox/apps/clion/bin/clion.svg
+File4[$e]=$HOME/Desktop/hh.txt
+File5[$e]=$HOME/Desktop/hh.html
+File6[$e]=$HOME/Desktop/CV/.part
+File7[$e]=trash:/0-README.md (3)
+File8[$e]=$HOME/Desktop/dotfiles/kde_config/clash/profiles/1691993081098.yml
+File9[$e]=/media/richtoo/Data/学习资料/新建文本文档.txt
+Name1[$e]=xmind.desktop
+Name10[$e]=实验室论文列表（部分）.txt
+Name2[$e]=hh.txt
+Name3[$e]=clion.svg
+Name4[$e]=hh.txt
+Name5[$e]=hh.html
+Name6[$e]=.part
+Name7[$e]=0-README.md (3)
+Name8[$e]=1691993081098.yml
+Name9[$e]=新建文本文档.txt
+
+[WindowProperties1]
+1707x960 screen: Height=600
+1707x960 screen: Width=1024
+1707x960 screen: XPosition=0
+1707x960 screen: YPosition=0
+ClassName=KateMainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABAAAAAIqAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAIk/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

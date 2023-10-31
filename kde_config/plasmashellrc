@@ -5,20 +5,21 @@ ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOkAAAACAQAAAQAA
 2560x1440 screen: Height=886
 2560x1440 screen: Width=1576
 
+[FileDialogSize]
+2560x1440 screen: Height=1095
+2560x1440 screen: Width=1823
+
 [General]
 Number of Actions=0
 
 [KFileDialog Settings]
-Recent Files[$e]=shortcut-start-file-sharing-icon-1.png,file:$HOME/.local/share/icons/Typora/Typora-macOS_1024x1024x32.png,file:$HOME/.local/share/icons/evince.svg,file:$HOME/.local/share/icons/shortcut-start-file-sharing-icon-1.png
-Recent URLs[$e]=file:$HOME/.local/share/icons/,file:$HOME/,file:$HOME/.local/share/icons/Typora/
-detailViewIconSize=128
+Recent Files[$e]=shortcut-start-file-sharing-icon-1.png,file:$HOME/.local/share/icons/zotero.png,file:$HOME/.local/share/icons/Typora/Typora-macOS_1024x1024x32.png,file:$HOME/.local/share/icons/evince.svg,file:$HOME/.local/share/icons/shortcut-start-file-sharing-icon-1.png
+Recent URLs[$e]=file:$HOME/.local/share/icons/,file:$HOME/.local/share/icons/,file:$HOME/,file:$HOME/.local/share/icons/Typora/,file:$HOME/Desktop/
+detailViewIconSize=48
 
 [KPropertiesDialog]
-2560x1440 screen: Height=851
-2560x1440 screen: Width=1237
-
-[PlasmaTransientsConfig]
-PreloadWeight=42
+2560x1440 screen: Height=712
+2560x1440 screen: Width=649
 
 [PlasmaViews][Panel 1][Defaults]
 thickness=44

@@ -4,4 +4,4 @@ ConfirmEmptyTrash=true
 ConfirmTrash=true
 
 [Executable scripts]
-behaviourOnLaunch=alwaysAsk
+behaviourOnLaunch=execute

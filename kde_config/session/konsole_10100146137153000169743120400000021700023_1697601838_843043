@@ -1,0 +1,36 @@
+[1]
+Active=0
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1},{"SessionRestoreId":2}]}]
+
+[Number]
+NumberOfSessions=2
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/my conifg.profile
+RemoteTab=(%u) %H
+SessionGuid={e0df60ca-e4ac-40ff-9940-5e375fc6c148}
+TabColor=
+WorkingDir[$e]=$HOME
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/my conifg.profile
+RemoteTab=(%u) %H
+SessionGuid={3b4b42f6-d062-428d-87c2-fb037e7bc54d}
+TabColor=
+WorkingDir[$e]=$HOME/Desktop
+
+[WindowProperties1]
+1707x960 screen: Height=861
+1707x960 screen: Width=1707
+1707x960 screen: XPosition=0
+1707x960 screen: YPosition=28
+ClassName=Konsole::MainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAAS0BAAAD+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAABkAEAAAMAAAarAAADXQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+eDP-1=eDP-1
