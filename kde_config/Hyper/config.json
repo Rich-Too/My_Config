@@ -1,11 +1,11 @@
 {
 	"windowPosition": [
-		203,
-		114
+		0,
+		25
 	],
 	"windowSize": [
-		1139,
-		576
+		1707,
+		865
 	],
 	"hyper": {
 		"plugins": "{\"plugins\":[\"hyper-material-theme\",\"hyperpower\",\"hyper-search\",\"hypercwd\",\"hyper-tabs-enhanced\",\"hyper-hide-title\"],\"localPlugins\":[]}",

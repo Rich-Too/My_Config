@@ -1,6 +1,6 @@
-magnet:?xt=urn:btih:C2FF98512D0202082FA78EFC6A3D92BF217CAD70
- gid=7c3f0012f240b90e
- dir=/home/richtoo
+https://github.com/johannesjo/super-productivity/releases/download/v7.16.0/superProductivity-7.16.0.AppImage	
+ gid=c7e62d8915241cdc
+ dir=/home/richtoo/Downloads
  split=64
  max-download-limit=0
  allow-overwrite=false
@@ -13,7 +13,7 @@ magnet:?xt=urn:btih:C2FF98512D0202082FA78EFC6A3D92BF217CAD70
  seed-time=60
  seed-ratio=1
  bt-save-metadata=true
- bt-tracker=udp://93.158.213.92:1337/announce,udp://102.223.180.235:6969/announce,udp://23.134.88.6:1337/announce,udp://185.243.218.213:80/announce,udp://208.83.20.20:6969/announce,udp://89.234.156.205:451/announce,udp://163.172.29.130:80/announce,udp://156.234.201.18:80/announce,udp://83.146.97.90:6969/announce,udp://192.95.46.115:6969/announce,udp://185.230.4.150:1337/announce,udp://198.100.149.66:6969/announce,udp://23.157.120.14:6969/announce,udp://tracker.opentrackr.org:1337/announce,https://tracker1.520.jp:443/announce,udp://opentracker.i2p.rocks:6969/announce,udp://open.demonii.com:1337/announce,udp://tracker.openbittorrent.com:6969/announce,http://tracker.openbittorrent.com:80/announce,udp://open.stealth.si:80/announce,udp://exodus.desync.com:6969/announce,udp://tracker.torrent.eu.org:451/announce,udp://explodie.org:6969/announce,udp://uploads.gamecoast.net:6969/announce,udp://tracker2.dler.org:80/announce,udp://tracker1.bt.moack.co.kr:80/announce,udp://tracker.tiny-vps.com:6969/announce,udp://tracker.theoks.net:6969/announce,udp://tracker.4.babico.name.tr:3131/announce,udp://retracker01-msk-virt.corbina.net:80/announce,udp://private.anonseed.com:6969/announce,udp://p4p.arenabg.com:1337/announce,udp://movies.zsw.ca:6969/announce
+ bt-tracker=udp://93.158.213.92:1337/announce,udp://102.223.180.235:6969/announce,udp://23.134.88.6:1337/announce,http://193.189.100.186:80/announce,udp://193.189.100.186:6969/announce,udp://185.243.218.213:80/announce,udp://208.83.20.20:6969/announce,udp://91.216.110.53:451/announce,udp://185.102.219.163:6969/announce,udp://156.234.201.18:80/announce,udp://51.81.222.188:6969/announce,udp://95.31.11.224:6969/announce,udp://83.102.180.21:80/announce,udp://185.230.4.150:1337/announce,udp://198.100.149.66:6969/announce,udp://37.187.111.136:6969/announce,udp://185.50.159.149:6969/announce,udp://209.141.59.16:6969/announce,udp://tracker.opentrackr.org:1337/announce,udp://opentracker.i2p.rocks:6969/announce,udp://open.demonii.com:1337/announce,http://tracker.openbittorrent.com:80/announce,udp://tracker.openbittorrent.com:6969/announce,udp://open.stealth.si:80/announce,udp://exodus.desync.com:6969/announce,udp://tracker.torrent.eu.org:451/announce,udp://explodie.org:6969/announce,udp://uploads.gamecoast.net:6969/announce,udp://tracker1.bt.moack.co.kr:80/announce,udp://tracker.ccp.ovh:6969/announce,udp://sanincode.com:6969/announce,udp://retracker01-msk-virt.corbina.net:80/announce,udp://p4p.arenabg.com:1337/announce,udp://movies.zsw.ca:6969/announce,udp://acxx.de:6969/announce,https://tracker.tamersunion.org:443/announce,udp://tracker.tiny-vps.com:6969/announce,udp://tracker.theoks.net:6969/announce
  bt-force-encryption=false
  bt-load-saved-metadata=true
  follow-metalink=true

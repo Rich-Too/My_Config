@@ -3,6 +3,7 @@
 1707x960 screen: Window-Maximized=true
 1707x960 screen: XPosition=327
 1707x960 screen: YPosition=197
+2 screens: Window-Maximized=true
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAAS0BAAAD+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAABkAEAAAMAAAarAAADXQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
 eDP-1=eDP-1
@@ -25,32 +26,42 @@ AllowMenuAccelerators=true
 FocusFollowsMouse=true
 
 [MainWindow]
-1280x720 screen: Height=621
+1280x720 screen: Height=624
 1280x720 screen: Width=1280
 1280x720 screen: Window-Maximized=true
+1280x720 screen: XPosition=0
+1280x720 screen: YPosition=25
 1664x936 screen: Height=908
 1664x936 screen: Width=1664
-1707x960 screen: Height=861
-1707x960 screen: Width=1707
-1707x960 screen: Window-Maximized=true
-1707x960 screen: XPosition=0
-1707x960 screen: YPosition=28
-2 screens: Height=861
-2 screens: Width=1707
-2 screens: Window-Maximized=true
-2 screens: XPosition=0
-2 screens: YPosition=28
-2048x1152 screen: Height=1034
-2048x1152 screen: Width=2048
-2048x1152 screen: XPosition=0
-2048x1152 screen: YPosition=34
-2560x1440 screen: Height=1292
-2560x1440 screen: Width=2560
-2560x1440 screen: XPosition=0
-2560x1440 screen: YPosition=42
-HDMI-1 eDP-1=eDP-1
+1707x960 screen: Height=651
+1707x960 screen: Width=1099
+1707x960 screen: XPosition=299
+1707x960 screen: YPosition=208
+1920x1080 screen: Height=932
+1920x1080 screen: Width=1920
+2 screens: Height=1152
+2 screens: Width=1995
+2 screens: XPosition=2560
+2 screens: YPosition=29
+2048x1152 screen: Height=781
+2048x1152 screen: Width=1318
+2048x1152 screen: XPosition=411
+2048x1152 screen: YPosition=242
+2560x1440 screen: Height=901
+2560x1440 screen: Width=1662
+2560x1440 screen: XPosition=326
+2560x1440 screen: YPosition=332
+2987x960 screen: Height=861
+2987x960 screen: Width=1707
+3 screens: Height=1152
+3 screens: Width=2048
+3 screens: XPosition=2560
+3 screens: YPosition=0
+DP-3 HDMI-1 eDP-1=HDMI-1
+HDMI-1=HDMI-1
+HDMI-1 eDP-1=HDMI-1
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAAS0BAAAD+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAABkAEAAAMAAAarAAADXQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAASkBAAAD+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAABjAEAAAMAAAfLAAAEaAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 eDP-1=eDP-1
 

@@ -1,0 +1,48 @@
+{
+    "bibitems": [
+    ],
+    "bibtexfiles": [
+    ],
+    "childdocs": [
+    ],
+    "filename": "/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty",
+    "labels": [
+    ],
+    "modified": "Thu Jun 9 04:41:20 2022",
+    "packages": [
+    ],
+    "refs": [
+    ],
+    "toc": [
+        "-1##1.def#93"
+    ],
+    "usercommands": [
+        "\\reserved",
+        "\\reserved",
+        "\\IeC",
+        "\\saved",
+        "\\@@inpenc@@test",
+        "\\global",
+        "\\reserved",
+        "\\reserved",
+        "\\saved",
+        "\\saved",
+        "\\DeclareInputText",
+        "\\inputencodingname",
+        "\\inputencoding",
+        "\\PackageError",
+        "\\reserved",
+        "\\reserved",
+        "\\saved",
+        "\\reserved",
+        "\\reserved",
+        "\\reserved",
+        "\\inpenc@@posthook",
+        "\\reserved",
+        "\\DeclareInputMath",
+        "\\noexpand",
+        "\\inpenc@@prehook",
+        "\\inputencoding",
+        "~"
+    ]
+}

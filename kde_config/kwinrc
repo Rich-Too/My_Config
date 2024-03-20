@@ -8,13 +8,17 @@ Number=2
 Rows=1
 
 [Plugins]
+blurEnabled=true
 hide-titlesEnabled=false
 kwin4_effect_morphingpopupsEnabled=false
 kwin4_effect_squashEnabled=false
 magiclampEnabled=true
 minimizeallEnabled=true
+virtual-desktops-only-on-primaryEnabled=true
+zoomEnabled=false
 
 [TabBox]
+ActivitiesMode=0
 LayoutName=thumbnail_switcher
 
 [TabBoxAlternative]
@@ -23,13 +27,25 @@ LayoutName=ClassicKde
 [Tiling]
 padding=4
 
+[Tiling][00d05afa-dab9-5936-a658-aac6c256c939]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][09116843-a5f0-54df-8a7d-76788830b04c]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][213a9620-187e-58a6-b80b-85d8fb95dfce]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][5b7a5ba4-43cc-5910-8e98-f358f9d54b43]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][66c65e7f-125d-50bb-a269-b60e0c6d5b40]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][897dff47-3231-5c04-bcf2-ea4182b5c571]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][c39336e8-aea2-5c3f-87ca-9cc0289e738d]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][eac6759d-c7cd-5a08-9322-dd61f18fb074]

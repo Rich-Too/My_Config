@@ -1053,6 +1053,7 @@ View Style[$d]
 [KScreen]
 ScaleFactor[$d]
 ScreenScaleFactors[$d]
+XwaylandClientsScale[$d]
 
 [KShortcutsDialog Settings]
 Dialog Size[$d]

@@ -1,0 +1,40 @@
+{
+    "bibitems": [
+    ],
+    "bibtexfiles": [
+    ],
+    "childdocs": [
+    ],
+    "filename": "/home/richtoo/Desktop/期末展示/LaTeXTemplates_journal-article_v2.0/template.tex",
+    "labels": [
+        "fig:fig3",
+        "fig:fig1",
+        "fig:fig2"
+    ],
+    "modified": "Mon Dec 25 11:17:57 2023",
+    "packages": [
+        " \ta4paper, \t10pt, \t%unnumberedsections, % Comment to enable section numbering\ttwoside, #LTJournalArticle",
+        "#ctex",
+        "#amsmath",
+        "#amssymb",
+        "#xeCJK"
+    ],
+    "refs": [
+    ],
+    "toc": [
+        "2#介绍#87",
+        "2#方法#142",
+        "3#研究设计和数据库#144",
+        "3#患者群体#152",
+        "3#排除标准#155",
+        "3#数据提取和预处理#180",
+        "3#建立计算模型#190",
+        "3#评估临床医生的动作#217",
+        "3#AI决策的估计#228",
+        "3#模型评估#243",
+        "2#数据集可用性#267"
+    ],
+    "usercommands": [
+        "\\maketitlehookd"
+    ]
+}

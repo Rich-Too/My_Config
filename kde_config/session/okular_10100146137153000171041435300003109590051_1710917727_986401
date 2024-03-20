@@ -1,0 +1,16 @@
+[1]
+ActiveTab=0
+Urls[$e]=file:///media/richtoo/Soft/DualSystem/2023-本科毕设/essay/zjuthesis/out/zjuthesis.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+1707x960 screen: Window-Maximized=true
+ClassName=Shell
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAABqsAAAMwAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+
+[WindowProperties1][Toolbar mainToolBar]
+IconSize=16

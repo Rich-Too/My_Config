@@ -1,0 +1,82 @@
+[1]
+1707x960 screen: Height=600
+1707x960 screen: Width=1024
+1707x960 screen: XPosition=0
+1707x960 screen: YPosition=0
+Active ViewSpace=0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAIpAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAIO/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[1-Splitter 0]
+Children=1-ViewSpace 0
+Orientation=1
+Sizes=1022
+
+[1-ViewSpace 0]
+Active View=file:///home/richtoo/Downloads/Neovim-Configuration-Tutorial-main/完整配置代码/nvim/lua/plugins/lsp.lua
+Count=1
+Documents=file:///home/richtoo/Downloads/Neovim-Configuration-Tutorial-main/完整配置代码/nvim/lua/plugins/lsp.lua
+View 0=file:///home/richtoo/Downloads/Neovim-Configuration-Tutorial-main/完整配置代码/nvim/lua/plugins/lsp.lua
+
+[1-ViewSpace 0 file:///home/richtoo/Downloads/Neovim-Configuration-Tutorial-main/完整配置代码/nvim/lua/plugins/lsp.lua]
+CursorColumn=0
+CursorLine=22
+Dynamic Word Wrap=true
+JumpList=
+TextFolding={"checksum":"98e99a0d96cd42b08a7d20d6e90a5b2568fa2cc9","ranges":[]}
+ViMarks=
+
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Lua
+Highlighting Set By User=false
+Indentation Mode=lua
+Mode=Lua
+Mode Set By User=false
+URL=file:///home/richtoo/Downloads/Neovim-Configuration-Tutorial-main/完整配置代码/nvim/lua/plugins/lsp.lua
+
+[General]
+Last Session=
+
+[Number]
+NumberOfWindows=1
+
+[Open Documents]
+Count=1
+
+[Recent Files]
+File1[$e]=/media/richtoo/Acer/Users/zjutr/wslrestart.ps1
+File10[$e]=$HOME/Downloads/Neovim-Configuration-Tutorial-main/完整配置代码/nvim/lua/plugins/lsp.lua
+File2[$e]=$HOME/Desktop/WebDevelopment/CodingSource/CSS_demo/style.scss
+File3[$e]=$HOME/Desktop/WebDevelopment/CodingSource/CSS_demo/react-tailwind-agency/yarn.lock
+File4[$e]=$HOME/Desktop/crawler_py/ZJU_Teacher_Spyder/ZJU_Teacher_crawling.py
+File5[$e]=$HOME/Desktop/CS224W/robots.txt
+File6[$e]=$HOME/Downloads/数院latex模板微调/chapters/ref.bib
+File7[$e]=/media/richtoo/Soft/双系统/2023-本科毕设/essay/zjuthesis/script/utils/word_count.sh
+File8[$e]=/media/richtoo/Soft/双系统/2023-本科毕设/essay/zjuthesis/word_count.sh
+File9[$e]=$HOME/.config/nvim/plugin/packer_compiled.lua
+Name1[$e]=wslrestart.ps1
+Name10[$e]=lsp.lua
+Name2[$e]=style.scss
+Name3[$e]=yarn.lock
+Name4[$e]=ZJU_Teacher_crawling.py
+Name5[$e]=robots.txt
+Name6[$e]=ref.bib
+Name7[$e]=word_count.sh
+Name8[$e]=word_count.sh
+Name9[$e]=packer_compiled.lua
+
+[WindowProperties1]
+1707x960 screen: Height=600
+1707x960 screen: Width=1024
+1707x960 screen: XPosition=0
+1707x960 screen: YPosition=0
+ClassName=KateMainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABAAAAAIpAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAIO/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

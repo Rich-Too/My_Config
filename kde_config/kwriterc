@@ -1,6 +1,8 @@
 [FileDialogSize]
 1707x960 screen: Height=785
 1707x960 screen: Width=1172
+2 screens: Height=668
+2 screens: Width=841
 
 [General]
 Allow Tab Scrolling=true
@@ -33,8 +35,8 @@ Tab Middle Click Close Document=true
 Tabbar Tab Limit=0
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Desktop/hh,file:$HOME/Desktop/hh
-Recent URLs[$e]=file:$HOME/Desktop/
+Recent Files[$e]=body/ref.bib,file:$HOME/Desktop/2023-本科毕设/essay/zjuthesis/body/ref.bib
+Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/,file:$HOME/Desktop/2023-本科毕设/essay/zjuthesis/
 detailViewIconSize=16
 
 [KTextEditor Document]
@@ -152,17 +154,19 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [KTextEditor::Search]
-Search History=ke,Distance-Based,Journal of Healthcare Engineering,mono,mv
+Replace History=\\0
+Search History=",],[,completion,@font-face,Exec,google,-1,鼻咽炎,急性气管,急性气管⁃支气管炎,急性扁桃体,Ziyue,ziyue,ke,Distance-Based,Journal of Healthcare Engineering,mono,mv
 
 [MainWindow]
-1707x960 screen: Height=588
-1707x960 screen: Width=1024
-1707x960 screen: Window-Maximized=true
-2 screens: Height=861
-2 screens: Width=1707
+1707x960 screen: Height=600
+1707x960 screen: Width=997
+2 screens: Height=732
+2 screens: Width=1104
 2 screens: Window-Maximized=true
-2048x1152 screen: Height=1034
-2048x1152 screen: Width=2048
+2048x1152 screen: Height=729
+2048x1152 screen: Width=1337
+2560x1440 screen: Height=911
+2560x1440 screen: Width=1671
 
 [UiSettings]
 ColorScheme=WhiteSurAlt

@@ -7,8 +7,8 @@ XLbInptAccelProfileFlat=false
 XLbInptLeftHanded=false
 XLbInptMiddleEmulation=true
 XLbInptNaturalScroll=false
-XLbInptPointerAcceleration=0.2
-cursorSize=36
+XLbInptPointerAcceleration=-0.2
+cursorSize=30
 
 [Tmp]
 update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize

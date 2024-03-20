@@ -1,0 +1,16 @@
+[1]
+ActiveTab=1
+Urls[$e]=file:$HOME/Desktop/DL&RL/DRL(WangShuSen)/Notes_CN/DRL.pdf,file:$HOME/.ukylin-wine/wechat/dosdevices/c:/users/richtoo/我的文档/WeChat Files/wxid_z2k7o9jqdjt322/FileStorage/File/2023-12/11815011-匿名最终版.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+2 screens: Window-Maximized=true
+ClassName=Shell
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAABqsAAAMrAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+
+[WindowProperties1][Toolbar mainToolBar]
+IconSize=16

@@ -5,12 +5,12 @@
     <property name="font" type="string" value="Sans Bold 20"/>
   </property>
   <property name="folders" type="empty">
-    <property name="last-used-media" type="string" value="/run/user/1000/kio-fuse-XsHBwP/trash"/>
+    <property name="last-used-media" type="string" value="/home/richtoo/Desktop/因果推理论文/论文/讨论/第一次讨论2023_7_31"/>
   </property>
   <property name="window" type="empty">
     <property name="maximized" type="bool" value="true"/>
     <property name="width" type="int" value="2560"/>
-    <property name="height" type="int" value="1292"/>
+    <property name="height" type="int" value="1298"/>
   </property>
   <property name="audio" type="empty">
     <property name="volume" type="int" value="100"/>

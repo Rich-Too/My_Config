@@ -1,0 +1,39 @@
+{
+    "bibitems": [
+    ],
+    "bibtexfiles": [
+    ],
+    "childdocs": [
+    ],
+    "filename": "/media/richtoo/Soft/双系统/2023-本科毕设/essay/zjuthesis/body/undergraduate/proposal/proposal/content.tex",
+    "labels": [
+        "fig:fig7",
+        "equ:exp_rwd",
+        "fig:fig2",
+        "equ:Q-update",
+        "tab:table3",
+        "fig:fig5",
+        "tab:table1",
+        "fig:fig3",
+        "fig:fig4",
+        "equ:reward"
+    ],
+    "modified": "Mon Jan 15 11:16:47 2024",
+    "packages": [
+    ],
+    "refs": [
+    ],
+    "toc": [
+        "2#论文的主要内容和技术路线#0",
+        "3#主要研究内容#2",
+        "3#技术路线#5",
+        "4#模型框架#8",
+        "4#医学知识图谱构建#29",
+        "4#强化学习算法#129",
+        "3#可行性分析#178",
+        "4#数据可行性#180",
+        "4#算法可行性#193"
+    ],
+    "usercommands": [
+    ]
+}

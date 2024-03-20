@@ -1,0 +1,43 @@
+{
+    "bibitems": [
+    ],
+    "bibtexfiles": [
+    ],
+    "childdocs": [
+    ],
+    "filename": "/home/richtoo/Desktop/2023-本科毕设/essay/zjuthesis/config/commands.tex",
+    "labels": [
+    ],
+    "modified": "Fri Dec 22 23:22:26 2023",
+    "packages": [
+    ],
+    "refs": [
+    ],
+    "toc": [
+        "-1#./page/undergraduate/#1/major/\\MajorFormat/#2#48",
+        "-1#./page/undergraduate/#1/#2#51",
+        "-1#./#1/graduate/\\GradLevel/\\MajorFormat/#2#115",
+        "-1#./#1/graduate/\\GradLevel/#2#120",
+        "-1#./#1/graduate/#2#123"
+    ],
+    "usercommands": [
+        "\\inputbody",
+        "\\sectionnonum",
+        "\\sectionnonum",
+        "\\chapternonum",
+        "\\bful",
+        "\\thesisproposaleval",
+        "\\chapternonum",
+        "\\checkandinput",
+        "\\designmidcheckeval",
+        "\\sectionnonum",
+        "\\ifbooltrue",
+        "\\inputbody",
+        "\\changelocaltocdepth",
+        "\\inputpage",
+        "\\cleardoublepage",
+        "\\designproposaleval",
+        "\\ifboolfalse",
+        "\\finaleval"
+    ]
+}

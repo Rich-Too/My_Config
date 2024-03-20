@@ -1,0 +1,20 @@
+[1]
+ActiveTab=1
+Urls[$e]=file:$HOME/Desktop/DL&RL/DRL(WangShuSen)/Notes_CN/DRL.pdf,file:///media/richtoo/Soft/DualSystem/2023-本科毕设/essay/zjuthesis/out/zjuthesis.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+2048x1152 screen: Height=1152
+2048x1152 screen: Width=2048
+2048x1152 screen: XPosition=0
+2048x1152 screen: YPosition=0
+ClassName=Shell
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB8sAAAQ3AAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+eDP-1=eDP-1
+
+[WindowProperties1][Toolbar mainToolBar]
+IconSize=16

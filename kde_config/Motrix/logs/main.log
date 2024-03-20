@@ -318,3 +318,123 @@
     'udp://p4p.arenabg.com:1337/announce\n' +
     '\n'
 ]
+[2023-12-15 13:07:41.592] [info]  [Motrix] Logger init
+[2023-12-15 13:07:41.598] [warn]  [Motrix] Logger init
+[2023-12-15 13:07:41.665] [info]  [Motrix] openedAtLogin: false
+[2023-12-15 13:07:41.785] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/richtoo/.config/Motrix/logs',
+  'session-path': '/home/richtoo/.config/Motrix/download.session',
+  'engine-path': '/opt/Motrix/resources/engine',
+  'aria2-bin-path': '/opt/Motrix/resources/engine/aria2c',
+  'aria2-conf-path': '/opt/Motrix/resources/engine/aria2.conf'
+}
+[2023-12-15 13:07:43.609] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2023-12-15 13:07:43.610] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2023-12-15 13:07:43.949] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://102.223.180.235:6969/announce\n' +
+    '\n' +
+    'udp://23.134.88.6:1337/announce\n' +
+    '\n' +
+    'http://193.189.100.186:80/announce\n' +
+    '\n' +
+    'udp://193.189.100.186:6969/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'udp://91.216.110.53:451/announce\n' +
+    '\n' +
+    'udp://185.102.219.163:6969/announce\n' +
+    '\n' +
+    'udp://156.234.201.18:80/announce\n' +
+    '\n' +
+    'udp://51.81.222.188:6969/announce\n' +
+    '\n' +
+    'udp://95.31.11.224:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://198.100.149.66:6969/announce\n' +
+    '\n' +
+    'udp://37.187.111.136:6969/announce\n' +
+    '\n' +
+    'udp://185.50.159.149:6969/announce\n' +
+    '\n' +
+    'udp://209.141.59.16:6969/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://opentracker.i2p.rocks:6969/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://uploads.gamecoast.net:6969/announce\n' +
+    '\n' +
+    'udp://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'udp://tracker.ccp.ovh:6969/announce\n' +
+    '\n' +
+    'udp://sanincode.com:6969/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n' +
+    'udp://movies.zsw.ca:6969/announce\n' +
+    '\n' +
+    'udp://acxx.de:6969/announce\n' +
+    '\n' +
+    'https://tracker.tamersunion.org:443/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.theoks.net:6969/announce\n' +
+    '\n'
+]
+[2023-12-15 13:08:46.575] [info]  [Motrix] Logger init
+[2023-12-15 13:08:46.578] [warn]  [Motrix] Logger init
+[2023-12-15 13:08:46.640] [info]  [Motrix] openedAtLogin: false
+[2023-12-15 13:08:46.745] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/richtoo/.config/Motrix/logs',
+  'session-path': '/home/richtoo/.config/Motrix/download.session',
+  'engine-path': '/opt/Motrix/resources/engine',
+  'aria2-bin-path': '/opt/Motrix/resources/engine/aria2c',
+  'aria2-conf-path': '/opt/Motrix/resources/engine/aria2.conf'
+}
+[2023-12-15 13:08:48.569] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2023-12-15 13:08:48.570] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2023-12-15 13:09:00.084] [info]  [Motrix] Logger init
+[2023-12-15 13:09:00.086] [warn]  [Motrix] Logger init
+[2023-12-15 13:09:00.144] [info]  [Motrix] openedAtLogin: false
+[2023-12-15 13:09:00.252] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/richtoo/.config/Motrix/logs',
+  'session-path': '/home/richtoo/.config/Motrix/download.session',
+  'engine-path': '/opt/Motrix/resources/engine',
+  'aria2-bin-path': '/opt/Motrix/resources/engine/aria2c',
+  'aria2-conf-path': '/opt/Motrix/resources/engine/aria2.conf'
+}
+[2023-12-15 13:09:02.096] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2023-12-15 13:09:02.097] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed

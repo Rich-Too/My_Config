@@ -12,3 +12,10 @@ Seen=true
 
 [Applications][org.gnome.DejaDup]
 Seen=true
+
+[Applications][qq]
+Seen=true
+
+[DoNotDisturb]
+NotificationSoundsMuted=true
+Until=2025,3,18,14,36,5.244

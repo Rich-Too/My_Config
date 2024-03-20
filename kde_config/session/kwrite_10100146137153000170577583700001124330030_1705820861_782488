@@ -1,0 +1,82 @@
+[1]
+1707x960 screen: Height=600
+1707x960 screen: Width=1024
+1707x960 screen: XPosition=0
+1707x960 screen: YPosition=0
+Active ViewSpace=0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAIpAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAIO/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[1-Splitter 0]
+Children=1-ViewSpace 0
+Orientation=1
+Sizes=1022
+
+[1-ViewSpace 0]
+Active View=file:///home/richtoo/Desktop/ljx.txt
+Count=1
+Documents=file:///home/richtoo/Desktop/ljx.txt
+View 0=file:///home/richtoo/Desktop/ljx.txt
+
+[1-ViewSpace 0 file:///home/richtoo/Desktop/ljx.txt]
+CursorColumn=0
+CursorLine=12
+Dynamic Word Wrap=true
+JumpList=
+TextFolding={"checksum":"367b24c5236a03ff34ed39e47690fe2f023df7ba","ranges":[]}
+ViMarks=
+
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+URL=file:///home/richtoo/Desktop/ljx.txt
+
+[General]
+Last Session=
+
+[Number]
+NumberOfWindows=1
+
+[Open Documents]
+Count=1
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/CS224W/robots.txt
+File10[$e]=$HOME/Desktop/ljx.txt
+File2[$e]=$HOME/Downloads/数院latex模板微调/chapters/ref.bib
+File3[$e]=/media/richtoo/Soft/双系统/2023-本科毕设/essay/zjuthesis/script/utils/word_count.sh
+File4[$e]=/media/richtoo/Soft/双系统/2023-本科毕设/essay/zjuthesis/word_count.sh
+File5[$e]=$HOME/.config/nvim/plugin/packer_compiled.lua
+File6[$e]=$HOME/Downloads/Neovim-Configuration-Tutorial-main/完整配置代码/nvim/lua/plugins/lsp.lua
+File7[$e]=$HOME/.config/nvim/init.lua
+File8[$e]=$HOME/.config/nvim/lua/core/options.lua
+File9[$e]=$HOME/Downloads/nvim_setup_linux.sh
+Name1[$e]=robots.txt
+Name10[$e]=ljx.txt
+Name2[$e]=ref.bib
+Name3[$e]=word_count.sh
+Name4[$e]=word_count.sh
+Name5[$e]=packer_compiled.lua
+Name6[$e]=lsp.lua
+Name7[$e]=init.lua
+Name8[$e]=options.lua
+Name9[$e]=nvim_setup_linux.sh
+
+[WindowProperties1]
+1707x960 screen: Height=600
+1707x960 screen: Width=1024
+1707x960 screen: XPosition=0
+1707x960 screen: YPosition=0
+ClassName=KateMainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABAAAAAIpAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAIO/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

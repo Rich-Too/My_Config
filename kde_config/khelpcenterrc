@@ -4,6 +4,9 @@ AutomaticDetectionLanguage=1
 [MainWindow]
 1707x960 screen: XPosition=453
 1707x960 screen: YPosition=175
+2 screens: XPosition=453
+2 screens: YPosition=175
+HDMI-1 eDP-1=eDP-1
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAAyAAAAINAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled

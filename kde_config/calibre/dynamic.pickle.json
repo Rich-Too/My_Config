@@ -1,0 +1,19 @@
+{
+  "database location dialog": "/home/richtoo/Software/CalibreLibrary",
+  "sort_history": [
+    [
+      "size",
+      true
+    ],
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "default",
+  "welcome_wizard_was_run": true
+}

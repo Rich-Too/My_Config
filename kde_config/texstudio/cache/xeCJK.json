@@ -1,0 +1,69 @@
+{
+    "bibitems": [
+    ],
+    "bibtexfiles": [
+    ],
+    "childdocs": [
+    ],
+    "filename": "/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.sty",
+    "labels": [
+    ],
+    "modified": "Sat Aug 6 05:33:57 2022",
+    "packages": [
+        "#expl3",
+        "#l3keys2e",
+        "#ctexhook",
+        "#fontspec",
+        "#xeCJK-listings",
+        "#xunicode-addon"
+    ],
+    "refs": [
+    ],
+    "toc": [
+    ],
+    "usercommands": [
+        "\\xeCJKnobreakbetweenpuncts",
+        "\\CJKfamily",
+        "\\makexeCJKactive",
+        "\\xeCJKsetslantfactor",
+        "\\xeCJKDeclarePunctStyle",
+        "\\xeCJKDeclareSubCJKBlock",
+        "\\setCJKfallbackfamilyfont",
+        "\\xeCJKRestoreSubCJKBlock",
+        "\\xdef",
+        "\\xeCJKCancelSubCJKBlock",
+        "\\normalspacedchars",
+        "\\xeCJKsetwidth",
+        "\\newCJKfontfamily",
+        "\\xeCJKsetup",
+        "\\xeCJKsetkern",
+        "\\xeCJKnobreak",
+        "\\setCJKmathfont",
+        "\\xeCJKOffVerbAddon",
+        "\\xeCJKShipoutHook",
+        "\\xeCJKDeclareCharClass",
+        "\\defaultCJKfontfeatures",
+        "\\xeCJKsetemboldenfactor",
+        "\\xeCJKenablefallback",
+        "\\_",
+        "\\xeCJKdisablefallback",
+        "\\CJKspace",
+        "\\setCJKmonofont",
+        "\\CJKnospace",
+        "\\xeCJKResetPunctClass",
+        "\\setCJKmainfont",
+        "\\_",
+        "\\makexeCJKinactive",
+        "\\_",
+        "\\CJKsetecglue",
+        "\\CJKfontspec",
+        "\\punctstyle",
+        "\\xeCJKResetCharClass",
+        "\\xeCJKsetcharclass",
+        "\\xeCJKVerbAddon",
+        "#",
+        "\\xeCJKplainchr",
+        "\\xeCJKallowbreakbetweenpuncts",
+        "\\setCJKfamilyfont"
+    ]
+}

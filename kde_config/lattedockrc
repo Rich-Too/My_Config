@@ -1,14 +1,19 @@
+[KFileDialog Settings]
+Recent Files[$e]=Moe.layout.latte,file:$HOME/.config/latte/Moe.layout.latte
+Recent URLs[$e]=file:$HOME/.config/latte/,file:$HOME/
+detailViewIconSize=16
+
 [LatteSettingsDialog]
 downloadWindowSize=980,600
-windowSize=1367,769
+windowSize=1367,853
 
 [LatteSettingsDialog][DetailsDialog]
 windowSize=764,689
 
 [LatteSettingsDialog][TabLayouts]
 columnWidths=84,508,129,104
-sortColumn=5
-sortOrder=1
+sortColumn=3
+sortOrder=0
 
 [LatteSettingsDialog][ViewsDialog]
 columnWidths=84,256,142,135,131
@@ -21,8 +26,9 @@ outlineWidth=1
 
 [ScreenConnectors]
 10=eDP-1:::0,0 2560x1440
-11=HDMI-1:::2560,0 2496x1404
-12=DP-3:::2560,0 1920x1080
+11=HDMI-1:::0,0 2560x1440
+12=DP-3:::5120,0 2560x1440
+13=HDMI-A-1:::1707,0 1920x1080
 
 [UniversalSettings]
 badges3DStyle=true

@@ -5,47 +5,81 @@ State=AAAA/wAAAAD9AAAAAAAABqsAAAMrAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAH
 [Desktop Entry]
 FullScreen=false
 
+[FileDialogSize]
+1707x960 screen: Height=785
+1707x960 screen: Width=1172
+2 screens: Height=785
+2 screens: Width=1172
+
+[KFileDialog Settings]
+Recent Files[$e]=LeeDL_Tutorial_v.1.1.1.pdf,file:$HOME/Downloads/打印机.pdf
+Recent URLs[$e]=file:$HOME/Desktop/DL&RL/,file:$HOME/Downloads/
+detailViewIconSize=16
+
 [MainWindow]
-1707x960 screen: Height=861
-1707x960 screen: Width=1707
-1707x960 screen: Window-Maximized=true
-1707x960 screen: XPosition=0
-1707x960 screen: YPosition=28
-2 screens: Height=720
-2 screens: Width=1280
-2 screens: Window-Maximized=true
-2 screens: XPosition=2560
+1280x720 screen: Height=624
+1280x720 screen: Width=1280
+1280x720 screen: XPosition=0
+1280x720 screen: YPosition=28
+1707x960 screen: Height=599
+1707x960 screen: Width=1108
+1707x960 screen: XPosition=355
+1707x960 screen: YPosition=327
+2 screens: Height=1152
+2 screens: Width=1995
+2 screens: XPosition=0
 2 screens: YPosition=0
-HDMI-1 eDP-1=HDMI-1
+2048x1152 screen: Height=719
+2048x1152 screen: Width=1330
+2048x1152 screen: XPosition=426
+2048x1152 screen: YPosition=393
+2560x1440 screen: Height=1414
+2560x1440 screen: Width=2494
+2560x1440 screen: XPosition=0
+2560x1440 screen: YPosition=26
+2987x960 screen: Height=861
+2987x960 screen: Width=1707
+2987x960 screen: XPosition=0
+2987x960 screen: YPosition=28
+3 screens: Height=1152
+3 screens: Width=2048
+3 screens: XPosition=2560
+3 screens: YPosition=0
+:0.0=:0.0
+DP-3 HDMI-1 eDP-1=HDMI-1
+DP-3 eDP-1=eDP-1
+HDMI-1=HDMI-1
+HDMI-1 eDP-1=eDP-1
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABqsAAAMrAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAAAABFQAAAImAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 eDP-1=eDP-1
 
 [MainWindow][Toolbar mainToolBar]
 IconSize=16
 
+[Notification Messages]
+ShowTabWarning=true
+
 [Recent Files]
-File1[$e]=$HOME/Downloads/1-s2.0-S0933365722000276-main.pdf
-File10[$e]=$HOME/Downloads/pdf
-File2[$e]=$HOME/Downloads/Deep_Survival_A_Deep_Cox_Proportional_Hazards_Netw.pdf
-File3[$e]=$HOME/Desktop/CS229/mathematics_foundation/hoeffding.pdf
-File4[$e]=$HOME/Desktop/陈华钧_知识图谱课程pdf/Lecture 00-课程概览.pdf
-File5[$e]=$HOME/Desktop/陈华钧_知识图谱课程pdf/Lecture 01-知识图谱概览.pdf
-File6[$e]=$HOME/Desktop/陈华钧_知识图谱课程pdf/Lecture 02-知识图谱的表示与关系建模-2018.11.30.pdf
-File7[$e]=$HOME/Desktop/陈华钧_知识图谱课程pdf/Lecture 03-知识图谱的存储与关联查询.pdf
-File8[$e]=$HOME/Desktop/陈华钧_知识图谱课程pdf/Lecture 04-知识图谱的获取与关系抽取.pdf
-File9[$e]=$HOME/Downloads/浙江大学现代教务管理系统.pdf
-Name1[$e]=1-s2.0-S0933365722000276-main.pdf
-Name10[$e]=pdf
-Name2[$e]=Deep_Survival_A_Deep_Cox_Proportional_Hazards_Netw.pdf
-Name3[$e]=hoeffding.pdf
-Name4[$e]=Lecture 00-课程概览.pdf
-Name5[$e]=Lecture 01-知识图谱概览.pdf
-Name6[$e]=Lecture 02-知识图谱的表示与关系建模-2018.11.30.pdf
-Name7[$e]=Lecture 03-知识图谱的存储与关联查询.pdf
-Name8[$e]=Lecture 04-知识图谱的获取与关系抽取.pdf
-Name9[$e]=浙江大学现代教务管理系统.pdf
+File1[$e]=$HOME/Downloads/创新成果标准.pdf
+File2[$e]=$HOME/Downloads/arXiv-2403.06634v1/figures/ada.pdf
+File3[$e]=/media/richtoo/Soft/双系统/2023-本科毕设/essay/编写规则.pdf
+File4[$e]=/media/richtoo/Soft/双系统/2023-本科毕设/essay/zjuthesis/zjuthesis.pdf
+File5[$e]=$HOME/Desktop/CS224W/GRL_Book.pdf
+File6[$e]=$HOME/Downloads/hu2018.pdf
+File7[$e]=$HOME/Desktop/CS224W/notes/CS224W.pdf
+File8[$e]=/media/richtoo/Backup Plus/Warranty.pdf
+File9[$e]=$HOME/Desktop/DL&RL/DRL(WangShuSen)/Notes_CN/DRL.pdf
+Name1[$e]=创新成果标准.pdf
+Name2[$e]=ada.pdf
+Name3[$e]=编写规则.pdf
+Name4[$e]=zjuthesis.pdf
+Name5[$e]=GRL_Book.pdf
+Name6[$e]=hu2018.pdf
+Name7[$e]=CS224W.pdf
+Name8[$e]=Warranty.pdf
+Name9[$e]=DRL.pdf
 
 [Toolbar mainToolBar]
 IconSize=16

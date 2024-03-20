@@ -1,0 +1,198 @@
+{
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABAP////8A/////wEAAAABAA=="
+  },
+  "geometry-of-calibre_main_window_geometry": {
+    "frame_geometry": {
+      "height": 865,
+      "width": 1707,
+      "x": 0,
+      "y": 25
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 865,
+      "width": 1707,
+      "x": 0,
+      "y": 25
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": 757,
+      "width": 1161,
+      "x": 191,
+      "y": 133
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAGQAABqoAAAN5AAAAvwAAAIUAAAVHAAADeQAAAAACAAAABqsAAAAAAAAAGQAABqoAAAN5"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.5,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1707,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1707
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1707,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-preferences dialog geometry": {
+    "frame_geometry": {
+      "height": 753,
+      "width": 929,
+      "x": 329,
+      "y": 59
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 720,
+      "width": 929,
+      "x": 329,
+      "y": 92
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 720,
+      "width": 929,
+      "x": 329,
+      "y": 92
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAFJAAAAOwAABOkAAAMrAAABSQAAAFwAAATpAAADKwAAAAAAAAAABqsAAAFJAAAAXAAABOkAAAMr"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.5,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1707,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1707
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1707,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-scheduler_dialog_geometry": {
+    "frame_geometry": {
+      "height": 600,
+      "width": 800,
+      "x": 443,
+      "y": 117
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 600,
+      "width": 800,
+      "x": 443,
+      "y": 117
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 600,
+      "width": 800,
+      "x": 443,
+      "y": 117
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAG7AAAAdQAABNoAAALMAAABuwAAAHUAAATaAAACzAAAAAAAAAAABqsAAAG7AAAAdQAABNoAAALM"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.5,
+      "geometry_in_logical_pixels": {
+        "height": 960,
+        "width": 1707,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 960,
+        "width": 1707
+      },
+      "virtual_geometry": {
+        "height": 960,
+        "width": 1707,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "grid view visible": false,
+  "library_usage_stats": {
+    "/home/richtoo/Software/CalibreLibrary": 2
+  },
+  "main_window_central_widget_state": {
+    "layout": "wide",
+    "narrow_desires": {
+      "book_details_height": 0.23093681917211328,
+      "cover_browser_width": 0.3496985357450474,
+      "quick_view_height": 0.2559912854030501,
+      "tag_browser_width": 0.24978466838931956
+    },
+    "narrow_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    },
+    "wide_desires": {
+      "book_details_width": 0.2997416020671835,
+      "cover_browser_height": 0.2854251012145749,
+      "quick_view_height": 0.23785425101214575,
+      "tag_browser_width": 0.14352665495020503
+    },
+    "wide_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    }
+  },
+  "previous_sort_order_BooksView": {
+    "size": true
+  },
+  "quick_start_guide_added": true,
+  "search bar visible": true,
+  "tag browser search box visible": false
+}

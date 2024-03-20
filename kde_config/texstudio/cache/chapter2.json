@@ -1,0 +1,38 @@
+{
+    "bibitems": [
+    ],
+    "bibtexfiles": [
+    ],
+    "childdocs": [
+    ],
+    "filename": "/home/richtoo/Downloads/数院latex模板微调/chapters/chapter2.tex",
+    "labels": [
+        "chap2",
+        "fig:example",
+        "tab:simple-table",
+        "detK2",
+        "alg:put-into-refri",
+        "bilevel",
+        "equ:chap1:bayes"
+    ],
+    "modified": "Mon Aug 23 15:31:40 2021",
+    "packages": [
+    ],
+    "refs": [
+        "equ:chap1:bayes",
+        "fig:example",
+        "alg:put-into-refri"
+    ],
+    "toc": [
+        "1#第二章#1",
+        "2#看看第一节#5",
+        "3#图片示例#7",
+        "3#表格示例#18",
+        "3#定理示例#39",
+        "3#算法示例#75",
+        "3#公式示例#96"
+    ],
+    "usercommands": [
+        "\\envert"
+    ]
+}

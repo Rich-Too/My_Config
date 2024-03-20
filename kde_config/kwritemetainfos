@@ -9,74 +9,450 @@ Mode Set By User=true
 Time=2023,8,7,5,40,0.99
 URL=
 
-[file:///home/richtoo/Desktop/com.alibabainc.dingtalk.desktop]
+[file:///home/richtoo/.arcmenu]
 Bookmarks=
-Checksum=e411af0d935fc2aa68d0fc85c57681d917ea418c
+Checksum=2cb694b152f58140c18364557524fb3cf814e3f7
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,3,17,12,48,10.862
+URL=file:///home/richtoo/.arcmenu
+
+[file:///home/richtoo/.bashrc]
+Bookmarks=
+Checksum=ee234a5f9c6d9d4232b6340c25df0bb937c1154a
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2024,3,17,12,48,19.307
+URL=file:///home/richtoo/.bashrc
+
+[file:///home/richtoo/.hyper.js]
+Bookmarks=
+Checksum=005e076e2063ab131f2253a87c6707c39052b4e9
+Encoding=UTF-8
+Highlighting=JavaScript
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=JavaScript
+Mode Set By User=false
+Time=2024,3,17,12,48,48.763
+URL=file:///home/richtoo/.hyper.js
+
+[file:///home/richtoo/.local/gtk-3.0/gtk.css]
+Bookmarks=
+Checksum=db9c03dabb45140463a75108f020ffaa9577b5d4
+Encoding=UTF-8
+Highlighting=CSS
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=CSS
+Mode Set By User=false
+Time=2024,3,16,10,15,9.053
+URL=file:///home/richtoo/.local/gtk-3.0/gtk.css
+
+[file:///home/richtoo/.local/share/applications/neo4j-desktop.desktop]
+Bookmarks=
+Checksum=0a8aa42db6652362f78babe10ae12e4fb77f9839
 Encoding=UTF-8
 Highlighting=.desktop
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=.desktop
 Mode Set By User=false
-Time=2023,10,27,14,49,16.137
-URL=file:///home/richtoo/Desktop/com.alibabainc.dingtalk.desktop
+Time=2024,3,20,3,5,30.917
+URL=file:///home/richtoo/.local/share/applications/neo4j-desktop.desktop
 
-[file:///home/richtoo/Desktop/x11.py]
+[file:///home/richtoo/.local/share/applications/org.kde.dolphin.desktop]
 Bookmarks=
-Checksum=bd9abb22e8b1194e80fa2d24b1442470eaa7b8dd
+Checksum=a32d524adc121e13983808d9ca87cfd2e9e10c7b
+Encoding=UTF-8
+Highlighting=.desktop
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=.desktop
+Mode Set By User=false
+Time=2024,3,12,7,45,10.39
+URL=file:///home/richtoo/.local/share/applications/org.kde.dolphin.desktop
+
+[file:///home/richtoo/.local/share/applications/zotero7.desktop]
+Bookmarks=
+Checksum=41b4dcfba7211fbf92d061431d6bab95f4428a72
+Encoding=UTF-8
+Highlighting=.desktop
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=.desktop
+Mode Set By User=false
+Time=2024,3,12,7,45,47.398
+URL=file:///home/richtoo/.local/share/applications/zotero7.desktop
+
+[file:///home/richtoo/.local/share/arcmenu/stylesheet.css]
+Bookmarks=
+Checksum=f55bdde1963b36a9f063acc7c5a4f8843c98ef1f
+Encoding=UTF-8
+Highlighting=CSS
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=CSS
+Mode Set By User=false
+Time=2024,3,17,12,46,44.51
+URL=file:///home/richtoo/.local/share/arcmenu/stylesheet.css
+
+[file:///home/richtoo/.npmrc]
+Bookmarks=
+Checksum=c137f9c72cf0dda30dddaa73c074eeaac0cee603
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,3,17,12,48,45.395
+URL=file:///home/richtoo/.npmrc
+
+[file:///home/richtoo/.yarnrc]
+Bookmarks=
+Checksum=63e66d6ab4c10966fabea8fef48ba33f6e0c8b2f
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,3,17,12,48,40.715
+URL=file:///home/richtoo/.yarnrc
+
+[file:///home/richtoo/.zsh_history]
+Bookmarks=
+Checksum=bc0fbc49fd5188d7ec5787715f27a66bb94ec7ea
+Encoding=ISO-8859-15
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,3,17,12,48,30.512
+URL=file:///home/richtoo/.zsh_history
+
+[file:///home/richtoo/Desktop/11]
+Bookmarks=
+Checksum=9fd3f98430410559f78f2767dbdff46efc36a09a
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,3,18,8,24,59.207
+URL=file:///home/richtoo/Desktop/11
+
+[file:///home/richtoo/Desktop/DL&RL/LHY2022-SPRING-main/Hw01/ML2022Spring_HW1.ipynb]
+Bookmarks=
+Checksum=c081b42d49c1c22e521c1b05a19bdcc9fc4b3546
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,3,12,11,48,50.535
+URL=file:///home/richtoo/Desktop/DL&RL/LHY2022-SPRING-main/Hw01/ML2022Spring_HW1.ipynb
+
+[file:///home/richtoo/Desktop/DL&RL/LHY2022-SPRING-main/Hw01/answer/strong baseline.ipynb]
+Bookmarks=
+Checksum=d262307d7513c48ee0930173578f43ce35602c34
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,3,17,13,14,58.076
+URL=file:///home/richtoo/Desktop/DL&RL/LHY2022-SPRING-main/Hw01/answer/strong baseline.ipynb
+
+[file:///home/richtoo/Desktop/DL&RL/LHY2022-SPRING-main/Hw01/fuckvim.py]
+Bookmarks=
+Checksum=91ce4ecbf3820d1f5b0d1023526c95e162675341
 Encoding=UTF-8
 Highlighting=Python
 Highlighting Set By User=false
 Indentation Mode=python
 Mode=Python
 Mode Set By User=false
-Time=2023,10,28,7,34,24.838
-URL=file:///home/richtoo/Desktop/x11.py
+Time=2024,3,12,11,48,34.6
+URL=file:///home/richtoo/Desktop/DL&RL/LHY2022-SPRING-main/Hw01/fuckvim.py
 
-[file:///home/richtoo/Documents/My-Wiki/docs/读论文/template/Mdnotes Default Template.md ]
+[file:///home/richtoo/Desktop/WebDevelopment/ljx.txt]
 Bookmarks=
-Checksum=72aa2f79b837e5cb12dacc18a3d6904482e7af4b
+Checksum=6b467a0e46d290516afb3368de85719b25c2b670
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2023,10,5,7,14,23.425
-URL=file:///home/richtoo/Documents/My-Wiki/docs/读论文/template/Mdnotes Default Template.md\s
+Time=2024,3,18,13,1,13.089
+URL=file:///home/richtoo/Desktop/WebDevelopment/ljx.txt
 
-[file:///home/richtoo/Downloads/Intel_ARK_SpecificationsChart_2023_10_14.csv]
+[file:///home/richtoo/Desktop/dotfiles/generate_dotfile.sh]
 Bookmarks=
-Checksum=e2fa506fe4d7ddeec9d285bdc27e66fdc91f052b
+Checksum=dc3f274c726ca96f4efbd5c94ae6c8947ab86af6
 Encoding=UTF-8
-Highlighting=CSV
+Highlighting=Bash
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=CSV
+Mode=Bash
 Mode Set By User=false
-Time=2023,10,14,7,19,0.618
-URL=file:///home/richtoo/Downloads/Intel_ARK_SpecificationsChart_2023_10_14.csv
+Time=2024,3,20,14,20,51.696
+URL=file:///home/richtoo/Desktop/dotfiles/generate_dotfile.sh
 
-[file:///home/richtoo/Downloads/douyin/main.go]
+[file:///home/richtoo/Desktop/ljx.txt]
 Bookmarks=
-Checksum=04149451a38eaacabaebcd3dcc0126960fd2af2e
+Checksum=6b467a0e46d290516afb3368de85719b25c2b670
 Encoding=UTF-8
-Highlighting=Go
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,2,28,9,14,43.804
+URL=file:///home/richtoo/Desktop/ljx.txt
+
+[file:///home/richtoo/Desktop/导出的条目.bib]
+Bookmarks=
+Checksum=85a6076a82370075f175ff0c35987d92923e3773
+Encoding=UTF-8
+Highlighting=BibTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=BibTeX
+Mode Set By User=false
+Time=2024,3,18,7,30,44.441
+URL=file:///home/richtoo/Desktop/导出的条目.bib
+
+[file:///home/richtoo/Documents/xwechat_files/wxid_z2k7o9jqdjt322_2eb0/msg/file/2024-03/digestive_pdcs_with_noise.json]
+Bookmarks=
+Checksum=abcedfa06493d6d45b854b992e64520ad4a77413
+Encoding=UTF-8
+Highlighting=JSON
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=JSON
+Mode Set By User=false
+Time=2024,3,20,7,49,50.29
+URL=file:///home/richtoo/Documents/xwechat_files/wxid_z2k7o9jqdjt322_2eb0/msg/file/2024-03/digestive_pdcs_with_noise.json
+
+[file:///home/richtoo/Downloads/pydata-book-3rd-edition/requirements.txt]
+Bookmarks=
+Checksum=059c67bc1ecdbf279ce0d48bbea74e13639b2793
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,3,12,11,23,27.348
+URL=file:///home/richtoo/Downloads/pydata-book-3rd-edition/requirements.txt
+
+[file:///home/richtoo/Software/Zotero7/zotero]
+Bookmarks=
+Checksum=fbaa031ce3c371de96ce46f164465856ec0f82e7
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2024,3,12,7,37,55.837
+URL=file:///home/richtoo/Software/Zotero7/zotero
+
+[file:///home/richtoo/Software/Zotero7/zotero.desktop]
+Bookmarks=
+Checksum=705d0b3d46d66cdfbdd35292162baad1e70563f2
+Encoding=UTF-8
+Highlighting=.desktop
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=.desktop
+Mode Set By User=false
+Time=2024,3,14,4,11,36.337
+URL=file:///home/richtoo/Software/Zotero7/zotero.desktop
+
+[file:///media/richtoo/Backup Plus/physionet.org/robots.txt]
+Bookmarks=
+Checksum=8993960884d39dfc1ba36fdd3ee467c75ddb60f5
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,3,13,13,45,6.089
+URL=file:///media/richtoo/Backup Plus/physionet.org/robots.txt
+
+[file:///media/richtoo/Data/Course_ZJU/Junior_2/电子系统设计与实践2023/电子系统设计与实践2023/实验/Project.c]
+Bookmarks=
+Checksum=c193d9b2b79e9b5a89fd8c481b2425a135fe5e03
+Encoding=UTF-8
+Highlighting=C
 Highlighting Set By User=false
 Indentation Mode=cstyle
-Mode=Go
+Mode=C
 Mode Set By User=false
-Time=2023,10,8,1,57,6.242
-URL=file:///home/richtoo/Downloads/douyin/main.go
+Time=2024,2,26,11,33,6.746
+URL=file:///media/richtoo/Data/Course_ZJU/Junior_2/电子系统设计与实践2023/电子系统设计与实践2023/实验/Project.c
 
-[file:///home/richtoo/Downloads/实验室论文列表（部分）.txt]
+[file:///media/richtoo/Kubuntu 22.04.4 LTS amd64/md5sum.txt]
 Bookmarks=
-Checksum=f9f9ff50149d1cb480df045688f3415f3eb7b6bd
+Checksum=07431112ec796154834ebf54759435c88583f9fd
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2023,10,28,5,23,35.667
-URL=file:///home/richtoo/Downloads/实验室论文列表（部分）.txt
+Time=2024,3,19,9,23,11.687
+URL=file:///media/richtoo/Kubuntu 22.04.4 LTS amd64/md5sum.txt
+
+[file:///media/richtoo/Soft/DataSets/mimiciii&&mimiciv/files/mimiciii/1.4/unzip.sh]
+Bookmarks=
+Checksum=16863950e68b94696576f29231eb2a4d862a93a3
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2024,3,13,14,35,59.849
+URL=file:///media/richtoo/Soft/DataSets/mimiciii&&mimiciv/files/mimiciii/1.4/unzip.sh
+
+[file:///media/richtoo/Soft/DataSets/mimiciii&&mimiciv/files/unzip.sh]
+Bookmarks=
+Checksum=db1a425094dacf767e182c8dee1c3937b418ebc5
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2024,3,13,14,42,44.736
+URL=file:///media/richtoo/Soft/DataSets/mimiciii&&mimiciv/files/unzip.sh
+
+[file:///media/richtoo/Soft/DataSets/mimiciii&&mimiciv/uncompress.py]
+Bookmarks=
+Checksum=09d8d0d1024b8dc5fa3fd04ea10b91cbb0074aaa
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+Time=2024,3,14,3,31,2.74
+URL=file:///media/richtoo/Soft/DataSets/mimiciii&&mimiciv/uncompress.py
+
+[file:///media/richtoo/Soft/DualSystem/Coding/code/test.py]
+Bookmarks=
+Checksum=b59d788be81f2f86cf8b63f449c1af04723dee95
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+Time=2024,3,14,4,0,40.378
+URL=file:///media/richtoo/Soft/DualSystem/Coding/code/test.py
+
+[file:///media/richtoo/Soft/DualSystem/Coding/code/test_neo4j.py]
+Bookmarks=
+Checksum=9fdbaece4683cfb512ad1f6e193ecc3a0f67d34a
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+Time=2024,3,14,4,0,35.762
+URL=file:///media/richtoo/Soft/DualSystem/Coding/code/test_neo4j.py
+
+[file:///media/richtoo/Soft/DualSystem/Coding/data/history_without_image.json]
+Bookmarks=
+Checksum=1de21f21fc88693e02d72b699457766ee8512f10
+Encoding=UTF-8
+Highlighting=JSON
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=JSON
+Mode Set By User=false
+Time=2024,3,20,13,32,53.99
+URL=file:///media/richtoo/Soft/DualSystem/Coding/data/history_without_image.json
+
+[file:///media/richtoo/Soft/DualSystem/Coding/loadGraphCSV.py]
+Bookmarks=
+Checksum=27999847a5c4b6bf49d59424d32cbfa89a36bb38
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+Time=2024,3,14,3,49,15.388
+URL=file:///media/richtoo/Soft/DualSystem/Coding/loadGraphCSV.py
+
+[file:///media/richtoo/Soft/双系统/2023-本科毕设/essay/zjuthesis/Makefile]
+Bookmarks=
+Checksum=e14d8a8e026528b9615ae5f16a69a712c6eb4dac
+Encoding=UTF-8
+Highlighting=Makefile
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Makefile
+Mode Set By User=false
+Time=2024,3,12,10,57,56.797
+URL=file:///media/richtoo/Soft/双系统/2023-本科毕设/essay/zjuthesis/Makefile
+
+[file:///media/richtoo/_ĵ_/graphsage.py]
+Bookmarks=
+Checksum=017f694a7ee378fc00154fcc01da534b1a413790
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+Time=2024,3,19,7,59,38.216
+URL=file:///media/richtoo/_ĵ_/graphsage.py
+
+[file:///media/richtoo/新加卷/net.txt]
+Bookmarks=
+Checksum=b98a4cf5b5aa0854a145192db5fcdd38c8ad412c
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2024,3,19,14,24,52.968
+URL=file:///media/richtoo/新加卷/net.txt
+
+[file:///opt/zotero/zotero6.desktop]
+Bookmarks=
+Checksum=f02322ac111a633df2d724cb847fb9560cc231a2
+Encoding=UTF-8
+Highlighting=.desktop
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=.desktop
+Mode Set By User=false
+Time=2024,3,19,11,54,30.251
+URL=file:///opt/zotero/zotero6.desktop
+
+[file:///tmp/.mount_neo4j-07IQ7b/neo4j-desktop.desktop]
+Checksum=b31449c46aadb060cd4e81d45ec35b26ee8be08a
+Time=2024,3,20,3,1,52.169

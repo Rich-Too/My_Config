@@ -1,6 +1,8 @@
 [FileDialogSize]
 1707x960 screen: Height=785
 1707x960 screen: Width=1172
+2 screens: Height=785
+2 screens: Width=1172
 
 [KFileDialog Settings]
 detailViewIconSize=16
@@ -12,7 +14,10 @@ String=你是谁 你要去哪
 1707x960 screen: Window-Maximized=true
 1707x960 screen: XPosition=535
 1707x960 screen: YPosition=281
+2 screens: XPosition=533
+2 screens: YPosition=235
+HDMI-1 eDP-1=eDP-1
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABqsAAAMrAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1=eDP-1

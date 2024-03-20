@@ -13,13 +13,15 @@ ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOkAAAACAQAAAQAA
 Number of Actions=0
 
 [KFileDialog Settings]
-Recent Files[$e]=shortcut-start-file-sharing-icon-1.png,file:$HOME/.local/share/icons/zotero.png,file:$HOME/.local/share/icons/Typora/Typora-macOS_1024x1024x32.png,file:$HOME/.local/share/icons/evince.svg,file:$HOME/.local/share/icons/shortcut-start-file-sharing-icon-1.png
-Recent URLs[$e]=file:$HOME/.local/share/icons/,file:$HOME/.local/share/icons/,file:$HOME/,file:$HOME/.local/share/icons/Typora/,file:$HOME/Desktop/
+Recent Files[$e]=shortcut-start-file-sharing-icon-1.png,file:$HOME/.local/share/icons/konsole.svg,file:$HOME/.local/share/icons/zotero7.png,file:$HOME/.local/share/icons/Alecive-Flatwoken-Apps-Texstudio.512.png,file:$HOME/.local/share/icons/zotero.png,file:$HOME/.local/share/icons/Typora/Typora-macOS_1024x1024x32.png,file:$HOME/.local/share/icons/evince.svg,file:$HOME/.local/share/icons/shortcut-start-file-sharing-icon-1.png
+Recent URLs[$e]=file:$HOME/.local/,file:$HOME/.local/share/icons/,file:$HOME/,file:$HOME/.local/share/icons/Typora/,file:$HOME/Desktop/,file:$HOME/Documents/,file:$HOME/.local/share/
 detailViewIconSize=48
 
 [KPropertiesDialog]
-2560x1440 screen: Height=712
-2560x1440 screen: Width=649
+2 screens: Height=624
+2 screens: Width=555
+2560x1440 screen: Height=624
+2560x1440 screen: Width=504
 
 [PlasmaViews][Panel 1][Defaults]
 thickness=44
@@ -48,17 +50,26 @@ maxLength=2986
 minLength=2986
 
 [PlasmaViews][Panel 164]
+alignment=132
+floating=0
 panelOpacity=2
+panelVisibility=0
 
 [PlasmaViews][Panel 164][Defaults]
 maxLength=2986
 minLength=2986
 offset=0
-thickness=42
+thickness=30
 
 [PlasmaViews][Panel 164][Horizontal2560]
 maxLength=2986
 minLength=2986
+
+[PlasmaViews][Panel 187][Defaults]
+thickness=72
+
+[PlasmaViews][Panel 189][Defaults]
+thickness=54
 
 [PlasmaViews][Panel 23][Defaults]
 maxLength=2986

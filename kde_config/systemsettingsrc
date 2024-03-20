@@ -1,33 +1,48 @@
 [FileDialogSize]
 1707x960 screen: Height=609
 1707x960 screen: Width=832
+2 screens: Height=609
+2 screens: Width=832
 
 [KFileDialog Settings]
 Recent Files[$e]=kde.kksrc,file:$HOME/Desktop/dotfiles/kde.kksrc
 Recent URLs[$e]=file:$HOME/Desktop/dotfiles/
 detailViewIconSize=16
 
+[KPropertiesDialog]
+2 screens: Height=591
+2 screens: Width=461
+
 [MainWindow]
-1280x720 screen: Height=588
-1280x720 screen: Width=1224
+1280x720 screen: Height=800
+1280x720 screen: Width=1280
 1463x823 screen: Window-Maximized=true
-1707x960 screen: Height=776
-1707x960 screen: Width=1227
-1707x960 screen: XPosition=167
-1707x960 screen: YPosition=101
-2 screens: Height=840
-2 screens: Width=1224
-2 screens: XPosition=143
-2 screens: YPosition=61
-2048x1152 screen: Height=840
-2048x1152 screen: Width=1224
-2048x1152 screen: Window-Maximized=true
-2048x1152 screen: XPosition=412
-2048x1152 screen: YPosition=146
+1707x960 screen: Height=865
+1707x960 screen: Width=1707
+1707x960 screen: Window-Maximized=true
+1707x960 screen: XPosition=0
+1707x960 screen: YPosition=25
+1920x1080 screen: Height=839
+1920x1080 screen: Width=1280
+1920x1080 screen: Window-Maximized=true
+1920x1080 screen: XPosition=291
+1920x1080 screen: YPosition=135
+2 screens: Height=925
+2 screens: Width=1483
+2 screens: XPosition=2874
+2 screens: YPosition=139
+2048x1152 screen: Height=777
+2048x1152 screen: Width=1363
+2048x1152 screen: XPosition=316
+2048x1152 screen: YPosition=216
+2560x1440 screen: Height=840
+2560x1440 screen: Width=1224
+2560x1440 screen: Window-Maximized=true
 2560x1440 screen: XPosition=878
 2560x1440 screen: YPosition=245
-HDMI-1 eDP-1=eDP-1
+HDMI-1=HDMI-1
+HDMI-1 eDP-1=HDMI-1
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABMsAAAMIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVMAAAMJAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1=eDP-1

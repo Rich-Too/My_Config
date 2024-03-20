@@ -1,11 +1,13 @@
 [ExtractDialog]
 1707x960 screen: Height=640
 1707x960 screen: Width=1137
-DirHistory[$e]=$HOME/Downloads/,$HOME/Whatever/,$HOME/Desktop/
+2 screens: Height=640
+2 screens: Width=1137
+DirHistory[$e]=$HOME/Documents/xwechat_files/wxid_z2k7o9jqdjt322_2eb0/msg/file/2024-03/,$HOME/Downloads/,/media/richtoo/Soft/双系统/2024-2 因果推理论文_吕可伟/论文/需要提交的材料/,$HOME/Desktop/WebDevelopment/CodingSource/CSS_demo/,$HOME/Desktop/,$HOME/Desktop/期末展示/,$HOME/Desktop/2023-本科毕设/,$HOME/Software/,$HOME/Desktop/风暴历程/,$HOME/Whatever/
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME
-Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/Downloads/,file:$HOME/,file:$HOME/Whatever/
+Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/Downloads/,file:$HOME/,file:$HOME/Whatever/,file:$HOME/Software/,file:$HOME/Desktop/WebDevelopment/CodingSource/CSS_demo/,file:$HOME/Documents/xwechat_files/wxid_z2k7o9jqdjt322_2eb0/msg/file/2024-03/
 detailViewIconSize=16
 
 [KTextEditor Document]
@@ -123,23 +125,42 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
+1280x720 screen: Height=828
+1280x720 screen: Width=1280
+1280x720 screen: XPosition=0
+1280x720 screen: YPosition=424
 1707x960 screen: Height=540
 1707x960 screen: Width=1137
-1707x960 screen: XPosition=262
-1707x960 screen: YPosition=187
-State=AAAA/wAAAAD9AAAAAAAABHEAAAHuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+1707x960 screen: XPosition=308
+1707x960 screen: YPosition=225
+2 screens: Height=828
+2 screens: Width=1503
+2 screens: Window-Maximized=true
+2 screens: XPosition=88
+2 screens: YPosition=63
+2048x1152 screen: XPosition=522
+2048x1152 screen: YPosition=302
+HDMI-1=HDMI-1
+HDMI-1 eDP-1=eDP-1
+State=AAAA/wAAAAD9AAAAAAAABHEAAAHtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 eDP-1=eDP-1
-splitterSizes=757,379
+splitterSizes=758,378
 
 [Viewer]
 1707x960 screen: Height=828
-1707x960 screen: Width=1707
+1707x960 screen: Width=1663
 1707x960 screen: XPosition=0
 1707x960 screen: YPosition=61
+2 screens: Height=389
+2 screens: Width=921
+2 screens: XPosition=369
+2 screens: YPosition=302
+HDMI-1=HDMI-1
+HDMI-1 eDP-1=eDP-1
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABqsAAAMOAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAAAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAAAAAACAAAAAA==
+State=AAAA/wAAAAD9AAAAAAAABn8AAAMNAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAAAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAAAAAACAAAAAA==
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 eDP-1=eDP-1

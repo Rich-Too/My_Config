@@ -1,0 +1,16 @@
+[1]
+ActiveTab=0
+Urls[$e]=file:$HOME/Desktop/DL&RL/Mathmatical-Foundation-of-RL/Lecture slides/slidesForMyLectureVideos/L6-Stochastic approximation and stochastic gradient descent.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+2 screens: Window-Maximized=true
+ClassName=Shell
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAABQAAAAJ9AAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+
+[WindowProperties1][Toolbar mainToolBar]
+IconSize=16

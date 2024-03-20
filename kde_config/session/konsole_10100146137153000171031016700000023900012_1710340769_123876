@@ -1,0 +1,36 @@
+[1]
+Active=1
+Tabs=[{"Orientation":"Vertical","Widgets":[{"SessionRestoreId":1}]},{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":2}]}]
+
+[Number]
+NumberOfSessions=2
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/my conifg.profile
+RemoteTab=(%u) %H
+SessionGuid={fb16753c-93fd-41f3-acca-1a7416b23c87}
+TabColor=
+WorkingDir[$e]=/media/richtoo/Soft/DataSets/mimiciii&&mimiciv/files/mimiciii/1.4
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/my conifg.profile
+RemoteTab=(%u) %H
+SessionGuid={4f966fab-1e2d-4a4c-a240-f9d95d59150f}
+TabColor=
+WorkingDir[$e]=/media/richtoo/Soft/DataSets/mimiciii&&mimiciv/files/mimiciii/1.4
+
+[WindowProperties1]
+2048x1152 screen: Height=720
+2048x1152 screen: Width=1322
+2048x1152 screen: XPosition=463
+2048x1152 screen: YPosition=225
+ClassName=Konsole::MainWindow
+HDMI-1=HDMI-1
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAASkBAAAD+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAABjAEAAAMAAAUqAAAC0AAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=

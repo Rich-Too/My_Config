@@ -3,9 +3,14 @@ MenuBar=Disabled
 [$Version]
 update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
 
+[CompactMode]
+PreviewSize=64
+
 [FileDialogSize]
 1707x960 screen: Height=785
 1707x960 screen: Width=1172
+2 screens: Height=785
+2 screens: Width=1172
 
 [General]
 ConfirmClosingMultipleTabs=false
@@ -13,9 +18,6 @@ OpenExternallyCalledFolderInNewTab=true
 OpenNewTabAfterLastTab=true
 Version=202
 ViewPropsTimestamp=2023,8,7,13,41,2.274
-
-[IconsMode]
-PreviewSize=48
 
 [KFileDialog Settings]
 Places Icons Auto-resize=false
@@ -25,8 +27,12 @@ Recent URLs[$e]=file:$HOME/Downloads/GeoGebra-Linux-Portable-5-0-799-0/
 detailViewIconSize=16
 
 [KPropertiesDialog]
-1707x960 screen: Height=525
-1707x960 screen: Width=480
+1707x960 screen: Height=701
+1707x960 screen: Width=511
+2 screens: Height=513
+2 screens: Width=441
+2048x1152 screen: Height=688
+2048x1152 screen: Width=485
 
 [MainWindow]
 MenuBar=Disabled

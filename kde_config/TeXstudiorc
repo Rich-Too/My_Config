@@ -1,0 +1,8 @@
+[FileDialogSize]
+2 screens: Height=932
+2 screens: Width=1536
+
+[KFileDialog Settings]
+Recent Files[$e]=zjuthesis.tex,file:$HOME/Desktop/2023-本科毕设/essay/zjuthesis/zjuthesis.tex,file:$HOME/Desktop/2023-本科毕设/essay/zjuthesis/out/zjuthesis.pdf,file:///usr/bin/konsole
+Recent URLs[$e]=file:$HOME/Desktop/2023-本科毕设/essay/zjuthesis/,file:$HOME/Desktop/2023-本科毕设/essay/zjuthesis/body/,file:///usr/bin/,file:$HOME/,file:///usr/local/bin/,file:$HOME/Desktop/2023-本科毕设/essay/zjuthesis/out/,file:$HOME/Desktop/期末展示/LaTeXTemplates_journal-article_v2.0/Figures/,file:$HOME/Desktop/2023-本科毕设/essay/zjuthesis/body/undergraduate/proposal/review/
+detailViewIconSize=16

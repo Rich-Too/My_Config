@@ -1,0 +1,52 @@
+{
+    "bibitems": [
+    ],
+    "bibtexfiles": [
+    ],
+    "childdocs": [
+    ],
+    "filename": "/media/richtoo/Soft/双系统/2023-本科毕设/essay/zjuthesis/config/packages.tex",
+    "labels": [
+    ],
+    "modified": "Tue Jan 2 15:41:37 2024",
+    "packages": [
+        "#siunitx",
+        "#longtable",
+        "#multirow",
+        "#titlesec",
+        "#xparse",
+        "#graphicx",
+        "#algorithmic",
+        "#pdfpages",
+        "#float",
+        "#chngcntr",
+        "#enumitem",
+        "#amssymb",
+        "#hyperref",
+        "#nameref",
+        "     style=gb7714-2015,     gbcitelocal=chinese,       % gbpub=false,         % Uncomment if you do NOT want '[S.l. : s.n.]' in reference entries, GitHub Issue (#47)    % gbnamefmt=lowercase, % Uncomment if you do NOT want uppercase author names in reference entries, GitHub Issue (#23)#biblatex",
+        "#multido",
+        "#ulem",
+        "#etoolbox",
+        "#geometry",
+        "#calc",
+        "#makecell",
+        "#fancyhdr",
+        "#listings",
+        "#tocloft",
+        "#amsmath",
+        "chapter#algorithm",
+        "#color",
+        "#booktabs",
+        "#fontspec",
+        "#caption",
+        "#bookmark",
+        "#tabularx"
+    ],
+    "refs": [
+    ],
+    "toc": [
+    ],
+    "usercommands": [
+    ]
+}

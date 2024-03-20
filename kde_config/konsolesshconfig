@@ -1,2 +1,12 @@
 [Global plugin config]
 manageProfile=false
+
+[SSH Config][github.com]
+hostname=github.com
+identifier=github.com
+importedFromSshConfig=true
+port=443
+profileName=
+sshkey=
+useSshConfig=true
+username=

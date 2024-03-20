@@ -1,0 +1,27 @@
+{
+    "bibitems": [
+    ],
+    "bibtexfiles": [
+    ],
+    "childdocs": [
+    ],
+    "filename": "/home/richtoo/template_Article_French.tex",
+    "labels": [
+    ],
+    "modified": "Fri Dec 22 22:44:00 2023",
+    "packages": [
+        "french#latex-document",
+        "french#tex",
+        "T1#fontenc",
+        "a4paper#geometry",
+        "#babel",
+        "#lmodern",
+        "utf8#inputenc"
+    ],
+    "refs": [
+    ],
+    "toc": [
+    ],
+    "usercommands": [
+    ]
+}

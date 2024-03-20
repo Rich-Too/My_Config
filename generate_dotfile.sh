@@ -2,7 +2,7 @@
 # du -h --max-depth=1
 # exclude google-chrome weixin JetBrains clash_win sublime-text LarkShell QQ Code coc obsidian microsoft-edge DingTalk
 # 要排除的文件夹列表
-exclude_folders=("fcitx" "google-chrome" "weixin" "JetBrains" "clash_win" "sublime-text" "LarkShell" "QQ" "Code" "coc" "obsidian" "microsoft-edge" "DingTalk" "ibus")
+exclude_folders=("fcitx" "google-chrome" "weixin" "JetBrains" "clash_win" "sublime-text" "LarkShell" "QQ" "Code" "coc" "obsidian" "microsoft-edge" "DingTalk" "ibus" "bilibili" "Neo4j Desktop")
 exclude_files=()
 
 # 目标文件夹路径

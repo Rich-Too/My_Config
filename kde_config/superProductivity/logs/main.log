@@ -1,0 +1,9 @@
+[2023-12-15 13:11:12.959] [info]  { enabled: null, showDevTools: false, mode: 'bottom' }
+[2023-12-15 13:11:13.404] [info]  Saving backups to \backups
+[2023-12-15 13:11:14.271] [info]  No custom styles detected at /home/richtoo/.config/superProductivity/styles.css
+[2023-12-15 13:12:14.798] [info]  close, isQuiting: undefined
+[2023-12-15 13:12:14.801] [info]  Actions to wait for  [ 'FINISH_DAY_BEFORE_CLOSE_EFFECT' ]
+[2023-12-15 13:12:14.804] [info]  BEFORE_CLOSE_DONE FINISH_DAY_BEFORE_CLOSE_EFFECT []
+[2023-12-15 13:12:14.805] [info]  close, isQuiting: undefined
+[2023-12-15 13:12:14.806] [info]  close, isQuiting: true
+[2023-12-15 13:12:14.812] [info]  Quit after all windows being closed

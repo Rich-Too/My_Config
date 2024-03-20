@@ -1,0 +1,20 @@
+[1]
+ActiveTab=0
+Urls[$e]=file:$HOME/Desktop/DL&RL/LeeDL_Tutorial_v.1.1.1.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+1707x960 screen: Height=861
+1707x960 screen: Width=1707
+1707x960 screen: XPosition=0
+1707x960 screen: YPosition=28
+ClassName=Shell
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAABqsAAAMrAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+eDP-1=eDP-1
+
+[WindowProperties1][Toolbar mainToolBar]
+IconSize=16

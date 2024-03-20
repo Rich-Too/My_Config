@@ -1,0 +1,20 @@
+[1]
+ActiveTab=0
+Urls[$e]=\\0
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+2 screens: Height=970
+2 screens: Width=1893
+2 screens: XPosition=2560
+2 screens: YPosition=50
+ClassName=Shell
+HDMI-1 eDP-1=HDMI-1
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB2UAAAONAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+
+[WindowProperties1][Toolbar mainToolBar]
+IconSize=16

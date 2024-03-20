@@ -3,7 +3,11 @@ migrated=true
 
 [Plugins]
 appstreamEnabled=false
-baloosearchEnabled=true
+baloosearchEnabled=false
 browserhistoryEnabled=false
 calculatorEnabled=false
+locationsEnabled=false
+org.kde.activities2Enabled=false
+placesEnabled=false
 recentdocumentsEnabled=false
+webshortcutsEnabled=false

@@ -1,0 +1,18 @@
+showNewVersionIcon: true
+hideAfterStartup: false
+randomControllerPort: true
+runTimeFormat: "hh : mm : ss"
+trayOrders:
+  - - icon
+  - - status
+    - traffic
+    - text
+hideTrayIcon: false
+connShowProcess: true
+showTrayProxyDelayIndicator: true
+profileParsersText: >-
+  parsers: # array
+    - url: https://e.bbydy.org/api/v1/client/subscribe?token=527a5a23591f2eff8d090bbec0e8ab79
+      yaml:
+        prepend-rules:
+          - DOMAIN-SUFFIX,webofknowledge.com,DIRECT

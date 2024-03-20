@@ -3,7 +3,8 @@ _k_friendly_name=Activity Manager
 switch-to-activity-149aa237-df09-420e-90b1-5f6b3e081a71=none,none,Switch to activity "Default"
 
 [KDE Keyboard Layout Switcher]
-Switch to Next Keyboard Layout=none,none,Switch to Next Keyboard Layout
+Switch keyboard layout to English (US)=none,none,Switch keyboard layout to English (US)
+Switch to Next Keyboard Layout=none,Meta+Alt+K,Switch to Next Keyboard Layout
 _k_friendly_name=Keyboard Layout Switcher
 
 [kaccess]
@@ -53,6 +54,7 @@ ExposeClassCurrentDesktop=Meta+A,none,Toggle Present Windows (Window class on cu
 Increase Opacity=none,,Increase Opacity of Active Window by 5%
 Kill Window=Meta+Ctrl+Esc,Meta+Ctrl+Esc,Kill Window
 MinimizeAll=Meta+D,none,MinimizeAll
+Move Tablet to Next Output=none,none,Move the tablet to the next output
 MoveMouseToCenter=Meta+F6,Meta+F6,Move Mouse to Center
 MoveMouseToFocus=Meta+F5,Meta+F5,Move Mouse to Focus
 MoveZoomDown=none,none,Move Zoomed Area Downwards
@@ -125,7 +127,7 @@ Walk Through Windows of Current Application Alternative (Reverse)=none,,Walk Thr
 Window Above Other Windows=none,,Keep Window Above Others
 Window Below Other Windows=none,,Keep Window Below Others
 Window Close=Alt+F4,Alt+F4,Close Window
-Window Fullscreen=F11,,Make Window Fullscreen
+Window Fullscreen=none,,Make Window Fullscreen
 Window Grow Horizontal=none,,Expand Window Horizontally
 Window Grow Vertical=none,,Expand Window Vertically
 Window Lower=none,,Lower Window
@@ -197,13 +199,13 @@ Window to Screen 6=none,,Window to Screen 6
 Window to Screen 7=none,,Window to Screen 7
 _k_friendly_name=KWin
 view_actual_size=none,Meta+0,Zoom to Actual Size
-view_zoom_in=Meta++\tMeta+=,Meta++,Zoom In
+view_zoom_in=Meta++\tMeta+=,Meta+=,Zoom In
 view_zoom_out=Meta+-,Meta+-,Zoom Out
 
 [lattedock]
 _k_friendly_name=Latte Dock
 activate entry 1=Meta+E,Meta+1,Activate Entry 1
-activate entry 10=none,Meta+0,Activate Entry 10
+activate entry 10=Meta+X,Meta+0,Activate Entry 10
 activate entry 11=none,Meta+Z,Activate Entry 11
 activate entry 12=none,Meta+X,Activate Entry 12
 activate entry 13=none,Meta+C,Activate Entry 13
@@ -216,11 +218,16 @@ activate entry 19=none,Meta+.,Activate Entry 19
 activate entry 2=Meta+2,Meta+2,Activate Entry 2
 activate entry 3=Meta+G\tMeta+3,Meta+3,Activate Entry 3
 activate entry 4=Meta+4\tMeta+C,Meta+4,Activate Entry 4
-activate entry 5=Meta+5,Meta+5,Activate Entry 5
+activate entry 5=Meta+O\tMeta+5,Meta+5,Activate Entry 5
 activate entry 6=Meta+6\tMeta+W,Meta+6,Activate Entry 6
 activate entry 7=Meta+7\tMeta+1,Meta+7,Activate Entry 7
 activate entry 8=Meta+8,Meta+8,Activate Entry 8
 activate entry 9=Meta+Z,Meta+9,Activate Entry 9
+clear-history=none,none,Clear Clipboard History
+clipboard_action=Meta+Ctrl+X,Meta+Ctrl+X,Automatic Action Popup Menu
+cycleNextAction=none,none,Next History Item
+cyclePrevAction=none,none,Previous History Item
+edit_clipboard=none,none,Edit Contents…
 new instance for entry 1=Meta+Ctrl+1,Meta+Ctrl+1,New Instance for Entry 1
 new instance for entry 10=Meta+Ctrl+0,Meta+Ctrl+0,New Instance for Entry 10
 new instance for entry 11=none,Meta+Ctrl+Z,New Instance for Entry 11
@@ -240,9 +247,12 @@ new instance for entry 6=Meta+Ctrl+6,Meta+Ctrl+6,New Instance for Entry 6
 new instance for entry 7=Meta+Ctrl+7,Meta+Ctrl+7,New Instance for Entry 7
 new instance for entry 8=Meta+Ctrl+8,Meta+Ctrl+8,New Instance for Entry 8
 new instance for entry 9=Meta+Ctrl+9,Meta+Ctrl+9,New Instance for Entry 9
+repeat_action=Meta+Ctrl+R,Meta+Ctrl+R,Manually Invoke Action on Current Clipboard
 show latte global settings=none,Meta+W,Show Latte Global Settings
 show latte view=none,Meta+`,Show Latte Dock/Panel
 show view settings=none,Meta+A,Cycle Through Dock/Panel Settings Windows
+show-barcode=none,none,Show Barcode…
+show-on-mouse-pos=none,Meta+V,Show Items at Mouse Position
 
 [mediacontrol]
 _k_friendly_name=Media Controller
@@ -255,21 +265,14 @@ playpausemedia=Media Play,Media Play,Play/Pause media playback
 previousmedia=Media Previous,Media Previous,Media playback previous
 stopmedia=Media Stop,Media Stop,Stop media playback
 
-[org.flameshot.Flameshot.desktop]
-Capture=Meta+Shift+S,none,Take screenshot
-Configure=none,none,Configure
-Launcher=none,none,Open launcher
-_k_friendly_name=Flameshot
-_launch=none,none,Flameshot
-
 [org.kde.dolphin.desktop]
 _k_friendly_name=Dolphin
 _launch=none,Meta+E,Dolphin
 
 [org.kde.krunner.desktop]
-RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Run command on clipboard contents
+RunClipboard=none,Alt+Shift+F2,Run command on clipboard contents
 _k_friendly_name=KRunner
-_launch=Alt+Space\tSearch\tAlt+F2\tAlt+F1,Alt+Space\tAlt+F2\tSearch,KRunner
+_launch=Alt+Space,Alt+Space\tAlt+F2\tSearch,KRunner
 
 [org.kde.plasma.emojier.desktop]
 _k_friendly_name=Emoji Selector
@@ -305,6 +308,7 @@ activate widget 125=none,none,Activate Application Launcher Widget
 activate widget 145=none,none,Activate Application Launcher Widget
 activate widget 165=none,none,Activate Application Launcher Widget
 activate widget 166=none,none,Activate Global Menu Widget
+activate widget 192=none,none,Activate Digital Clock Widget
 activate widget 2=none,none,Activate Application Launcher Widget
 activate widget 24=none,none,Activate Application Launcher Widget
 activate widget 44=none,none,Activate Application Launcher Widget
@@ -327,6 +331,15 @@ stop current activity=none,Meta+S,Stop Current Activity
 switch to next activity=none,,Switch to Next Activity
 switch to previous activity=none,,Switch to Previous Activity
 toggle do not disturb=Meta+N,,Toggle do not disturb
+
+[shutter.desktop]
+Active=none,none,Capture the current active window
+Redo=none,none,Redo last screenshot
+Screen=none,none,Capture the entire screen
+Select=Meta+Shift+S,none,Capture an area of the screen
+Window=none,none,Select a window to capture
+_k_friendly_name=Shutter
+_launch=none,none,Shutter
 
 [systemsettings.desktop]
 _k_friendly_name=System Settings

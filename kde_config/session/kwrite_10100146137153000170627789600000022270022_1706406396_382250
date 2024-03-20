@@ -1,0 +1,62 @@
+[1]
+1707x960 screen: Height=600
+1707x960 screen: Width=1024
+1707x960 screen: XPosition=0
+1707x960 screen: YPosition=0
+Active ViewSpace=0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAIpAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAACq/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[1-Splitter 0]
+Children=1-ViewSpace 0
+Orientation=1
+Sizes=1022
+
+[1-ViewSpace 0]
+Count=0
+Documents=
+
+[General]
+Last Session=
+
+[Number]
+NumberOfWindows=1
+
+[Open Documents]
+Count=0
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/WebDevelopment/CodingSource/CSS_demo/react-tailwind-agency/yarn.lock
+File10[$e]=$HOME/.config/Typora/conf/conf.user.json
+File2[$e]=$HOME/Desktop/crawler_py/ZJU_Teacher_Spyder/ZJU_Teacher_crawling.py
+File3[$e]=$HOME/Desktop/CS224W/robots.txt
+File4[$e]=$HOME/Downloads/数院latex模板微调/chapters/ref.bib
+File5[$e]=/media/richtoo/Soft/双系统/2023-本科毕设/essay/zjuthesis/script/utils/word_count.sh
+File6[$e]=/media/richtoo/Soft/双系统/2023-本科毕设/essay/zjuthesis/word_count.sh
+File7[$e]=$HOME/.config/nvim/plugin/packer_compiled.lua
+File8[$e]=$HOME/Downloads/Neovim-Configuration-Tutorial-main/完整配置代码/nvim/lua/plugins/lsp.lua
+File9[$e]=$HOME/Desktop/2023-本科毕设
+Name1[$e]=yarn.lock
+Name10[$e]=conf.user.json
+Name2[$e]=ZJU_Teacher_crawling.py
+Name3[$e]=robots.txt
+Name4[$e]=ref.bib
+Name5[$e]=word_count.sh
+Name6[$e]=word_count.sh
+Name7[$e]=packer_compiled.lua
+Name8[$e]=lsp.lua
+Name9[$e]=2023-本科毕设
+
+[WindowProperties1]
+1707x960 screen: Height=600
+1707x960 screen: Width=1024
+1707x960 screen: XPosition=0
+1707x960 screen: YPosition=0
+ClassName=KateMainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABAAAAAIpAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAACq/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

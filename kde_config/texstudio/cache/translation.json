@@ -1,0 +1,36 @@
+{
+    "bibitems": [
+    ],
+    "bibtexfiles": [
+    ],
+    "childdocs": [
+    ],
+    "filename": "/media/richtoo/Soft/双系统/2023-本科毕设/essay/zjuthesis/body/undergraduate/proposal/translation/translation.tex",
+    "labels": [
+        "fig:figs2",
+        "fig:figs3",
+        "fig:figs1"
+    ],
+    "modified": "Wed Jan 3 17:55:19 2024",
+    "packages": [
+    ],
+    "refs": [
+    ],
+    "toc": [
+        "1#外文翻译#4",
+        "2#摘要#6",
+        "2#介绍#8",
+        "2#方法#63",
+        "3#研究设计和数据库#65",
+        "3#患者群体#73",
+        "3#排除标准#76",
+        "3#数据提取和预处理#101",
+        "3#建立计算模型#111",
+        "3#评估临床医生的动作#138",
+        "3#AI决策的估计#149",
+        "3#模型评估#164",
+        "2#数据集可用性#188"
+    ],
+    "usercommands": [
+    ]
+}

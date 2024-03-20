@@ -1,0 +1,14 @@
+15:14:21 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7890
+15:14:21 INF [API] listening addr=127.0.0.1:42509
+15:14:22 INF [Config] initial compatible provider name=自动选择
+15:14:22 INF [Config] initial compatible provider name=宝贝云
+15:14:22 INF [Config] initial compatible provider name=延迟最低
+15:14:22 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:45632 rAddr=api.github.com:443 proxy=DIRECT
+15:14:22 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:45628 rAddr=raw.githubusercontent.com:443 proxy=DIRECT
+15:14:22 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:45642 rAddr=zoteroproxycheck.s3.amazonaws.com:443 proxy=DIRECT
+15:14:24 INF [TCP] connected lAddr=127.0.0.1:45650 rAddr=ocsp.r2m01.amazontrust.com:80 mode=rule rule=DomainKeyword(amazon) proxy=宝贝云[剩余流量：986.64 GB]
+15:14:24 INF [TCP] connected lAddr=127.0.0.1:45666 rAddr=stream.zotero.org:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：986.64 GB]
+15:14:25 INF [TCP] connected lAddr=127.0.0.1:45670 rAddr=ocsp.r2m01.amazontrust.com:80 mode=rule rule=DomainKeyword(amazon) proxy=宝贝云[剩余流量：986.64 GB]
+15:14:25 INF [TCP] connected lAddr=127.0.0.1:45676 rAddr=api.zotero.org:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：986.64 GB]
+15:14:28 INF [TCP] connected lAddr=127.0.0.1:41894 rAddr=dav.jianguoyun.com:443 mode=rule rule=GeoIP(CN) proxy=DIRECT
+15:14:28 INF [TCP] connected lAddr=127.0.0.1:41884 rAddr=repo.zotero.org:443 mode=rule rule=Match() proxy=宝贝云[剩余流量：986.64 GB]

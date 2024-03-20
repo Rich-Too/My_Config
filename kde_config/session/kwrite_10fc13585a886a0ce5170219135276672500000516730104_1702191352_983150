@@ -1,0 +1,62 @@
+[1]
+2 screens: Height=536
+2 screens: Width=903
+2 screens: XPosition=253
+2 screens: YPosition=176
+Active ViewSpace=0
+HDMI-1 eDP-1=eDP-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA4cAAAHUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAACo/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[1-Splitter 0]
+Children=1-ViewSpace 0
+Orientation=1
+Sizes=895
+
+[1-ViewSpace 0]
+Count=0
+Documents=
+
+[General]
+Last Session=
+
+[Number]
+NumberOfWindows=1
+
+[Open Documents]
+Count=0
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/KL/QASystemOnMedicalKG(TongJi)/notebook_tutorials/medical_data.csv
+File10[$e]=$HOME/Desktop/DL&RL/learn-python-the-smart-way/4. Python 文件与模块.ipynb
+File2[$e]=$HOME/Desktop/2023-本科毕设/2 消化系统 参考/急性胃肠炎/急性胃肠炎-分类信息.csv
+File3[$e]=$HOME/Desktop/2023-本科毕设/2 消化系统 参考/急性胃肠炎/急性胃肠炎-基本信息.csv
+File4[$e]=$HOME/Desktop/2023-本科毕设/1 呼吸系统/变应性鼻炎/process.py
+File5[$e]=$HOME/Desktop/2023-本科毕设/1 呼吸系统/process_for_laststep.py
+File6[$e]=$HOME/.local/share/applications/org.gnome.Evince.desktop
+File7[$e]=$HOME/Desktop/2023-本科毕设/Code/data/1 呼吸系统/run_time.log
+File8[$e]=$HOME/Desktop/2023-本科毕设/Code/data/1 呼吸系统/run_time2.log
+File9[$e]=$HOME/.local/share/applications/WeChat.desktop
+Name1[$e]=medical_data.csv
+Name10[$e]=4. Python 文件与模块.ipynb
+Name2[$e]=急性胃肠炎-分类信息.csv
+Name3[$e]=急性胃肠炎-基本信息.csv
+Name4[$e]=process.py
+Name5[$e]=process_for_laststep.py
+Name6[$e]=org.gnome.Evince.desktop
+Name7[$e]=run_time.log
+Name8[$e]=run_time2.log
+Name9[$e]=WeChat.desktop
+
+[WindowProperties1]
+2 screens: Height=536
+2 screens: Width=903
+2 screens: XPosition=253
+2 screens: YPosition=176
+ClassName=KateMainWindow
+HDMI-1 eDP-1=eDP-1
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAA4cAAAHUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAACo/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

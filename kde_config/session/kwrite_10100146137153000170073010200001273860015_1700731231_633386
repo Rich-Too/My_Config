@@ -1,0 +1,82 @@
+[1]
+2 screens: Height=600
+2 screens: Width=1024
+2 screens: XPosition=0
+2 screens: YPosition=0
+Active ViewSpace=0
+HDMI-1 eDP-1=eDP-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAIqAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAIk/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[1-Splitter 0]
+Children=1-ViewSpace 0
+Orientation=1
+Sizes=1022
+
+[1-ViewSpace 0]
+Active View=file:///home/richtoo/Whatever/KDEHighDPI/x11.py
+Count=1
+Documents=file:///home/richtoo/Whatever/KDEHighDPI/x11.py
+View 0=file:///home/richtoo/Whatever/KDEHighDPI/x11.py
+
+[1-ViewSpace 0 file:///home/richtoo/Whatever/KDEHighDPI/x11.py]
+CursorColumn=51
+CursorLine=28
+Dynamic Word Wrap=true
+JumpList=
+TextFolding={"checksum":"bd9abb22e8b1194e80fa2d24b1442470eaa7b8dd","ranges":[]}
+ViMarks=
+
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+URL=file:///home/richtoo/Whatever/KDEHighDPI/x11.py
+
+[General]
+Last Session=
+
+[Number]
+NumberOfWindows=1
+
+[Open Documents]
+Count=1
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/WebDevelopment/CodingSource/ReactLearning/react_project/LICENSE
+File10[$e]=$HOME/Whatever/KDEHighDPI/x11.py
+File2[$e]=$HOME/Desktop/dotfiles/kde_config/latte/My Layout.layout.latte
+File3[$e]=$HOME/.config/latte/My Layout.layout.latte
+File4[$e]=$HOME/Desktop/dotfiles/kde_config/konsole_color/my conifg.profile
+File5[$e]=$HOME/Downloads/1.html
+File6[$e]=$HOME/Downloads/DiffIntFactorTriplet.rap
+File7[$e]=$HOME/Desktop/dotfiles/kde_config/clash/profiles/1696515011109.yml
+File8[$e]=$HOME/.config/clash/profiles/1695392410209.yml
+File9[$e]=$HOME/.config/Neo4j Desktop/Application/projects/project-97b55038-a6ae-4953-bbd2-401a3f7bb668/about-movies.neo4j-browser-guide
+Name1[$e]=LICENSE
+Name10[$e]=x11.py
+Name2[$e]=My Layout.layout.latte
+Name3[$e]=My Layout.layout.latte
+Name4[$e]=my conifg.profile
+Name5[$e]=1.html
+Name6[$e]=DiffIntFactorTriplet.rap
+Name7[$e]=1696515011109.yml
+Name8[$e]=1695392410209.yml
+Name9[$e]=about-movies.neo4j-browser-guide
+
+[WindowProperties1]
+2 screens: Height=600
+2 screens: Width=1024
+2 screens: XPosition=0
+2 screens: YPosition=0
+ClassName=KateMainWindow
+HDMI-1 eDP-1=eDP-1
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABAAAAAIqAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAIk/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

@@ -1,0 +1,72 @@
+[1]
+2560x1440 screen: Height=864
+2560x1440 screen: Width=1536
+2560x1440 screen: XPosition=0
+2560x1440 screen: YPosition=0
+Active ViewSpace=0
+HDMI-1=HDMI-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABgAAAAMnAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAADR/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[1-Splitter 0]
+Children=1-ViewSpace 0
+Orientation=1
+Sizes=1534
+
+[1-ViewSpace 0]
+Count=0
+Documents=
+
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+URL=
+
+[General]
+Last Session=
+
+[Number]
+NumberOfWindows=1
+
+[Open Documents]
+Count=1
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/DL&RL/LHY2022-SPRING-main/Hw01/fuckvim.py
+File10[$e]=$HOME/.local/gtk-3.0/gtk.css
+File2[$e]=$HOME/Desktop/DL&RL/LHY2022-SPRING-main/Hw01/ML2022Spring_HW1.ipynb
+File3[$e]=/media/richtoo/Backup Plus/physionet.org/robots.txt
+File4[$e]=/media/richtoo/Soft/DataSets/mimiciii&&mimiciv/files/unzip.sh
+File5[$e]=/media/richtoo/Soft/DataSets/mimiciii&&mimiciv/uncompress.py
+File6[$e]=/media/richtoo/Soft/DualSystem/Coding/loadGraphCSV.py
+File7[$e]=/media/richtoo/Soft/DualSystem/Coding/code/test_neo4j.py
+File8[$e]=/media/richtoo/Soft/DualSystem/Coding/code/test.py
+File9[$e]=$HOME/Software/Zotero7/zotero.desktop
+Name1[$e]=fuckvim.py
+Name10[$e]=gtk.css
+Name2[$e]=ML2022Spring_HW1.ipynb
+Name3[$e]=robots.txt
+Name4[$e]=unzip.sh
+Name5[$e]=uncompress.py
+Name6[$e]=loadGraphCSV.py
+Name7[$e]=test_neo4j.py
+Name8[$e]=test.py
+Name9[$e]=zotero.desktop
+
+[WindowProperties1]
+2560x1440 screen: Height=864
+2560x1440 screen: Width=1536
+2560x1440 screen: XPosition=0
+2560x1440 screen: YPosition=0
+ClassName=KateMainWindow
+HDMI-1=HDMI-1
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABgAAAAMnAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAADR/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

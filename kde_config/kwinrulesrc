@@ -1,2 +1,11 @@
 [$Version]
 update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[0e58d2f9-9238-434e-a2ed-c1ee6688d427]
+Description=Window settings for wemeetapp
+clientmachine=localhost
+title=wemeetapp
+titlematch=1
+types=257
+wmclass=wemeetapp
+wmclassmatch=1

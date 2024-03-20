@@ -3,3 +3,8 @@ update_info=kxkb.upd:remove-empty-lists,kxkb.upd:add-back-resetoptions,kxkb_vari
 
 [Layout]
 Model=acer_laptop
+LayoutList=us
+VariantList=
+DisplayNames=
+Use=true
+

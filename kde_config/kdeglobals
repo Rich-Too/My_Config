@@ -136,23 +136,20 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [DirSelect Dialog]
-DirSelectDialog Size=832,609
-History Items[$e]=file:$HOME/Downloads,file:$HOME/Pictures/wallpapers,file:$HOME/Pictures/Screenshots,file:$HOME/Software,file:$HOME/Documents/存档(hide)
+DirSelectDialog Size=824,608
+History Items[$e]=file:///media/richtoo/Soft/双系统/2023-本科毕设,file:$HOME/Software/CalibreLibrary,file:$HOME/Software,file:$HOME/Software,file:///media/richtoo/Soft/双系统/2023-本科毕设/essay/zjuthesis/out,file:$HOME/Documents/WeChat Files/wxid_z2k7o9jqdjt322/FileStorage/File,file:$HOME/Desktop/2023-本科毕设/essay/zjuthesis/out,file:$HOME/Desktop/2023-本科毕设/essay/zjuthesis/out,file:$HOME/Desktop/2023-本科毕设/essay/zjuthesis/out,file:$HOME/Whatever,file:$HOME/Downloads,file:$HOME/Pictures/wallpapers,file:$HOME/Pictures/Screenshots,file:$HOME/Software,file:$HOME/Documents/存档(hide)
 
 [General]
 BrowserApplication=google-chrome.desktop
-ColorScheme=WhiteSurAlt
 ColorSchemeHash=c927e190971e7f9c6a58b3e95e91910db5250872
-TerminalApplication=/opt/Hyper/hyper %U
-TerminalService=hyper.desktop
 XftAntialias=true
 XftHintStyle=hintmedium
 XftSubPixel=rgb
 fixed=DejaVu Sans Mono,13,-1,5,50,0,0,0,0,0
-font=Noto Sans CJK SC,12,-1,5,50,0,0,0,0,0
-menuFont=PingFang SC,11,-1,5,50,0,0,0,0,0
-smallestReadableFont=PingFang SC,11,-1,5,50,0,0,0,0,0
-toolBarFont=PingFang SC,11,-1,5,50,0,0,0,0,0
+font=Noto Sans CJK SC,11,-1,5,50,0,0,0,0,0
+menuFont=Noto Sans CJK SC,11,-1,5,50,0,0,0,0,0
+smallestReadableFont=Noto Sans CJK SC,9,-1,5,50,0,0,0,0,0
+toolBarFont=Noto Sans CJK SC,11,-1,5,50,0,0,0,0,0
 
 [KDE]
 LookAndFeelPackage=com.github.vinceliuice.WhiteSur
@@ -173,19 +170,20 @@ Show Inline Previews=true
 Show Preview=false
 Show Speedbar=true
 Show hidden files=false
-Sort by=Name
+Sort by=Date
 Sort directories first=true
 Sort hidden files last=false
-Sort reversed=true
-Speedbar Width=286
+Sort reversed=false
+Speedbar Width=265
 View Style=DetailTree
 
 [KScreen]
-ScaleFactor=1.5
-ScreenScaleFactors=eDP-1=1.5;HDMI-1=1.5;DP-1=1.5;DP-2=1.5;DP-3=1.5;DP-4=1.5;
+ScaleFactor=1.25
+ScreenScaleFactors=eDP-1=1.25;HDMI-1=1.25;DP-1=1.25;DP-2=1.25;DP-3=1.25;DP-4=1.25;
+XwaylandClientsScale=false
 
 [KShortcutsDialog Settings]
-Dialog Size=1137,540
+Dialog Size=1263,673
 
 [PreviewSettings]
 MaximumRemoteSize=0

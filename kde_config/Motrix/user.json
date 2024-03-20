@@ -8,13 +8,14 @@
 	"favorite-directories": [],
 	"hide-app-menu": true,
 	"history-directories": [
-		"/home/richtoo"
+		"/home/richtoo",
+		"/home/richtoo/Downloads"
 	],
 	"keep-seeding": false,
 	"keep-window-state": false,
 	"last-check-update-time": 0,
-	"last-sync-tracker-time": 1695895700273,
-	"locale": "en-US",
+	"last-sync-tracker-time": 1702616863949,
+	"locale": "zh-CN",
 	"log-level": "warn",
 	"new-task-show-downloading": true,
 	"no-confirm-before-delete-task": false,

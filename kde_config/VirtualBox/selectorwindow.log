@@ -1,0 +1,21 @@
+00:00:00.451765 VirtualBox GUI VM Selector Window 7.0.6_Ubuntu r155176 linux.amd64 (Jan 25 2023 11:16:26) release log
+00:00:00.451768 Log opened 2024-03-17T10:43:17.453463000Z
+00:00:00.451768 Build Type: release
+00:00:00.451773 OS Product: Linux
+00:00:00.451774 OS Release: 6.2.0-39-generic
+00:00:00.451775 OS Version: #40-Ubuntu SMP PREEMPT_DYNAMIC Tue Nov 14 14:18:00 UTC 2023
+00:00:00.451805 DMI Product Name: Swift SF314-512
+00:00:00.451812 DMI Product Version: V1.10
+00:00:00.451819 Firmware type: UEFI
+00:00:00.453795 Secure Boot: Disabled
+00:00:00.453876 Host RAM: 15687MB (15.3GB) total, 6462MB (6.3GB) available
+00:00:00.453882 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.453883 Process ID: 34510
+00:00:00.453883 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.453922 Qt version: 5.15.8
+00:00:00.455202 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.462160 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.462192 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.866217 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x21 x 1995x1131
+00:01:01.441288 GUI: UICommon: Handling aboutToQuit request..
+00:01:02.463051 GUI: UICommon: aboutToQuit request handled!

@@ -1,10 +1,11 @@
 [FileDialogSize]
 1707x960 screen: Height=640
 1707x960 screen: Width=1137
-2 screens: Height=480
-2 screens: Width=640
+2 screens: Height=687
+2 screens: Width=1128
+2048x1152 screen: Window-Maximized=true
 
 [KFileDialog Settings]
-Recent Files[$e]=3200101813-屠瑞奇-pwn专题二-attachment.zip,file:$HOME/Downloads/浙江大学现代教务管理系统.pdf,file:$HOME/Downloads/1-s2.0-S0933365722000276-main.pdf,file:$HOME/Downloads/trq_photo.jpeg,file:$HOME/Downloads/IIITD-ResumeLatexTemplate-master.zip,file:$HOME/Downloads/推荐免试攻读研究生学位申请表.pdf,file:$HOME/Desktop/垃圾报告/3200101813_屠瑞奇_实习报告.docx,file:$HOME/Desktop/垃圾报告/summary_trq.pptx,file:$HOME/Downloads/New Tab.html,file:$HOME/Documents/My-Wiki/README.md
-Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/Documents/My-Wiki/,file:$HOME/Downloads/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Desktop/垃圾报告/
+Recent Files[$e]=3200101813-屠瑞奇-pwn专题二-attachment.zip,file:$HOME/Desktop/ubuntu22.04 显卡驱动最简单的安装方法_ubuntu nvidia驱动525安装-CSDN博客.pdf,file:$HOME/Desktop/ubuntu22.04安装显卡驱动+cuda+cudnn_ubuntu22.04安装cudnn-CSDN博客.pdf,file:$HOME/Downloads/2401.05654.pdf,file:$HOME/Downloads/7625ff22-4263-4e33-a013-e31b910fa63a.csv,file:$HOME/Downloads/GRL_Book.pdf,file:$HOME/Desktop/CS224W/GRL_Book.pdf,file:$HOME/Downloads/校级优秀毕业生申请.doc,file:$HOME/Downloads/sfz.jpg,file:$HOME/Downloads/yo4dhpdx.gif,file:$HOME/Downloads/trq_photo.jpeg,file:$HOME/Documents/My-Wiki/README.md
+Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/Documents/My-Wiki/,file:$HOME/Downloads/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Desktop/CS224W/
 detailViewIconSize=16

@@ -1,0 +1,109 @@
+## Init & Start
+
+`systemctl start mysql`  启动 mysql 服务
+
+> `systemctl` 会在 `/etc/systemd/system/` 和 `/lib/systemd/system/` 目录下寻找 service 服务
+
+`sudo cat /etc/mysql/debian.cnf`  打印 Linux 默认用户名和密码
+
+```mysql
+mysql -u root -p   -- 登录本地MySQL服务， -u 指定⽤户名， -p： 使⽤密码登录
+ALTER user 'root'@'localhost'
+IDENTIFIED WITH mysql_native_password BY '123456';
+FLUSH PRIVILEGES;  -- 修改密码
+\! clear  -- 清除对话
+```
+
+查询 MySQL 服务器当前配置中与端口相关的变量：
+
+- `SHOW VARIABLES LIKE '%port%  -- `
+
+查询 root 用户的权限：
+
+- `select user, host from user where user='root'`
+
+- ```mysql
+  +------+-----------+
+  | user | host      |
+  +------+-----------+
+  | root | localhost |
+  +------+-----------+
+  -- localhost 表示只能在本地访问
+  UPDATE user SET host='%'
+  WHERE user='root' AND host='localhost';
+  FLUSH PRIVILEGES;  -- 修改 root ⽤户权限允许远程登录
+  ```
+
+配置文件中的监听地址（默认情况下，mysql 只监听本地的 IP 地址）：
+
+- `/etc/mysql/mysql.conf.d/mysqld.conf` 两个bind-address改为0.0.0.0
+
+**MySQL-Shell**
+
+**![image-20231202172734375](.static/image-20231202172734375.png)**
+
+## SQL Sheet
+
+### Classification
+
+DDL（Data Definition Language）
+
+- ⽤来定义数据库对象，包括数据库、表、列等。
+- 相关关键字包括：CREATE、DROP、ALTER 等。
+
+DML（Data Manipulation Language）
+
+- ⽤来对数据库中的数据进⾏增删改操作。
+- 相关关键字包括：INSERT、DELETE、UPDATE 等。
+
+DQL（Data Query Language）
+
+- ⽤来查询数据库表中的记录/数据。
+- 相关关键字包括：SELECT、WHERE 等。
+
+DCL（Data Control Language）
+
+- ⽤来定义数据库的访问权限和安全级别。
+
+- 相关关键字包括：GRANT、REVOKE 等。
+
+TCL（Transaction Control Language）
+
+- ⽤来管理事务。
+- 相关关键字包括：COMMIT、ROLLBACK 等。
+
+## SQL
+
+增、改、删
+
+````MYSQL
+DROP DATABASE IF EXISTS egg;
+CREATE DATABASE egg;
+USE egg;
+
+DROP TABLE IF EXISTS eggs_record;
+CREATE TABLE eggs_record(
+	id INT PRIMARY KEY AUTO_INCREMENT,
+    egg_name VARCHAR(10),
+    sold DATE
+);
+
+INSERT INTO	egg.eggs_record VALUES 
+	(1, 'jidan', '2020-01-01'),
+    (2, 'niudan', '2020-01-02'),
+    (DEFAULT, 'guidan', '2020-01-03')
+    
+-- 增加列
+ALTER TABLE egg.eggs_record
+ADD stock INT NULL; 
+
+-- 更新
+UPDATE egg.eggs_record
+SET sold = '2022-06-06'
+WHERE id = 3;
+
+-- 删除某行
+DELETE FROM egg.eggs_record
+WHERE id = 1;
+````
+

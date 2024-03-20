@@ -1,0 +1,20 @@
+[1]
+ActiveTab=0
+Urls[$e]=file:$HOME/Downloads/drl_v5.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+2 screens: Height=861
+2 screens: Width=2987
+2 screens: XPosition=0
+2 screens: YPosition=28
+ClassName=Shell
+HDMI-1 eDP-1=eDP-1
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAC6sAAAMrAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+
+[WindowProperties1][Toolbar mainToolBar]
+IconSize=16
